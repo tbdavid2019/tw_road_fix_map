@@ -97,11 +97,11 @@ export const parseTaipeiData = (item) => {
 
   const result = {
     city: '台北市',
-    title: properties[taipeiKeyMap.location] || '未知工程',
+    title: properties[taipeiKeyMap.projectName] || properties[taipeiKeyMap.projectPurpose] || '道路工程',
     distriction: properties[taipeiKeyMap.district] || '未知區域',
     address: properties[taipeiKeyMap.location] || '未知地址',
     pipeType: '道路施工',
-    constructionType: '道路工程',
+    constructionType: properties[taipeiKeyMap.projectPurpose] || '道路工程',
     workingState: '是',
     date: {
       start: startDate,
@@ -111,7 +111,7 @@ export const parseTaipeiData = (item) => {
     licenseNumber: 'N/A',
     applicant: properties[taipeiKeyMap.contractorName] || 'N/A',
     contractor: {
-      name: properties[taipeiKeyMap.contractorName] || 'N/A',
+      name: properties[taipeiKeyMap.contractorCompany] || properties[taipeiKeyMap.contractorName] || 'N/A',
       phone: 'N/A',
     },
     personInCharge: {

@@ -22,12 +22,14 @@ export const taichungKeyMap = Object.freeze({
 });
 
 export const taipeiKeyMap = Object.freeze({
-  projectName: "Addr",
+  projectPurpose: "NPurp",  // 工程目的
+  projectName: "NPurp",     // 暫時使用工程目的作為工程名稱
   startDate: "Cb_Da",
-  endDate: "Ce_Da",
+  endDate: "Ce_Da", 
   district: "C_Name",
-  location: "Addr",
+  location: "Addr",         // 地址
   contractorName: "App_Name",
+  contractorCompany: "Tc_Na", // 承包商公司
   x: "X",
   y: "Y",
 });
