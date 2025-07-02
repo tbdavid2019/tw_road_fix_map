@@ -1,6 +1,6 @@
 {
   "name": "tw-road-fix-map",
-  "homepage": "https://TKaiC666.github.io/TW_road_fix_map",
+  "homepage": "https://tbdavid2019.github.io/tw_road_fix_map",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,6 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "eslint-plugin-react-perf": "^3.3.0",
-    "gh-pages": "^3.2.3",
     "proj4": "^2.19.5",
     "react": "^17.0.2",
     "react-datepicker": "^4.1.1",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

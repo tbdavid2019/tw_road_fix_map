@@ -102,21 +102,38 @@ export const fetchTaipeiData = async (url) => {
     
     // 備用方案：使用不同的 CORS 代理
     const proxies = [
-      'https://thingproxy.freeboard.io/fetch/',
-      'https://proxy.cors.sh/',
-      'https://cors.bridged.cc/'
+      'https://api.allorigins.win/get?url=',
+      'https://corsproxy.io/?',
+      'https://cors-anywhere.herokuapp.com/'
     ];
     
     for (const proxy of proxies) {
       try {
         console.log(`🔄 嘗試代理: ${proxy}`);
-        const proxyUrl = proxy + encodeURIComponent(url);
-        const response = await fetch(proxyUrl);
+        let proxyUrl;
+        let response;
         
-        if (response.ok) {
-          const data = await response.json();
-          console.log('✅ 台北市備用方案成功');
-          return data;
+        if (proxy.includes('allorigins')) {
+          // allorigins 需要特殊處理
+          proxyUrl = proxy + encodeURIComponent(url);
+          response = await fetch(proxyUrl);
+          if (response.ok) {
+            const result = await response.json();
+            if (result.contents) {
+              const data = JSON.parse(result.contents);
+              console.log('✅ 台北市備用方案成功 (allorigins)');
+              return data;
+            }
+          }
+        } else {
+          // 其他代理服務
+          proxyUrl = proxy + encodeURIComponent(url);
+          response = await fetch(proxyUrl);
+          if (response.ok) {
+            const data = await response.json();
+            console.log('✅ 台北市備用方案成功');
+            return data;
+          }
         }
       } catch (proxyError) {
         console.log(`❌ 代理失敗: ${proxy}`, proxyError.message);
