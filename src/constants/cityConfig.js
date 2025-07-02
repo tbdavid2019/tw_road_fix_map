@@ -1,15 +1,16 @@
-import { fetchTaichungDataWithPagination, simpleFetch, fetchTaipeiData } from '../lib/dataFetchers';
+import { simpleFetch, fetchTaipeiData } from '../lib/dataFetchers';
 import { parseTaichungData, parseTaipeiData, parseKaohsiungData } from '../lib/dataParsers';
 import { taichungKeyMap, taipeiKeyMap, kaohsiungKeyMap } from '../constants/keyMaps';
 
 export const cityConfig = {
   taichung: {
     name: '台中市',
+    // 直接下載 JSON 檔案，不需要分頁參數
     apiUrl: 'https://datacenter.taichung.gov.tw/swagger/OpenData/d5adb71a-00bb-4573-b67e-ffdccfc7cd27',
     keyMap: taichungKeyMap,
-    fetcher: fetchTaichungDataWithPagination,
+    fetcher: fetchTaipeiData, // 改用直接檔案抓取，類似台北市
     parser: parseTaichungData,
-    isDisabled: true, // 暫時禁用台中
+    isDisabled: false, // 啟用台中市資料
   },
   taipei: {
     name: '台北市',
@@ -17,6 +18,7 @@ export const cityConfig = {
     keyMap: taipeiKeyMap,
     fetcher: fetchTaipeiData,
     parser: parseTaipeiData,
+    isDisabled: false, // 啟用台北市資料
   },
   kaohsiung: {
     name: '高雄市',
@@ -24,5 +26,6 @@ export const cityConfig = {
     keyMap: kaohsiungKeyMap,
     fetcher: simpleFetch,
     parser: parseKaohsiungData,
+    isDisabled: true, // 暫時停用高雄市資料（CORS 問題）
   }
 };

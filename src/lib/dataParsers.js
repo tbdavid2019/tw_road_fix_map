@@ -4,66 +4,82 @@ import { convertTWD97ToWGS84 } from './coordinateConverter';
 // --- Data Parsers for each city ---
 
 export const parseTaichungData = (data) => {
-  const convertStringCoor2Num = (lat, lng) => ({
-    lat: Number(lat),
-    lng: Number(lng),
-  });
-
+  console.log('🏙️ 台中市解析單個項目:', data);
+  
   const splitPolygonData = (polygon) => {
+    if (!polygon) return null;
     const POLYGON_PATTERN = /^POLYGON\(\(.*\)\)$/;
-    if (!polygon || !POLYGON_PATTERN.test(polygon.replace(/\s/g, ''))) return null;
+    if (!POLYGON_PATTERN.test(polygon.replace(/\s/g, ''))) return null;
     const POLYGON_PREFIX = "POLYGON((";
     const POLYGON_SUFFIX = "))";
     const COMMA = ",";
-    return polygon
-      .replace(/\s/g, '')
-      .split(POLYGON_PREFIX)[1]
-      .split(POLYGON_SUFFIX)[0]
-      .split(COMMA)
-      .map((coordinate) => {
-        const TAICHUNG_LATITUDE = "24.";
-        const [lngString, wrongLatString] = coordinate.split(TAICHUNG_LATITUDE);
-        const latString = TAICHUNG_LATITUDE + wrongLatString;
-        return { lat: Number(latString), lng: Number(lngString) };
-      });
+    try {
+      return polygon
+        .replace(/\s/g, '')
+        .split(POLYGON_PREFIX)[1]
+        .split(POLYGON_SUFFIX)[0]
+        .split(COMMA)
+        .map((coordinate) => {
+          const TAICHUNG_LATITUDE = "24.";
+          const [lngString, wrongLatString] = coordinate.split(TAICHUNG_LATITUDE);
+          const latString = TAICHUNG_LATITUDE + wrongLatString;
+          return { lat: Number(latString), lng: Number(lngString) };
+        });
+    } catch (error) {
+      console.log('❌ 台中市多邊形解析錯誤:', error);
+      return null;
+    }
   };
 
-  const parseDate = (dateStr) => ({
-    year: Number(dateStr.substring(0, 3)) + 1911,
-    month: Number(dateStr.substring(3, 5)),
-    day: Number(dateStr.substring(5)),
-  });
+  const parseDate = (dateStr) => {
+    console.log('📅 台中市解析日期:', dateStr);
+    if (!dateStr || dateStr.length !== 7) return { year: 2025, month: 7, day: 2 };
+    const year = Number(dateStr.substring(0, 3)) + 1911;
+    const month = Number(dateStr.substring(3, 5));
+    const day = Number(dateStr.substring(5));
+    return { year, month, day };
+  };
 
-  const coordinate = convertStringCoor2Num(data[taichungKeyMap.lat], data[taichungKeyMap.lng]);
+  // 座標轉換：台中市使用 TWD97，需要轉為 WGS84
+  const x = Number(data[taichungKeyMap.lng]);
+  const y = Number(data[taichungKeyMap.lat]);
+  console.log('🗺️ 台中市原始坐標 (TWD97):', { x, y });
+  
+  const { lat, lng } = convertTWD97ToWGS84(x, y);
+  console.log('🌍 台中市轉換後坐標 (WGS84):', { lat, lng });
 
-  return {
+  const result = {
     city: '台中市',
-    title: data[taichungKeyMap.projectName],
-    distriction: data[taichungKeyMap.district],
-    address: data[taichungKeyMap.location],
-    pipeType: data[taichungKeyMap.pipeType],
-    constructionType: data[taichungKeyMap.caseType],
-    workingState: data[taichungKeyMap.isStarted],
+    title: data[taichungKeyMap.projectName] || '道路工程',
+    distriction: data[taichungKeyMap.district] || '未知區域',
+    address: data[taichungKeyMap.location] || '未知地址',
+    pipeType: data[taichungKeyMap.pipeType] || '道路施工',
+    constructionType: data[taichungKeyMap.caseType] || '道路工程',
+    workingState: data[taichungKeyMap.isStarted] || '未知',
     date: {
       start: parseDate(data[taichungKeyMap.startDate]),
       end: parseDate(data[taichungKeyMap.endDate]),
     },
-    applicationNumber: data[taichungKeyMap.applicationId],
-    licenseNumber: data[taichungKeyMap.permitId],
-    applicant: data[taichungKeyMap.applicantUnit],
+    applicationNumber: data[taichungKeyMap.applicationId] || 'N/A',
+    licenseNumber: data[taichungKeyMap.permitId] || 'N/A',
+    applicant: data[taichungKeyMap.applicantUnit] || 'N/A',
     contractor: {
-      name: data[taichungKeyMap.contractorName],
-      phone: data[taichungKeyMap.contractorPhone],
+      name: data[taichungKeyMap.contractorName] || 'N/A',
+      phone: data[taichungKeyMap.contractorPhone] || 'N/A',
     },
     personInCharge: {
       name: data[taichungKeyMap.contactName] ? data[taichungKeyMap.contactName].substring(0, 1) + "◯◯" : 'N/A',
-      phone: data[taichungKeyMap.contactPhone],
+      phone: data[taichungKeyMap.contactPhone] || 'N/A',
     },
     coordinate: {
-      ...coordinate,
+      lat,
+      lng,
       polygon: splitPolygonData(data[taichungKeyMap.geometry]),
     },
   };
+  
+  console.log('✨ 台中市解析結果:', result);
+  return result;
 };
 
 export const parseTaipeiData = (item) => {

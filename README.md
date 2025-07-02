@@ -5,6 +5,16 @@ https://github.com/TKaiC666/Taichung_Road_Construction_Map
 
 
 
+
+```
+# 完整的部署流程
+npm run build    # 建置 production 版本
+npm run deploy   # 自動執行 predeploy (再次 build) + 部署到 gh-pages
+
+# 或者直接一步到位
+npm run deploy   # 會自動先 build 再 deploy
+```
+
 🚧 即時顯示台灣各城市道路施工狀況的互動式地圖 | Real-time interactive map showing road construction status across Taiwan cities
 
 ## 專案狀態 Project Status

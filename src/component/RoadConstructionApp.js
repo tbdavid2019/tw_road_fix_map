@@ -131,6 +131,16 @@ const RoadConstructionApp = () => {
           console.log(`🏭 高雄市 Data 數量:`, rawData?.Data?.length || 0);
           parsedData = city.parser(rawData);
         }
+        // Taichung data is a direct array
+        else if (city.name === '台中市') {
+          console.log(`🏘️ 台中市資料長度:`, rawData?.length || 0);
+          if (Array.isArray(rawData)) {
+            parsedData = rawData.map(city.parser);
+          } else {
+            console.log('⚠️ 台中市資料格式異常，跳過解析');
+            parsedData = [];
+          }
+        }
         // For other cities, map through the array
         else {
           console.log(`🏘️ ${city.name} 資料長度:`, rawData?.length || 0);

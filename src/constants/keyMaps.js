@@ -3,8 +3,8 @@
 export const taichungKeyMap = Object.freeze({
   applicationId: "申請書編號",
   permitId: "許可證編號",
-  startDate: "核准起日期", // 核准起日
-  endDate: "核准迄日期", // 核准迄日
+  startDate: "核准起日", // 實際欄位名
+  endDate: "核准迄日", // 實際欄位名
   applicantUnit: "申請單位",
   projectName: "工程名稱",
   caseType: "案件類別",
@@ -16,8 +16,8 @@ export const taichungKeyMap = Object.freeze({
   contactPhone: "承辦人電話",
   contractorName: "廠商名稱",
   contractorPhone: "廠商電話",
-  lng: "經度", // 中心點X坐標
-  lat: "緯度", // 中心點Y坐標
+  lng: "中心點X坐標", // 實際欄位名
+  lat: "中心點Y坐標", // 實際欄位名
   geometry: "施工範圍坐標",
 });
 

@@ -2,30 +2,129 @@ import fetchApiData from "../lib/fetchApiData";
 
 // Fetcher for Taichung's paginated API
 export const fetchTaichungDataWithPagination = async (baseUrl) => {
+  console.log('🏙️ 台中市分頁抓取器開始:', baseUrl);
   let allData = [];
   let offset = 0;
-  const limit = 1000;
+  const limit = 100; // 先試試較小的 limit
   let hasMore = true;
 
-  while (hasMore) {
-    const url = `${baseUrl}?$format=json&limit=${limit}&offset=${offset}`;
-    try {
-      const data = await fetchApiData(url);
-      if (data && data.length > 0) {
-        allData = allData.concat(data);
-        if (data.length < limit) {
-          hasMore = false;
-        } else {
-          offset += limit;
+  while (hasMore && offset < 1000) { // 加個安全限制避免無限迴圈
+    // 嘗試不同的參數格式
+    const urlVariants = [
+      `${baseUrl}?$format=json&$top=${limit}&$skip=${offset}`,
+      `${baseUrl}?$format=json&limit=${limit}&offset=${offset}`,
+      `${baseUrl}?format=json&top=${limit}&skip=${offset}`,
+      `${baseUrl}?$format=json&$top=${limit}`,
+      `${baseUrl}?$format=json`,
+      `${baseUrl}.json?$top=${limit}&$skip=${offset}`,
+      `${baseUrl}.json`
+    ];
+    
+    console.log(`📡 台中市抓取第 ${offset / limit + 1} 頁，嘗試多種 URL 格式...`);
+    
+    let dataFound = false;
+    
+    for (let i = 0; i < urlVariants.length && !dataFound; i++) {
+      const url = urlVariants[i];
+      console.log(`🔍 嘗試 URL 格式 ${i + 1}:`, url);
+      
+      try {
+        // 先嘗試直接抓取
+        let data;
+        try {
+          data = await fetchApiData(url);
+          console.log(`✅ 台中市第 ${offset / limit + 1} 頁直接抓取成功，URL格式${i + 1}，資料數量:`, data?.length || 0);
+          if (data && data.length > 0) {
+            dataFound = true;
+          }
+        } catch (directError) {
+          console.log(`❌ 台中市直接抓取失敗，URL格式${i + 1}，嘗試 CORS 代理:`, directError.message);
+          
+          // 嘗試多個 CORS 代理
+          const proxies = [
+            'https://api.allorigins.win/get?url=',
+            'https://corsproxy.io/?'
+          ];
+          
+          let proxySuccess = false;
+          for (const proxy of proxies) {
+            try {
+              console.log(`🔄 台中市嘗試代理: ${proxy}`);
+              let proxyUrl;
+              let proxyResponse;
+              
+              if (proxy.includes('allorigins')) {
+                // allorigins 需要特殊處理
+                proxyUrl = proxy + encodeURIComponent(url);
+                proxyResponse = await fetch(proxyUrl);
+                if (proxyResponse.ok) {
+                  const result = await proxyResponse.json();
+                  console.log('🔍 AllOrigins 回應:', result);
+                  if (result.contents) {
+                    try {
+                      data = JSON.parse(result.contents);
+                      console.log(`✅ 台中市第 ${offset / limit + 1} 頁代理抓取成功 (allorigins)，URL格式${i + 1}，資料數量:`, data?.length || 0);
+                      if (data && data.length > 0) {
+                        proxySuccess = true;
+                        dataFound = true;
+                        break;
+                      }
+                    } catch (parseError) {
+                      console.log('❌ JSON 解析失敗:', parseError.message, result.contents?.substring(0, 200));
+                    }
+                  }
+                }
+              } else {
+                // 其他代理服務
+                proxyUrl = proxy + encodeURIComponent(url);
+                proxyResponse = await fetch(proxyUrl);
+                if (proxyResponse.ok) {
+                  data = await proxyResponse.json();
+                  console.log(`✅ 台中市第 ${offset / limit + 1} 頁代理抓取成功，URL格式${i + 1}，資料數量:`, data?.length || 0);
+                  if (data && data.length > 0) {
+                    proxySuccess = true;
+                    dataFound = true;
+                    break;
+                  }
+                }
+              }
+            } catch (proxyError) {
+              console.log(`❌ 台中市代理失敗: ${proxy}`, proxyError.message);
+              continue;
+            }
+          }
+          
+          if (proxySuccess && dataFound) {
+            break; // 跳出 URL 格式迴圈
+          }
         }
-      } else {
-        hasMore = false;
+        
+        if (dataFound) {
+          if (data && data.length > 0) {
+            allData = allData.concat(data);
+            if (data.length < limit) {
+              hasMore = false;
+            } else {
+              offset += limit;
+            }
+          } else {
+            hasMore = false;
+          }
+          break; // 跳出 URL 格式迴圈
+        }
+      } catch (error) {
+        console.error(`❌ 台中市第 ${offset / limit + 1} 頁抓取錯誤，URL格式${i + 1}:`, error);
+        continue; // 嘗試下一個 URL 格式
       }
-    } catch (error) {
-      console.error(`Error fetching Taichung data at offset ${offset}:`, error);
-      hasMore = false; // Stop on error
+    }
+    
+    if (!dataFound) {
+      console.log('❌ 所有 URL 格式都嘗試過了，停止抓取');
+      hasMore = false;
     }
   }
+  
+  console.log(`🎉 台中市所有資料抓取完成，總筆數:`, allData.length);
   return allData;
 };
 
