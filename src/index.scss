@@ -35,6 +35,25 @@ html,body{
     }
     .infoBlockContainer{
         margin-top: $infoBlock-gap;
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+        
+        &.minimized {
+            transform: translateX(-80%);
+            
+            .mobileToggleButton {
+                background: linear-gradient(135deg, $candyPink, $orange);
+                
+                &::before {
+                    border-right-color: $candyPink;
+                }
+                
+                &:hover {
+                    background: linear-gradient(135deg, $orange, $candyPink);
+                    right: -15px;
+                }
+            }
+        }
     }
     .closeButtonContainer{
         font-size: 20px;
@@ -44,89 +63,79 @@ html,body{
     .infoBlock{
         width: 100vw;
         padding-top: $padding;
-    }
-    .toolbarContainer{
-        width: calc(100% - #{$padding} * 2);
-        padding: 0 $padding;
-    }
-    .cardsList{
-        @supports (-webkit-touch-callout: none) {
-            /* CSS specific to iOS devices */ 
-            width: calc(100% - #{$padding} * 2);
-            padding: 0 $padding $padding;
-        }
-        @supports not (-webkit-touch-callout: none) {
-            /* CSS for other than iOS devices */ 
-            width: calc(100% - #{$padding} * 2 + 10px);
-            padding: 0 calc(#{$padding} - 10px) $padding $padding;
+        position: relative;
+        transition: all 0.3s ease-in-out;
+        
+        &.minimized {
+            .toolbarContainer,
+            .cardsListContainer {
+                opacity: 0;
+                pointer-events: none;
+            }
         }
     }
-    .selectors{
-        font-size: 16px !important;
-        &span{
-            padding: 7.5px 10px !important;
-        }
-        &select{
-            padding: 7.5px 10px !important;
-        }
-        &.dateSelect{
-            padding : 7.5px 10px !important;
-        }
-    }
-    .pagination{
+    .mobileToggleButton {
+        position: absolute;
+        top: 20px;
+        right: -25px;
+        transform: none;
+        background: linear-gradient(135deg, $navyBlue, $mintGreen);
+        color: white;
+        border: none;
+        border-radius: 0 15px 15px 0;
+        padding: 12px 8px;
+        cursor: pointer;
         display: flex;
-        gap: 15px;
-        .pageArrow{
-            flex: 1;
-            font-size: 20px;
-            // width: 50px !important;
-            line-height: 50px;
-        }
-        .pageElement{
-            flex: 2;
-            position: relative;
-            .selectArrow{
-                top: 0.25em;
-                right: 1.5em;
-            }
-            select{
-                font-size: 16px;
-                width: calc(100% - 22px);
-                line-height: 38px;
-                padding: 5px 10px;
-                border:1px solid $minor;
-                border-radius: 24px;
-                background-color: $white;
-                text-align-last: center;
-            }
-        }
-        span{
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        font-size: 10px;
+        z-index: 1001;
+        transition: all 0.3s ease-in-out;
+        box-shadow: 2px 2px 10px rgba(0,0,0,0.4);
+        min-height: 60px;
+        width: 30px;
+        
+        /* 讓按鈕稍微露出來，有個小三角形指示 */
+        &::before {
+            content: '';
             position: absolute;
-            text-align: center;
-            font-size: 1.5em;
-            width: calc(100% - 22px);
-            line-height: 50px;
-            pointer-events: none;
+            left: -5px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 0;
+            height: 0;
+            border-top: 8px solid transparent;
+            border-bottom: 8px solid transparent;
+            border-right: 8px solid $navyBlue;
         }
-        select{
-            color:white;
-            option{
-                color: black;
-            }
+        
+        i {
+            font-size: 16px;
+            margin-bottom: 2px;
         }
-        select, option{
-            -webkit-appearance: none;
+        
+        span {
+            font-size: 9px;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            font-weight: bold;
+            letter-spacing: 1px;
         }
-    }
-    .cardMini{
-        width: inherit;
-        font-size: 14px;
-        padding-right: 20px;
-        .date{
-            i{
-                padding: 0 10px;
-            }
+        
+        &:hover {
+            right: -20px;
+            background: linear-gradient(135deg, $mintGreen, $navyBlue);
+            box-shadow: 3px 3px 15px rgba(0,0,0,0.5);
+            transform: scale(1.05);
         }
+
+        &:active {
+            transform: scale(0.95);
+        }
+
+        /* 添加脈衝動畫來吸引注意 */
+        animation: buttonPulse 2s ease-in-out infinite;
     }
 }
 @media only screen and (min-width: 429px) {
@@ -1063,4 +1072,41 @@ html,body{
             background-color: $mintGreen-light;
         }
     }
+}
+
+/* 暫時讓縮放功能在所有尺寸都生效，用於測試 */
+.infoBlockContainer.minimized {
+    transform: translateX(-80%) !important;
+    transition: transform 0.3s ease-in-out !important;
+}
+
+.infoBlock.minimized .toolbarContainer,
+.infoBlock.minimized .cardsListContainer,
+.infoBlock.minimized .loading,
+.infoBlock.minimized .noContent {
+    opacity: 0 !important;
+    pointer-events: none !important;
+    transition: opacity 0.3s ease-in-out !important;
+}
+
+.mobileToggleButton {
+    position: absolute !important;
+    top: 20px !important;
+    right: -25px !important;
+    background: red !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 0 15px 15px 0 !important;
+    padding: 12px 8px !important;
+    cursor: pointer !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 4px !important;
+    font-size: 10px !important;
+    z-index: 9999 !important;
+    transition: all 0.3s ease-in-out !important;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.4) !important;
+    min-height: 60px !important;
+    width: 30px !important;
 }

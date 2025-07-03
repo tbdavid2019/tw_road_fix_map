@@ -9,6 +9,7 @@ const InfoBlock = (props)=>{
     const {closeInfoBlock, handleCloseClick, isMobile} = props;
     const [pageIndex, setPageIndex] = useState(0);
     const [countdown, setCountdown] = useState(10);
+    const [isMinimized, setIsMinimized] = useState(false); // 手機版縮小狀態
 
     // 倒數計時器
     useEffect(() => {
@@ -27,6 +28,11 @@ const InfoBlock = (props)=>{
             return () => clearInterval(timer);
         }
     }, [props.value, props.isLoading]);
+
+    // 手機版縮小/展開切換
+    const toggleMinimize = () => {
+        setIsMinimized(!isMinimized);
+    };
 
     let cardsNum = useMemo(()=>{
             let arr = [];
@@ -57,9 +63,35 @@ const InfoBlock = (props)=>{
 
     if(props.value === 'loading' && props.isLoading){
         return(
-            <div className={`infoBlockContainer`}>
-            <div className='infoBlock' style={{paddingTop:'0', backgroundColor:'#ececec'}}>
-                <div className='loading'>
+            <div 
+                className="infoBlockContainer"
+                style={{
+                    transform: isMinimized ? 'translateX(-80%)' : 'translateX(0)',
+                    transition: 'transform 0.3s ease-in-out'
+                }}
+            >
+            <div 
+                className={`infoBlock ${isMobile && isMinimized ? 'minimized' : ''}`} 
+                style={{
+                    paddingTop:'0', 
+                    backgroundColor:'#ececec',
+                    position: 'relative'
+                }}
+            >
+                {isMobile && (
+                    <div className='mobileToggleButton' onClick={toggleMinimize}>
+                        <i className={`fas ${isMinimized ? 'fa-expand' : 'fa-compress'}`}></i>
+                        <span>{isMinimized ? '展開' : '縮小'}</span>
+                    </div>
+                )}
+                <div 
+                    className='loading' 
+                    style={{
+                        opacity: isMinimized ? 0 : 1, 
+                        transition: 'opacity 0.3s',
+                        pointerEvents: isMinimized ? 'none' : 'auto'
+                    }}
+                >
                     <i className="fas fa-circle-notch fa-lg" style={{
                         animation: 'spin 2s linear infinite',
                         color: '#3498db'
@@ -114,9 +146,33 @@ const InfoBlock = (props)=>{
     }
     else if(props.value === null){
         return(
-            <div className='infoBlockContainer'>
-            <div className='infoBlock'>
-                <div className='noContent'>
+            <div 
+                className="infoBlockContainer"
+                style={{
+                    transform: isMinimized ? 'translateX(-80%)' : 'translateX(0)',
+                    transition: 'transform 0.3s ease-in-out'
+                }}
+            >
+            <div 
+                className={`infoBlock ${isMobile && isMinimized ? 'minimized' : ''}`}
+                style={{
+                    position: 'relative'
+                }}
+            >
+                {isMobile && (
+                    <div className='mobileToggleButton' onClick={toggleMinimize}>
+                        <i className={`fas ${isMinimized ? 'fa-expand' : 'fa-compress'}`}></i>
+                        <span>{isMinimized ? '展開' : '縮小'}</span>
+                    </div>
+                )}
+                <div 
+                    className='noContent' 
+                    style={{
+                        opacity: isMinimized ? 0 : 1, 
+                        transition: 'opacity 0.3s',
+                        pointerEvents: isMinimized ? 'none' : 'auto'
+                    }}
+                >
                     <div className='exclamationMark'><i className="fas fa-exclamation-triangle fa-lg"/></div>
                     <div>發生錯誤，請稍後在試</div>
                 </div>
@@ -126,10 +182,34 @@ const InfoBlock = (props)=>{
     }
     else if(props.length === 0){
         return(
-            <div className={`infoBlockContainer ${getCSSState(closeInfoBlock)}`}>
-            <div className='infoBlock'>
+            <div 
+                className={`infoBlockContainer ${getCSSState(closeInfoBlock)}`}
+                style={{
+                    transform: isMinimized ? 'translateX(-300px)' : 'translateX(0px)',
+                    transition: 'transform 0.3s ease-in-out'
+                }}
+            >
+            <div 
+                className={`infoBlock ${isMobile && isMinimized ? 'minimized' : ''}`}
+                style={{
+                    position: 'relative'
+                }}
+            >
                 <CloseButton handleCloseClick={handleCloseClick}/>
-                <div className='toolbarContainer'>
+                {isMobile && (
+                    <div className='mobileToggleButton' onClick={toggleMinimize}>
+                        <i className={`fas ${isMinimized ? 'fa-expand' : 'fa-compress'}`}></i>
+                        <span>{isMinimized ? '展開' : '縮小'}</span>
+                    </div>
+                )}
+                <div 
+                    className='toolbarContainer'
+                    style={{
+                        opacity: isMinimized ? 0 : 1,
+                        pointerEvents: isMinimized ? 'none' : 'auto',
+                        transition: 'opacity 0.3s ease-in-out'
+                    }}
+                >
                     <Selectors
                         options={props.option}
                         condition={props.condition}
@@ -140,7 +220,14 @@ const InfoBlock = (props)=>{
                         constructionsData={props.constructionsData}
                     />
                 </div>
-                <div className='cardsListContainer'>
+                <div 
+                    className='cardsListContainer'
+                    style={{
+                        opacity: isMinimized ? 0 : 1,
+                        pointerEvents: isMinimized ? 'none' : 'auto',
+                        transition: 'opacity 0.3s ease-in-out'
+                    }}
+                >
                 <div className='cardsList'>
                     <div className='noContent'>
                         沒有符合條件的資料
@@ -154,12 +241,35 @@ const InfoBlock = (props)=>{
     else{
         let pageBtns = Array.from({length: props.value.length},(_,index)=>index);
         return(
-            <div className={`infoBlockContainer ${getCSSState(closeInfoBlock)}`}>
+            <div 
+                style={{
+                    transform: isMinimized ? 'translateX(-300px)' : 'translateX(0px)',
+                    transition: 'transform 0.3s ease-in-out'
+                }}
+            >
             {/* <div className={`infoBlockContainer ${closeInfoBlock ? 'close':'open'}`}> */}
-            <div className='infoBlock'>
+            <div 
+                className='infoBlock'
+                style={{
+                    position: 'relative'
+                }}
+            >
                 <CloseButton handleCloseClick={handleCloseClick}
                 />
-                <div className='toolbarContainer'>
+                {isMobile && (
+                    <div className='mobileToggleButton' onClick={toggleMinimize}>
+                        <i className={`fas ${isMinimized ? 'fa-expand' : 'fa-compress'}`}></i>
+                        <span>{isMinimized ? '展開' : '縮小'}</span>
+                    </div>
+                )}
+                <div 
+                    className='toolbarContainer'
+                    style={{
+                        opacity: isMinimized ? 0 : 1,
+                        pointerEvents: isMinimized ? 'none' : 'auto',
+                        transition: 'opacity 0.3s ease-in-out'
+                    }}
+                >
                     <Selectors
                         options={props.option}
                         condition={props.condition}
@@ -170,7 +280,14 @@ const InfoBlock = (props)=>{
                         constructionsData={props.constructionsData}
                     />
                 </div>
-                <div className='cardsListContainer'>
+                <div 
+                    className='cardsListContainer'
+                    style={{
+                        opacity: isMinimized ? 0 : 1,
+                        pointerEvents: isMinimized ? 'none' : 'auto',
+                        transition: 'opacity 0.3s ease-in-out'
+                    }}
+                >
                 <div className='cardsList'>
                     <Pagination
                         pageBtns={pageBtns}
