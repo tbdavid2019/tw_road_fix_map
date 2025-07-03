@@ -22,7 +22,7 @@ npm run deploy   # 會自動先 build 再 deploy
 | 城市 City | 狀態 Status | 說明 Description |
 |-----------|-------------|------------------|
 | ✅ 台北市 Taipei | **已完成 Completed** | 即時資料抓取正常運作 Real-time data fetching working |
-| 🚧 台中市 Taichung | **進行中 In Progress** | API 整合開發中 API integration in development |
+| ✅ 台中市 Taichung | **已完成 Completed** | 即時資料抓取正常運作，已整合4160筆施工資料 Real-time data fetching working with 4160 construction records |
 | 🚧 高雄市 Kaohsiung | **進行中 In Progress** | CORS 問題解決中 Resolving CORS issues |
 
 ## 功能特色 Features

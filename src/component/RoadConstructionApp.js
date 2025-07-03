@@ -136,6 +136,7 @@ const RoadConstructionApp = () => {
           console.log(`🏘️ 台中市資料長度:`, rawData?.length || 0);
           if (Array.isArray(rawData)) {
             parsedData = rawData.map(city.parser);
+            console.log(`✨ 台中市解析後資料數量:`, parsedData.length);
           } else {
             console.log('⚠️ 台中市資料格式異常，跳過解析');
             parsedData = [];
