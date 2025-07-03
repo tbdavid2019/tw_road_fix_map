@@ -69,20 +69,20 @@ const Card = (props) => {
             <div>{data.distriction + data.address}</div>
           </div>
         </div>
-        <div className="card-action-row" style={{display:'flex',gap:'28px',justifyContent:'flex-end',margin:'0'}}>
+        <div className="card-action-row">
           {data.coordinate.lat !== 0 && data.coordinate.lat !== 0 && (
-            <div className="card-action-btn" onClick={handleLocationData} style={{display:'flex',flexDirection:'column',alignItems:'center',cursor:'pointer'}}>
-              <div className="card-action-circle" style={{background:'#17909c',width:'60px',height:'60px',borderRadius:'50%',display:'flex',alignItems:'center',justifyContent:'center',marginBottom:'8px',boxShadow:'0 2px 8px #e0e0e0'}}>
+            <div className="card-action-btn" onClick={handleLocationData}>
+              <div className="card-action-circle">
                 <img src={process.env.PUBLIC_URL + "/position.png"} alt="定位" style={{width:'28px',height:'28px'}} />
               </div>
-              <span className="card-action-label" style={{color:'#17909c',fontSize:'15px',fontWeight:500,letterSpacing:'2px'}}></span>
+              <span className="card-action-label"></span>
             </div>
           )}
-          <div className="card-action-btn" onClick={handleClick} style={{display:'flex',flexDirection:'column',alignItems:'center',cursor:'pointer'}}>
-            <div className="card-action-circle" style={{background:'#17909c',width:'60px',height:'60px',borderRadius:'50%',display:'flex',alignItems:'center',justifyContent:'center',marginBottom:'8px',boxShadow:'0 2px 8px #e0e0e0'}}>
+          <div className="card-action-btn" onClick={handleClick}>
+            <div className="card-action-circle">
               <img src={process.env.PUBLIC_URL + "/information.png"} alt="更多資訊" style={{width:'28px',height:'28px'}} />
             </div>
-            <span className="card-action-label" style={{color:'#17909c',fontSize:'15px',fontWeight:500,letterSpacing:'2px'}}></span>
+            <span className="card-action-label"></span>
           </div>
         </div>
       </div>
