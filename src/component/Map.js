@@ -128,8 +128,8 @@ const Map = (props) => {
   ]);
 
   const mapCoverState = () => {
-    if (constructionsData === null) return "open";
-    else if (isMobile) {
+    // 移除資料載入時的地圖遮罩，讓使用者可以自由操作地圖
+    if (isMobile) {
       if (closeInfoBlock === null && makerMessage === null) return "close";
       else if (closeInfoBlock === false || makerMessage === true) return "open";
       else if (closeInfoBlock === true || makerMessage === false)

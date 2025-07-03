@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import Card from './Card';
 import CloseButton from './CloseButton';
 import Pagination from './Pagination';
@@ -8,6 +8,25 @@ const InfoBlock = (props)=>{
 
     const {closeInfoBlock, handleCloseClick, isMobile} = props;
     const [pageIndex, setPageIndex] = useState(0);
+    const [countdown, setCountdown] = useState(10);
+
+    // 倒數計時器
+    useEffect(() => {
+        if (props.value === 'loading' || props.isLoading) {
+            setCountdown(10);
+            const timer = setInterval(() => {
+                setCountdown(prev => {
+                    if (prev <= 1) {
+                        clearInterval(timer);
+                        return 0;
+                    }
+                    return prev - 1;
+                });
+            }, 1000);
+
+            return () => clearInterval(timer);
+        }
+    }, [props.value, props.isLoading]);
 
     let cardsNum = useMemo(()=>{
             let arr = [];
@@ -36,12 +55,58 @@ const InfoBlock = (props)=>{
         return state;
     }
 
-    if(props.value === 'loading'){
+    if(props.value === 'loading' || props.isLoading){
         return(
             <div className={`infoBlockContainer`}>
             <div className='infoBlock' style={{paddingTop:'0', backgroundColor:'#ececec'}}>
                 <div className='loading'>
-                    <i className="fas fa-circle-notch fa-lg"/>
+                    <i className="fas fa-circle-notch fa-lg" style={{
+                        animation: 'spin 2s linear infinite',
+                        color: '#3498db'
+                    }}/>
+                    <div style={{
+                        marginTop: '15px',
+                        textAlign: 'center'
+                    }}>
+                        <p style={{
+                            margin: '0 0 8px 0',
+                            color: '#555',
+                            fontSize: '16px',
+                            fontWeight: '500'
+                        }}>
+                            載入資料中，您可以先移動地圖...
+                        </p>
+                        <div style={{
+                            fontSize: '14px',
+                            color: '#888',
+                            background: 'linear-gradient(90deg, #3498db 0%, #2ecc71 50%, #3498db 100%)',
+                            backgroundSize: '200% auto',
+                            WebkitBackgroundClip: 'text',
+                            WebkitTextFillColor: 'transparent',
+                            fontWeight: 'bold',
+                            animation: 'textShimmer 2s ease-in-out infinite'
+                        }}>
+                            {countdown > 0 ? `預計還需 ${countdown} 秒` : '即將完成...'}
+                        </div>
+                        <div style={{
+                            width: '80%',
+                            height: '4px',
+                            backgroundColor: '#ddd',
+                            borderRadius: '2px',
+                            margin: '10px auto',
+                            overflow: 'hidden'
+                        }}>
+                            <div style={{
+                                height: '100%',
+                                backgroundColor: '#3498db',
+                                borderRadius: '2px',
+                                width: `${((10 - countdown) / 10) * 100}%`,
+                                transition: 'width 1s ease-in-out',
+                                background: 'linear-gradient(90deg, #3498db, #2ecc71)',
+                                animation: 'progressGlow 2s ease-in-out infinite'
+                            }}></div>
+                        </div>
+                    </div>
                 </div>
             </div>
             </div>

@@ -58,3 +58,24 @@
         opacity: 0;
     }
 }
+
+@keyframes progressGlow {
+    0% {
+        box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+    }
+    50% {
+        box-shadow: 0 0 15px rgba(52, 152, 219, 0.8);
+    }
+    100% {
+        box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+    }
+}
+
+@keyframes textShimmer {
+    0% {
+        background-position: -200% center;
+    }
+    100% {
+        background-position: 200% center;
+    }
+}

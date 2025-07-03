@@ -312,13 +312,42 @@ const RoadConstructionApp = () => {
 
   if (constructionsData === "loading" || constructionsData === null) {
     return (
-      <div>
+      <div className="container">
         <Map
           constructionsData={null}
           mapParameters={mapParameters}
           setMapParameters={setMapParameters}
+          closeInfoBlock={closeInfoBlock}
+          makerMessage={makerMessage}
+          isMobile={isMobile}
+          userLocation={userLocation}
         />
-        <InfoBlock value={constructionsData} />
+        <InfoButton
+          closeInfoBlock={closeInfoBlock}
+          makerMessage={makerMessage}
+          handleCloseClick={handleCloseClick}
+          handleMakerMessageClick={handleMakerMessageClick}
+          userLocation={userLocation}
+          mapParameters={mapParameters}
+          setMapParameters={setMapParameters}
+        />
+        <InfoBlock 
+          value={[]} 
+          length={0}
+          option={selectorsOptions}
+          condition={condition}
+          mapParameters={mapParameters}
+          closeInfoBlock={closeInfoBlock}
+          isMobile={isMobile}
+          handleCloseClick={handleCloseClick}
+          setCondition={setCondition}
+          setMapParameters={setMapParameters}
+          isLoading={true}
+        />
+        <MakerMessage
+          makerMessage={makerMessage}
+          handleMakerMessageClick={handleMakerMessageClick}
+        />
       </div>
     );
   } else {
