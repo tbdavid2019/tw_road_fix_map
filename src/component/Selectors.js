@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from "react";
 import DatePicker, { registerLocale } from 'react-datepicker';
 import zh_TW from 'date-fns/locale/zh-TW';
 import "react-datepicker/dist/react-datepicker.css";
+import { cityConfig } from '../constants/cityConfig';
 
 const Selectors = (props)=>{
 
@@ -34,10 +35,41 @@ const Selectors = (props)=>{
     }
 
     const clearMapInfo = ()=>{
+        // 只有在選擇特定地區時才切換地圖中心，保持使用者的地圖操作
+        const selectedDistrict = getSelectValue('districtionSelect');
+        console.log('🎯 目前選擇的地區:', selectedDistrict);
+        
+        let center = mapParameters.center; // 保持目前的地圖中心
+        let shouldChangeCenter = false;
+        
+        // 台北市的行政區
+        const taipeiDistricts = ['中正區', '大同區', '中山區', '松山區', '大安區', '萬華區', '信義區', '士林區', '北投區', '內湖區', '南港區', '文山區'];
+        // 台中市的行政區
+        const taichungDistricts = ['中區', '東區', '南區', '西區', '北區', '北屯區', '西屯區', '南屯區', '太平區', '大里區', '霧峰區', '烏日區', '豐原區', '后里區', '石岡區', '東勢區', '和平區', '新社區', '潭子區', '大雅區', '神岡區', '大肚區', '沙鹿區', '龍井區', '梧棲區', '清水區', '大甲區', '外埔區', '大安區'];
+        // 高雄市的行政區
+        const kaohsiungDistricts = ['新興區', '前金區', '苓雅區', '鹽埕區', '鼓山區', '旗津區', '前鎮區', '三民區', '楠梓區', '小港區', '左營區', '仁武區', '大社區', '岡山區', '路竹區', '阿蓮區', '田寮區', '燕巢區', '橋頭區', '梓官區', '彌陀區', '永安區', '湖內區', '鳳山區', '大寮區', '林園區', '鳥松區', '大樹區', '旗山區', '美濃區', '六龜區', '內門區', '杉林區', '甲仙區', '桃源區', '那瑪夏區', '茂林區', '茄萣區'];
+        
+        // 只有當選擇特定行政區時才切換地圖中心
+        if (selectedDistrict && selectedDistrict !== '全區域' && selectedDistrict !== '載入中' && selectedDistrict !== '全地區') {
+            if (taipeiDistricts.includes(selectedDistrict)) {
+                center = cityConfig.taipei.center;
+                shouldChangeCenter = true;
+                console.log('🏙️ 切換到台北市中心');
+            } else if (taichungDistricts.includes(selectedDistrict)) {
+                center = cityConfig.taichung.center;
+                shouldChangeCenter = true;
+                console.log('🏘️ 切換到台中市中心');
+            } else if (kaohsiungDistricts.includes(selectedDistrict)) {
+                center = cityConfig.kaohsiung.center;
+                shouldChangeCenter = true;
+                console.log('🏭 切換到高雄市中心');
+            }
+        }
+        
         setMapParameters({
-            center: {lat : 24.1512535, lng : 120.6617366},
+            center: center,
             polygon: null,
-            zoom: 12 + (Math.random() / 10000), //cluster的顯示問題
+            zoom: shouldChangeCenter ? 12 : mapParameters.zoom, // 只有切換城市時才重設縮放
             selectMarker: mapParameters.selectMarker,
             closeInfoWindow: true
         });

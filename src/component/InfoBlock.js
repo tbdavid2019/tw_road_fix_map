@@ -12,7 +12,7 @@ const InfoBlock = (props)=>{
 
     // 倒數計時器
     useEffect(() => {
-        if (props.value === 'loading' || props.isLoading) {
+        if (props.value === 'loading' && props.isLoading) {
             setCountdown(10);
             const timer = setInterval(() => {
                 setCountdown(prev => {
@@ -55,7 +55,7 @@ const InfoBlock = (props)=>{
         return state;
     }
 
-    if(props.value === 'loading' || props.isLoading){
+    if(props.value === 'loading' && props.isLoading){
         return(
             <div className={`infoBlockContainer`}>
             <div className='infoBlock' style={{paddingTop:'0', backgroundColor:'#ececec'}}>
@@ -137,6 +137,7 @@ const InfoBlock = (props)=>{
                         setCondition={props.setCondition}
                         setMapParameters={props.setMapParameters}
                         setPageIndex={setPageIndex}
+                        constructionsData={props.constructionsData}
                     />
                 </div>
                 <div className='cardsListContainer'>
@@ -166,6 +167,7 @@ const InfoBlock = (props)=>{
                         setPageIndex={setPageIndex}
                         mapParameters={props.mapParameters}
                         setMapParameters={props.setMapParameters}
+                        constructionsData={props.constructionsData}
                     />
                 </div>
                 <div className='cardsListContainer'>

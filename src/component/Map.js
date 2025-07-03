@@ -128,21 +128,19 @@ const Map = (props) => {
   ]);
 
   const mapCoverState = () => {
-    // 移除資料載入時的地圖遮罩，讓使用者可以自由操作地圖
-    if (isMobile) {
-      if (closeInfoBlock === null && makerMessage === null) return "close";
-      else if (closeInfoBlock === false || makerMessage === true) return "open";
-      else if (closeInfoBlock === true || makerMessage === false)
-        return "close";
-    } else {
-      return "close";
-    }
+    // 暫時總是返回 close，確保地圖可見
+    console.log('🗺️ Map Cover State: always close for debugging');
+    return "close";
   };
 
   return (
     <div className="mapContainer">
       <div id="mapCover" className={`mapCover ${mapCoverState()}`} />
-      <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAP_API_KEY}>
+      <LoadScript 
+        googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAP_API_KEY}
+        onLoad={() => console.log('🗺️ Google Maps API loaded successfully')}
+        onError={(error) => console.error('❌ Google Maps API failed to load:', error)}
+      >
         <GoogleMap
           mapContainerStyle={{
             width: "100%",
@@ -158,6 +156,7 @@ const Map = (props) => {
             disableDefaultUI: true,
           }}
           onLoad={(map) => {
+            console.log('🗺️ GoogleMap component loaded', map);
             handleMapOnLoad(map);
           }}
           onZoomChanged={changeGridSize}

@@ -163,12 +163,25 @@ const RoadConstructionApp = () => {
     const results = await Promise.allSettled(fetchPromises);
     console.log('🎯 Promise.allSettled 結果:', results);
 
-    const allData = results
+    let allData = results
       .filter(result => result.status === 'fulfilled')
       .flatMap(result => result.value);
 
+    // 重新排序資料，讓台北市的資料在前面
+    allData.sort((a, b) => {
+      if (a.city === '台北市' && b.city !== '台北市') return -1;
+      if (a.city !== '台北市' && b.city === '台北市') return 1;
+      if (a.city === '台中市' && b.city === '高雄市') return -1;
+      if (a.city === '高雄市' && b.city === '台中市') return 1;
+      return 0;
+    });
+
     console.log('📊 合併後的所有資料:', allData);
     console.log('📈 總資料筆數:', allData.length);
+    console.log('🏙️ 資料城市分佈:', allData.reduce((acc, item) => {
+      acc[item.city] = (acc[item.city] || 0) + 1;
+      return acc;
+    }, {}));
 
     if (allData.length === 0) {
         console.log('⚠️ 沒有資料，設定為 null');
@@ -310,7 +323,7 @@ const RoadConstructionApp = () => {
     setMakerMessage(_makerMessage);
   };
 
-  if (constructionsData === "loading" || constructionsData === null) {
+  if (constructionsData === "loading") {
     return (
       <div className="container">
         <Map
@@ -332,7 +345,7 @@ const RoadConstructionApp = () => {
           setMapParameters={setMapParameters}
         />
         <InfoBlock 
-          value={[]} 
+          value="loading"
           length={0}
           option={selectorsOptions}
           condition={condition}
@@ -343,6 +356,48 @@ const RoadConstructionApp = () => {
           setCondition={setCondition}
           setMapParameters={setMapParameters}
           isLoading={true}
+          constructionsData={null}
+        />
+        <MakerMessage
+          makerMessage={makerMessage}
+          handleMakerMessageClick={handleMakerMessageClick}
+        />
+      </div>
+    );
+  } else if (constructionsData === null) {
+    return (
+      <div className="container">
+        <Map
+          constructionsData={null}
+          mapParameters={mapParameters}
+          setMapParameters={setMapParameters}
+          closeInfoBlock={closeInfoBlock}
+          makerMessage={makerMessage}
+          isMobile={isMobile}
+          userLocation={userLocation}
+        />
+        <InfoButton
+          closeInfoBlock={closeInfoBlock}
+          makerMessage={makerMessage}
+          handleCloseClick={handleCloseClick}
+          handleMakerMessageClick={handleMakerMessageClick}
+          userLocation={userLocation}
+          mapParameters={mapParameters}
+          setMapParameters={setMapParameters}
+        />
+        <InfoBlock 
+          value={null}
+          length={0}
+          option={selectorsOptions}
+          condition={condition}
+          mapParameters={mapParameters}
+          closeInfoBlock={closeInfoBlock}
+          isMobile={isMobile}
+          handleCloseClick={handleCloseClick}
+          setCondition={setCondition}
+          setMapParameters={setMapParameters}
+          isLoading={false}
+          constructionsData={null}
         />
         <MakerMessage
           makerMessage={makerMessage}
@@ -393,6 +448,7 @@ const RoadConstructionApp = () => {
           handleCloseClick={handleCloseClick}
           setCondition={setCondition}
           setMapParameters={setMapParameters}
+          constructionsData={constructionsData}
         />
         <MakerMessage
           makerMessage={makerMessage}

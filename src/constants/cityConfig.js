@@ -5,6 +5,7 @@ import { taichungKeyMap, taipeiKeyMap, kaohsiungKeyMap } from '../constants/keyM
 export const cityConfig = {
   taichung: {
     name: '台中市',
+    center: { lat: 24.1512535, lng: 120.6617366 },
     // 直接下載 JSON 檔案，不需要分頁參數
     apiUrl: 'https://datacenter.taichung.gov.tw/swagger/OpenData/d5adb71a-00bb-4573-b67e-ffdccfc7cd27',
     keyMap: taichungKeyMap,
@@ -14,6 +15,7 @@ export const cityConfig = {
   },
   taipei: {
     name: '台北市',
+    center: { lat: 25.0330, lng: 121.5654 },
     apiUrl: 'https://tpnco.blob.core.windows.net/blobfs/Todaywork.json',
     keyMap: taipeiKeyMap,
     fetcher: fetchTaipeiData,
@@ -22,6 +24,7 @@ export const cityConfig = {
   },
   kaohsiung: {
     name: '高雄市',
+    center: { lat: 22.6273, lng: 120.3014 },
     apiUrl: 'https://corsproxy.io/?https://data.kcg.gov.tw/Json/Get/d636aa85-4b08-42ab-a742-4f2aad070450',
     keyMap: kaohsiungKeyMap,
     fetcher: simpleFetch,
