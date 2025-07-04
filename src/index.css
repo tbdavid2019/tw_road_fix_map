@@ -1156,7 +1156,7 @@ html, body {
 }
 .card-meta .buttons-locate {
   color: #FF7777;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   transition: all 0.1s;
 }
 .card-meta .buttons-locate:hover {
@@ -1165,7 +1165,7 @@ html, body {
 }
 .card-meta .buttons-moreInfo {
   color: #7dcdcd;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   transition: all 0.1s;
 }
 .card-meta .buttons-moreInfo:hover {
@@ -1355,6 +1355,35 @@ html, body {
 }
 .bgColor_mintGreen-light {
   background-color: #bdecec;
+}
+
+.card-action-circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 8px #e0e0e0;
+  transition: background 0.2s;
+}
+.card-action-circle.location {
+  background: #17909c;
+}
+.card-action-circle.location:hover {
+  background: #11707c;
+}
+.card-action-circle.info {
+  background: #bdecec;
+}
+.card-action-circle.info:hover {
+  background: #17909c;
+}
+.card-action-icon {
+  width: 28px;
+  height: 28px;
+  display: block;
 }
 
 /*# sourceMappingURL=index.css.map */
