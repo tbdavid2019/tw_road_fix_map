@@ -80,7 +80,7 @@ const Card = (props) => {
           )}
           <div className="card-action-btn" onClick={handleClick}>
             <div className="card-action-circle">
-              <img src={process.env.PUBLIC_URL + "/information.png"} alt="更多資訊" style={{width:'28px',height:'28px'}} />
+              <img src={process.env.PUBLIC_URL + "/Information.png"} alt="更多資訊" style={{width:'28px',height:'28px'}} />
             </div>
             <span className="card-action-label"></span>
           </div>
