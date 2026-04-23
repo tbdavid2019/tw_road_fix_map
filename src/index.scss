@@ -1064,3 +1064,47 @@ html,body{
         }
     }
 }
+
+.card-action-row {
+  display: flex;
+  gap: 28px;
+  justify-content: flex-end;
+  margin: 30px 0 0 0;
+}
+
+.card-action-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.card-action-circle {
+  background: #17909c;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 8px #e0e0e0;
+  transition: box-shadow 0.22s, border 0.22s;
+  border: 2px solid transparent;
+}
+
+.card-action-label {
+  color: #17909c;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.card-action-btn:hover .card-action-circle {
+  border: 2px solid #28c7d6;
+//   box-shadow: 0 4px 16px #17909c44;
+}
+
+.card-action-btn:hover .card-action-label {
+  color: #12707a;
+}
