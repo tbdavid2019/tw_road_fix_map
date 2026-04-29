@@ -1,0 +1,51 @@
+name: Update Taipei JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC. 20:00 UTC = 04:00 Asia/Taipei, 08:00 UTC = 16:00 Asia/Taipei.
+    - cron: '0 8,20 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-taipei-json
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Sync Taipei JSON
+        run: npm run sync:taipei
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet -- public/taipei.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated Taipei JSON
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/taipei.json
+          git commit -m "chore: update Taipei road data"
+
+      - name: Push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: git push

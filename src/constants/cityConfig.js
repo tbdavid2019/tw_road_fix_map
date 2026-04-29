@@ -2,6 +2,8 @@ import { simpleFetch, fetchTaipeiData } from '../lib/dataFetchers';
 import { parseTaichungData, parseTaipeiData, parseKaohsiungData } from '../lib/dataParsers';
 import { taichungKeyMap, taipeiKeyMap, kaohsiungKeyMap } from '../constants/keyMaps';
 
+const publicAsset = (path) => `${process.env.PUBLIC_URL}${path}`;
+
 export const cityConfig = {
   taichung: {
     name: '台中市',
@@ -16,7 +18,7 @@ export const cityConfig = {
   taipei: {
     name: '台北市',
     center: { lat: 25.0330, lng: 121.5654 },
-    apiUrl: 'https://tpnco.blob.core.windows.net/blobfs/Todaywork.json',
+    apiUrl: publicAsset('/taipei.json'),
     keyMap: taipeiKeyMap,
     fetcher: fetchTaipeiData,
     parser: parseTaipeiData,

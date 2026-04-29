@@ -23,6 +23,7 @@
     "deploy": "gh-pages -d build",
     "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "sync:taipei": "node scripts/update-taipei-json.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
