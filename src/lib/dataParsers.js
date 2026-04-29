@@ -193,7 +193,9 @@ export const parseTaipeiData = (item) => {
   const y = parseFloat(geometry.coordinates[1]);
   debugLog('🗺️ 原始坐標 (TWD97):', { x, y });
   
-  const { lat, lng } = convertTWD97ToWGS84(x, y);
+  const { lat: baseLat, lng: baseLng } = convertTWD97ToWGS84(x, y);
+  const lat = baseLat + (Math.random() - 0.5) * 0.00015;
+  const lng = baseLng + (Math.random() - 0.5) * 0.00015;
   debugLog('🌍 轉換後坐標 (WGS84):', { lat, lng });
 
   const result = {
