@@ -180,13 +180,13 @@ export const simpleFetch = async (url, retries = 2) => {
  * 專門針對台北市 API 的 fetcher，使用 JSONP 方式
  */
 export const fetchTaipeiData = async (url) => {
-  console.log('🏙️ 台北市專用 Fetcher 開始:', url);
-  
+  console.log('🏙️ 台北市資料 Fetcher:', url);
   try {
-    // 先嘗試直接 fetch
     const response = await fetch(url, {
       method: 'GET',
-      mode: 'cors'
+      headers: {
+        'Accept': 'application/json'
+      }
     });
     
     if (!response.ok) {
@@ -194,53 +194,10 @@ export const fetchTaipeiData = async (url) => {
     }
     
     const data = await response.json();
-    console.log('✅ 台北市資料載入成功');
+    console.log('✅ 台北市資料載入成功，資料數量:', data?.length || 0);
     return data;
   } catch (error) {
-    console.log('❌ 台北市直接抓取失敗，嘗試備用方案:', error.message);
-    
-    // 備用方案：使用不同的 CORS 代理
-    const proxies = [
-      'https://api.allorigins.win/get?url=',
-      'https://corsproxy.io/?',
-      'https://cors-anywhere.herokuapp.com/'
-    ];
-    
-    for (const proxy of proxies) {
-      try {
-        console.log(`🔄 嘗試代理: ${proxy}`);
-        let proxyUrl;
-        let response;
-        
-        if (proxy.includes('allorigins')) {
-          // allorigins 需要特殊處理
-          proxyUrl = proxy + encodeURIComponent(url);
-          response = await fetch(proxyUrl);
-          if (response.ok) {
-            const result = await response.json();
-            if (result.contents) {
-              const data = JSON.parse(result.contents);
-              console.log('✅ 台北市備用方案成功 (allorigins)');
-              return data;
-            }
-          }
-        } else {
-          // 其他代理服務
-          proxyUrl = proxy + encodeURIComponent(url);
-          response = await fetch(proxyUrl);
-          if (response.ok) {
-            const data = await response.json();
-            console.log('✅ 台北市備用方案成功');
-            return data;
-          }
-        }
-      } catch (proxyError) {
-        console.log(`❌ 代理失敗: ${proxy}`, proxyError.message);
-        continue;
-      }
-    }
-    
-    console.log('❌ 所有台北市抓取方案都失敗');
+    console.error('❌ 台北市資料抓取失敗:', error.message);
     return [];
   }
 };

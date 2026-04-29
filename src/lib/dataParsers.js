@@ -1,10 +1,17 @@
 import { taichungKeyMap, taipeiKeyMap, kaohsiungKeyMap } from '../constants/keyMaps';
 import { convertTWD97ToWGS84 } from './coordinateConverter';
 
+const shouldDebug = process.env.REACT_APP_DEBUG_ROAD_DATA === 'true';
+const debugLog = (...args) => {
+  if (shouldDebug) {
+    console.log(...args);
+  }
+};
+
 // --- Data Parsers for each city ---
 
 export const parseTaichungData = (data) => {
-  console.log('🏙️ 台中市解析單個項目:', data);
+  debugLog('🏙️ 台中市解析單個項目:', data);
   
   const splitPolygonData = (polygon) => {
     if (!polygon) return null;
@@ -26,13 +33,13 @@ export const parseTaichungData = (data) => {
           return { lat: Number(latString), lng: Number(lngString) };
         });
     } catch (error) {
-      console.log('❌ 台中市多邊形解析錯誤:', error);
+      debugLog('❌ 台中市多邊形解析錯誤:', error);
       return null;
     }
   };
 
   const parseDate = (dateStr) => {
-    console.log('📅 台中市解析日期:', dateStr);
+    debugLog('📅 台中市解析日期:', dateStr);
     if (!dateStr) return { year: 2025, month: 7, day: 2 };
     
     // 新格式：7位數字 "1140508" (114年05月08日)
@@ -52,11 +59,11 @@ export const parseTaichungData = (data) => {
   const latStr = data[taichungKeyMap.lat];
   const lng = Number(lngStr);
   const lat = Number(latStr);
-  console.log('🗺️ 台中市原始座標 (WGS84):', { lat, lng, lngStr, latStr });
+  debugLog('🗺️ 台中市原始座標 (WGS84):', { lat, lng, lngStr, latStr });
   
   // 檢查座標是否為有效數字，對於空字串給預設座標
   if (!lngStr || !latStr || lngStr === "" || latStr === "" || !isFinite(lng) || !isFinite(lat)) {
-    console.log('❌ 台中市座標資料為空，使用預設座標:', { lngStr, latStr });
+    debugLog('❌ 台中市座標資料為空，使用預設座標:', { lngStr, latStr });
     // 使用預設座標而不是跳過，確保資料能顯示
     const result = {
       city: '台中市',
@@ -87,13 +94,13 @@ export const parseTaichungData = (data) => {
         polygon: splitPolygonData(data[taichungKeyMap.geometry]),
       },
     };
-    console.log('🔧 台中市使用預設座標的解析結果:', result);
+    debugLog('🔧 台中市使用預設座標的解析結果:', result);
     return result;
   }
 
   // 檢查座標是否在合理範圍內，如果不是就使用預設座標
   if (lng < 120 || lng > 122 || lat < 23 || lat > 25) {
-    console.log('⚠️ 台中市座標超出範圍，使用預設座標:', { lng, lat });
+    debugLog('⚠️ 台中市座標超出範圍，使用預設座標:', { lng, lat });
     const result = {
       city: '台中市',
       title: data[taichungKeyMap.projectName] || '道路工程',
@@ -126,7 +133,7 @@ export const parseTaichungData = (data) => {
     return result;
   }
 
-  console.log('✅ 台中市有效座標 (WGS84):', { lat, lng });
+  debugLog('✅ 台中市有效座標 (WGS84):', { lat, lng });
 
   const result = {
     city: '台中市',
@@ -158,21 +165,16 @@ export const parseTaichungData = (data) => {
     },
   };
   
-  console.log('✨ 台中市解析結果:', result);
+  debugLog('✨ 台中市解析結果:', result);
   return result;
 };
 
 export const parseTaipeiData = (item) => {
-  console.log('🏙️ 台北市解析單個項目:', item);
-  
   const properties = item.properties;
   const geometry = item.geometry;
 
-  console.log('📋 Properties:', properties);
-  console.log('📍 Geometry:', geometry);
-
   const parseDate = (dateStr) => {
-    console.log('📅 解析日期:', dateStr);
+    debugLog('📅 解析日期:', dateStr);
     if (!dateStr || dateStr.length !== 9) return { year: 2025, month: 7, day: 2 };
     const year = parseInt(dateStr.substring(0, 3), 10) + 1911;
     const month = parseInt(dateStr.substring(4, 6), 10);
@@ -182,19 +184,22 @@ export const parseTaipeiData = (item) => {
 
   const startDate = parseDate(properties[taipeiKeyMap.startDate]);
   const endDate = parseDate(properties[taipeiKeyMap.endDate]);
+  const district = properties[taipeiKeyMap.district]
+    ? `${properties[taipeiKeyMap.district]}區`
+    : '未知區域';
 
   // Convert TWD97 to WGS84
   const x = parseFloat(geometry.coordinates[0]);
   const y = parseFloat(geometry.coordinates[1]);
-  console.log('🗺️ 原始坐標 (TWD97):', { x, y });
+  debugLog('🗺️ 原始坐標 (TWD97):', { x, y });
   
   const { lat, lng } = convertTWD97ToWGS84(x, y);
-  console.log('🌍 轉換後坐標 (WGS84):', { lat, lng });
+  debugLog('🌍 轉換後坐標 (WGS84):', { lat, lng });
 
   const result = {
     city: '台北市',
     title: properties[taipeiKeyMap.projectName] || properties[taipeiKeyMap.projectPurpose] || '道路工程',
-    distriction: properties[taipeiKeyMap.district] || '未知區域',
+    distriction: district,
     address: properties[taipeiKeyMap.location] || '未知地址',
     pipeType: '道路施工',
     constructionType: properties[taipeiKeyMap.projectPurpose] || '道路工程',
@@ -221,25 +226,25 @@ export const parseTaipeiData = (item) => {
     },
   };
   
-  console.log('✨ 台北市解析結果:', result);
+  debugLog('✨ 台北市解析結果:', result);
   return result;
 };
 
 export const parseKaohsiungData = (rawData) => {
-  console.log('🏭 高雄市解析原始資料:', rawData);
+  debugLog('🏭 高雄市解析原始資料:', rawData);
   
   if (!rawData || !rawData.Data || !Array.isArray(rawData.Data)) {
-    console.log('❌ 高雄市資料格式錯誤');
+    debugLog('❌ 高雄市資料格式錯誤');
     return [];
   }
 
-  console.log('📊 高雄市 Data 陣列長度:', rawData.Data.length);
+  debugLog('📊 高雄市 Data 陣列長度:', rawData.Data.length);
 
   return rawData.Data.map((item, index) => {
-    console.log(`🔄 處理高雄市第 ${index + 1} 筆資料:`, item);
+    debugLog(`🔄 處理高雄市第 ${index + 1} 筆資料:`, item);
     
     const parseDate = (dateStr) => {
-      console.log('📅 高雄市解析日期:', dateStr);
+      debugLog('📅 高雄市解析日期:', dateStr);
       if (!dateStr) return { year: 2025, month: 7, day: 2 };
       const date = new Date(dateStr);
       return {
@@ -281,7 +286,7 @@ export const parseKaohsiungData = (rawData) => {
       },
     };
     
-    console.log(`✨ 高雄市第 ${index + 1} 筆解析結果:`, result);
+    debugLog(`✨ 高雄市第 ${index + 1} 筆解析結果:`, result);
     return result;
   });
 };

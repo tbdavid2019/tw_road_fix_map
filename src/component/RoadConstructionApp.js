@@ -5,6 +5,13 @@ import InfoButton from "./InfoButton";
 import MakerMessage from "./MakerMessage";
 import { cityConfig } from "../constants/cityConfig";
 
+const shouldDebug = process.env.REACT_APP_DEBUG_ROAD_DATA === 'true';
+const debugLog = (...args) => {
+  if (shouldDebug) {
+    console.log(...args);
+  }
+};
+
 const RoadConstructionApp = () => {
   const [isMobile, setIsMobile] = useState(null);
   const [userLocation, setUserLocation] = useState(null);
@@ -103,48 +110,48 @@ const RoadConstructionApp = () => {
   };
 
   const fetchData = useCallback(async () => {
-    console.log('🚀 開始抓取資料...');
+    debugLog('🚀 開始抓取資料...');
     setConstructionsData("loading");
 
     const activeCities = Object.values(cityConfig).filter(city => !city.isDisabled);
-    console.log('📍 啟用的城市:', activeCities.map(c => c.name));
+    debugLog('📍 啟用的城市:', activeCities.map(c => c.name));
 
     const fetchPromises = activeCities.map(async (city) => {
       try {
-        console.log(`📡 正在抓取 ${city.name} 的資料...`, city.apiUrl);
+        debugLog(`📡 正在抓取 ${city.name} 的資料...`, city.apiUrl);
         const rawData = await city.fetcher(city.apiUrl);
-        console.log(`✅ ${city.name} 原始資料:`, rawData);
+        debugLog(`✅ ${city.name} 原始資料:`, rawData);
         
         let parsedData;
         // Taipei data is nested under 'features'
         if (city.name === '台北市') {
-          console.log(`🏙️ 台北市 features 數量:`, rawData?.features?.length || 0);
+          debugLog(`🏙️ 台北市 features 數量:`, rawData?.features?.length || 0);
           if (rawData && rawData.features && Array.isArray(rawData.features)) {
             parsedData = rawData.features.map(city.parser);
           } else {
-            console.log('⚠️ 台北市資料格式異常，跳過解析');
+            debugLog('⚠️ 台北市資料格式異常，跳過解析');
             parsedData = [];
           }
         }
         // The parser for Kaohsiung expects the full rawData
         else if (city.name === '高雄市') {
-          console.log(`🏭 高雄市 Data 數量:`, rawData?.Data?.length || 0);
+          debugLog(`🏭 高雄市 Data 數量:`, rawData?.Data?.length || 0);
           parsedData = city.parser(rawData);
         }
         // Taichung data is a direct array
         else if (city.name === '台中市') {
-          console.log(`🏘️ 台中市資料長度:`, rawData?.length || 0);
+          debugLog(`🏘️ 台中市資料長度:`, rawData?.length || 0);
           if (Array.isArray(rawData)) {
             parsedData = rawData.map(city.parser);
-            console.log(`✨ 台中市解析後資料數量:`, parsedData.length);
+            debugLog(`✨ 台中市解析後資料數量:`, parsedData.length);
           } else {
-            console.log('⚠️ 台中市資料格式異常，跳過解析');
+            debugLog('⚠️ 台中市資料格式異常，跳過解析');
             parsedData = [];
           }
         }
         // For other cities, map through the array
         else {
-          console.log(`🏘️ ${city.name} 資料長度:`, rawData?.length || 0);
+          debugLog(`🏘️ ${city.name} 資料長度:`, rawData?.length || 0);
           if (Array.isArray(rawData)) {
             parsedData = rawData.map(city.parser);
           } else {
@@ -152,7 +159,7 @@ const RoadConstructionApp = () => {
           }
         }
         
-        console.log(`✨ ${city.name} 解析後資料:`, parsedData);
+        debugLog(`✨ ${city.name} 解析後資料:`, parsedData);
         return parsedData;
       } catch (error) {
         console.error(`❌ ${city.name} 抓取失敗:`, error);
@@ -161,7 +168,7 @@ const RoadConstructionApp = () => {
     });
 
     const results = await Promise.allSettled(fetchPromises);
-    console.log('🎯 Promise.allSettled 結果:', results);
+    debugLog('🎯 Promise.allSettled 結果:', results);
 
     let allData = results
       .filter(result => result.status === 'fulfilled')
@@ -176,18 +183,18 @@ const RoadConstructionApp = () => {
       return 0;
     });
 
-    console.log('📊 合併後的所有資料:', allData);
-    console.log('📈 總資料筆數:', allData.length);
-    console.log('🏙️ 資料城市分佈:', allData.reduce((acc, item) => {
+    debugLog('📊 合併後的所有資料:', allData);
+    debugLog('📈 總資料筆數:', allData.length);
+    debugLog('🏙️ 資料城市分佈:', allData.reduce((acc, item) => {
       acc[item.city] = (acc[item.city] || 0) + 1;
       return acc;
     }, {}));
 
     if (allData.length === 0) {
-        console.log('⚠️ 沒有資料，設定為 null');
+      debugLog('⚠️ 沒有資料，設定為 null');
         setConstructionsData(null); // Set to null if all fetches failed
     } else {
-        console.log('🎉 設定資料完成');
+      debugLog('🎉 設定資料完成');
         setConstructionsData(allData);
     }
   }, []);
