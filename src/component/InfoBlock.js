@@ -180,14 +180,18 @@ const InfoBlock = (props)=>{
                         isMobile={isMobile}
                     />
                     <div id='topAnchor' style={{marginBottom:'2em'}}/>
+                    <div className={props.isInBottomSheet ? "horizontal-scroll-container" : ""} style={props.isInBottomSheet ? { display: 'flex', overflowX: 'auto', scrollSnapType: 'x mandatory', gap: '15px', paddingBottom: '10px' } : {}}>
                     {
                         cardsNum.map((i)=>(
-                            <Card key={'card'+(pageIndex*10+i+1)}
-                                value={props.value[pageIndex][i]}
-                                setMapParameters={props.setMapParameters}
-                            />
+                            <div key={'card'+(pageIndex*10+i+1)} style={props.isInBottomSheet ? { flex: '0 0 85%', scrollSnapAlign: 'start' } : {}}>
+                                <Card
+                                    value={props.value[pageIndex][i]}
+                                    setMapParameters={props.setMapParameters}
+                                />
+                            </div>
                         ))
                     }
+                    </div>
                     <Pagination
                         pageBtns={pageBtns}
                         pageIndex={pageIndex}

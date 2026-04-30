@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo } from "react";
+import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import Map from "./Map";
 import InfoBlock from "./InfoBlock";
 import Card from "./Card";
@@ -34,6 +34,15 @@ const RoadConstructionApp = () => {
     selectMarker: null,
     closeInfoWindow: null,
   });
+
+  const bottomSheetRef = useRef(null);
+
+  useEffect(() => {
+    // 當選取了標記（且不是關閉狀態時），主動觸發 ref 讓抽屜往上彈到一半的高度 (0.5) 
+    if (isMobile && mapParameters.selectMarker && !mapParameters.closeInfoWindow && bottomSheetRef.current) {
+      bottomSheetRef.current.snapTo(({ maxHeight }) => maxHeight * 0.5);
+    }
+  }, [mapParameters.selectMarker, mapParameters.closeInfoWindow, isMobile]);
 
   const INITAIL = useCallback(() => {
     let bool = null;
@@ -446,6 +455,8 @@ const RoadConstructionApp = () => {
         {isMobile ? (
 
           <BottomSheet
+
+            ref={bottomSheetRef}
 
             open={true}
 
