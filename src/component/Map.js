@@ -165,7 +165,7 @@ const Map = (props) => {
           {userLocation !== null && (
             <Marker key="userLocation" position={userLocation} zIndex={100} />
           )}
-          {isInfoWindowShow() && (
+          {!isMobile && isInfoWindowShow() && (
             <InfoWindow
               position={{
                 lat: mapParameters.selectMarker.coordinate.lat,

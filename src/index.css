@@ -1358,3 +1358,62 @@ html, body {
 }
 
 /*# sourceMappingURL=index.css.map */
+
+.bottom-sheet-mode.infoBlockContainer {
+  position: static !important;
+  margin: 0 !important;
+  animation: none !important;
+  display: block !important;
+}
+.bottom-sheet-mode .infoBlock {
+  width: 100% !important;
+  height: 100% !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+  padding-top: 0 !important;
+}
+.bottom-sheet-mode .closeButtonContainer {
+  display: none !important;
+}
+.bottom-sheet-mode .cardsListContainer {
+  overflow-y: visible !important;
+  height: auto !important;
+}
+.bottom-sheet-mode .cardsList {
+  width: 100% !important;
+  padding: 10px !important;
+}
+
+[data-rsbs-overlay] {
+  z-index: 1000 !important;
+  background: #fdfdfd !important;
+}
+
+.bottom-sheet-mode .toolbarContainer {
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+.bottom-sheet-mode .selectors {
+  display: flex !important;
+  flex-direction: row !important;
+  overflow-x: auto !important;
+  white-space: nowrap !important;
+  padding: 10px !important;
+  gap: 10px !important;
+}
+
+.bottom-sheet-mode .selectors > div, .bottom-sheet-mode .selector, .bottom-sheet-mode .searchDate {
+  flex: 0 0 auto !important;
+  width: max-content !important;
+  margin-bottom: 0 !important;
+}
+
+.bottom-sheet-mode .searchDate .react-datepicker-wrapper {
+  display: inline-block;
+  width: 120px !important;
+}
+
+[data-rsbs-root] { z-index: 9999 !important; }
+[data-rsbs-backdrop] { z-index: 9998 !important; }

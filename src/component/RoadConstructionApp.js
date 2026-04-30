@@ -1,9 +1,11 @@
 import React, { useState, useEffect, useCallback, useMemo } from "react";
 import Map from "./Map";
 import InfoBlock from "./InfoBlock";
+import Card from "./Card";
 import InfoButton from "./InfoButton";
 import MakerMessage from "./MakerMessage";
 import { cityConfig } from "../constants/cityConfig";
+import { BottomSheet } from "react-spring-bottom-sheet";
 
 const shouldDebug = process.env.REACT_APP_DEBUG_ROAD_DATA === 'true';
 const debugLog = (...args) => {
@@ -18,6 +20,7 @@ const RoadConstructionApp = () => {
   const [closeInfoBlock, setCloseInfoBlock] = useState(null);
   const [makerMessage, setMakerMessage] = useState(null);
   const [constructionsData, setConstructionsData] = useState("loading");
+  const [bottomSheetOpen, setBottomSheetOpen] = useState(true);
   const [condition, setCondition] = useState({
     workingState: "是",
     distriction: 0,
@@ -35,9 +38,9 @@ const RoadConstructionApp = () => {
   const INITAIL = useCallback(() => {
     let bool = null;
     changeInfoWindowHeight();
-    bool = isWidthUnder(428);
+    bool = isWidthUnder(768);
     window.addEventListener("resize", changeInfoWindowHeight);
-    window.addEventListener("resize", () => isWidthUnder(428));
+    window.addEventListener("resize", () => isWidthUnder(768));
     findUserLocation();
     initialInfoBlockDisplay(bool);
   }, []);
@@ -351,20 +354,18 @@ const RoadConstructionApp = () => {
           mapParameters={mapParameters}
           setMapParameters={setMapParameters}
         />
-        <InfoBlock 
-          value="loading"
-          length={0}
-          option={selectorsOptions}
-          condition={condition}
-          mapParameters={mapParameters}
-          closeInfoBlock={closeInfoBlock}
-          isMobile={isMobile}
-          handleCloseClick={handleCloseClick}
-          setCondition={setCondition}
-          setMapParameters={setMapParameters}
-          isLoading={true}
-          constructionsData={null}
-        />
+        {isMobile ? (
+  <BottomSheet
+    open={true}
+    blocking={false}
+    snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
+    defaultSnap={({ maxHeight }) => maxHeight * 0.5}
+  >
+    <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
+  </BottomSheet>
+) : (
+  <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
+)}
         <MakerMessage
           makerMessage={makerMessage}
           handleMakerMessageClick={handleMakerMessageClick}
@@ -392,20 +393,18 @@ const RoadConstructionApp = () => {
           mapParameters={mapParameters}
           setMapParameters={setMapParameters}
         />
-        <InfoBlock 
-          value={null}
-          length={0}
-          option={selectorsOptions}
-          condition={condition}
-          mapParameters={mapParameters}
-          closeInfoBlock={closeInfoBlock}
-          isMobile={isMobile}
-          handleCloseClick={handleCloseClick}
-          setCondition={setCondition}
-          setMapParameters={setMapParameters}
-          isLoading={false}
-          constructionsData={null}
-        />
+        {isMobile ? (
+  <BottomSheet
+    open={true}
+    blocking={false}
+    snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
+    defaultSnap={({ maxHeight }) => maxHeight * 0.5}
+  >
+    <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
+  </BottomSheet>
+) : (
+  <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
+)}
         <MakerMessage
           makerMessage={makerMessage}
           handleMakerMessageClick={handleMakerMessageClick}
@@ -444,19 +443,72 @@ const RoadConstructionApp = () => {
           mapParameters={mapParameters}
           setMapParameters={setMapParameters}
         />
-        <InfoBlock
-          value={sliceData(data)}
-          length={data.length}
-          option={selectorsOptions}
-          condition={condition}
-          mapParameters={mapParameters}
-          closeInfoBlock={closeInfoBlock}
-          isMobile={isMobile}
-          handleCloseClick={handleCloseClick}
-          setCondition={setCondition}
-          setMapParameters={setMapParameters}
-          constructionsData={constructionsData}
-        />
+        {isMobile ? (
+
+          <BottomSheet
+
+            open={true}
+
+            blocking={false}
+
+            snapPoints={({ maxHeight }) => [120, maxHeight * 0.5, maxHeight * 0.95]}
+
+            defaultSnap={({ maxHeight }) => 120}
+
+            expandOnContentDrag={true}
+
+          >
+
+            {(mapParameters.selectMarker && !mapParameters.closeInfoWindow) ? (
+              <div style={{ padding: '0 15px 15px', position: 'relative' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', borderBottom: '1px solid #eee', paddingBottom: '10px' }}>
+                  <h3 style={{ margin: 0, fontSize: '18px', color: '#333' }}>施工詳情</h3>
+                  <button 
+                    onClick={() => setMapParameters({...mapParameters, selectMarker: null, closeInfoWindow: true})}
+                    style={{ background: 'none', border: 'none', fontSize: '24px', color: '#999', cursor: 'pointer', padding: '0 10px' }}
+                  >
+                    ×
+                  </button>
+                </div>
+                <Card value={mapParameters.selectMarker} setMapParameters={setMapParameters} />
+              </div>
+            ) : (
+              <InfoBlock
+                value={sliceData(data)}
+                length={data.length}
+                option={selectorsOptions}
+                condition={condition}
+                mapParameters={mapParameters}
+                closeInfoBlock={closeInfoBlock}
+                isMobile={isMobile}
+                isInBottomSheet={true}
+                handleCloseClick={handleCloseClick}
+                setCondition={setCondition}
+                setMapParameters={setMapParameters}
+                constructionsData={constructionsData}
+              />
+            )}
+
+          </BottomSheet>
+
+        ) : (
+
+          <InfoBlock
+              value={sliceData(data)}
+              length={data.length}
+              option={selectorsOptions}
+              condition={condition}
+              mapParameters={mapParameters}
+              closeInfoBlock={closeInfoBlock}
+              isMobile={isMobile}
+              handleCloseClick={handleCloseClick}
+              setCondition={setCondition}
+              setMapParameters={setMapParameters}
+              constructionsData={constructionsData}
+
+          />
+
+        )}
         <MakerMessage
           makerMessage={makerMessage}
           handleMakerMessageClick={handleMakerMessageClick}
