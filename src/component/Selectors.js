@@ -123,12 +123,7 @@ const Selectors = (props)=>{
     }
 
     const handleWorkingState = (e)=>{
-        let dist = condition.distriction;
         let workingState = Number(e.target.value) === 0 ? 0 : e.target.value;
-        let startDate = condition.date.start === null ? null : {...condition.date.start};
-        let endDate = condition.date.end === null ? null : {...condition.date.end};
-        let _dateOnPicker = dateOnPicker;
-        let stack = condition.stack;
         setCSSChosenValue(e.target);
         setCSSChosenValue(e.target.previousElementSibling, e.target.value);
         setSelectValue((prevState)=>({
@@ -136,32 +131,16 @@ const Selectors = (props)=>{
             workingState: convertWorkingState(workingState)
         }));
 
-        if(stack.indexOf('workingState') === -1) stack.push('workingState');
-        else if(workingState === 0){
-            stack = stack.filter((e)=>e!=='workingState');
-            // [stack, [workingState, dist, startDate, endDate, _dateOnPicker]] = popStack('workingState',[workingState, dist, startDate, endDate, _dateOnPicker]);
-        }
-
         clearMapInfo();
         setPageIndex(0);
-        if(_dateOnPicker !== '') setDateOnPicker(`${startDate.year}/${addZero2String(startDate.month)}/${addZero2String(startDate.day)} - ${endDate.year}/${addZero2String(endDate.month)}/${addZero2String(endDate.day)}`);
-        else setDateOnPicker('');
-        setCondition({workingState: workingState,
-                      distriction:dist,
-                      date:{
-                        start: startDate === null ? null : {...startDate},
-                        end: endDate === null ? null : {...endDate}
-                      },
-                      stack:stack});
+        setCondition(prev => ({
+            ...prev,
+            workingState: workingState
+        }));
     }
-    
+
     const handleDistChange = (e)=>{
         let dist = Number(e.target.value) === 0 ? 0 : e.target.value;
-        let workingState = condition.workingState;
-        let startDate = condition.date.start === null ? null : {...condition.date.start};
-        let endDate = condition.date.end === null ? null : {...condition.date.end};
-        let _dateOnPicker = dateOnPicker;
-        let stack = condition.stack;
         setCSSChosenValue(e.target);
         setCSSChosenValue(e.target.previousElementSibling, e.target.value);
         setSelectValue((prevState)=>({
@@ -169,56 +148,39 @@ const Selectors = (props)=>{
             dist: dist === 0 ? '全地區' : dist
         }));
 
-        if(stack.indexOf('distriction') === -1) stack.push('distriction');
-        else if(dist === 0){
-            stack = stack.filter((e)=>e!=='distriction');
-            // [stack, [workingState, dist, startDate, endDate, _dateOnPicker]] = popStack('distriction',[workingState, dist, startDate, endDate, _dateOnPicker]);
-        }
-
         clearMapInfo();
         setPageIndex(0);
-        if(_dateOnPicker !== '') setDateOnPicker(`${startDate.year}/${addZero2String(startDate.month)}/${addZero2String(startDate.day)} - ${endDate.year}/${addZero2String(endDate.month)}/${addZero2String(endDate.day)}`);
-        else setDateOnPicker('');
-        setCondition({workingState: workingState,
-                      distriction:dist,
-                      date:{
-                          start: startDate === null ? null : {...startDate},
-                          end: endDate === null ? null : {...endDate}
-                      },
-                      stack:stack});
+        setCondition(prev => ({
+            ...prev,
+            distriction: dist
+        }));
     }
 
     const handleDateChange = (update)=>{
         setDateRange(update);
-        //如果結束日期尚未選擇，只更新date range。
         if(update[0] !== null && update[1] === null){
             setDateOnPicker(`${update[0].getFullYear()}/${addZero2String(update[0].getMonth() + 1)}/${addZero2String(update[0].getDate())} -`);
             return;
         }
-        //datepicker按清空時執行，日期沒選完不會到這邊。
         if(update[0] === null && update[1] === null){
-            let stack = condition.stack;
-            let _dist = condition.distriction;
-            let _workingState = condition.workingState;
-            stack = stack.filter((e)=>e!=='date');
-            // [stack, [_workingState, _dist, , , ,]] = popStack('date',[_workingState, _dist, null, null, null])
-
             clearMapInfo();
             setDateOnPicker('');
-            setCondition({workingState:_workingState, distriction:_dist, date:{start: null, end: null}, stack:stack});
+            setCondition(prev => ({
+                ...prev,
+                date: { start: null, end: null }
+            }));
             return;
         }
 
-        let dist = condition.distriction;
-        let workingState = condition.workingState;
         let startDate = {year: update[0].getFullYear(), month: update[0].getMonth() + 1, day: update[0].getDate()}
         let endDate = {year: update[1].getFullYear(), month: update[1].getMonth() + 1, day: update[1].getDate()}
-        let stack = condition.stack;
-        if(stack.indexOf('date') === -1) stack.push('date');
         clearMapInfo();
         setPageIndex(0);
         setDateOnPicker(`${startDate.year}/${addZero2String(startDate.month)}/${addZero2String(startDate.day)} - ${endDate.year}/${addZero2String(endDate.month)}/${addZero2String(endDate.day)}`);
-        setCondition({workingState:workingState, distriction:dist, date:{start: {...startDate}, end: {...endDate}}, stack:stack});
+        setCondition(prev => ({
+            ...prev,
+            date: { start: {...startDate}, end: {...endDate} }
+        }));
     }
 
     const handleCityChange = (e) => {
