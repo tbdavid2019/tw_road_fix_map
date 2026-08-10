@@ -357,3 +357,6 @@ export const parseGenericCityData = (cityName) => (data) => {
     },
   };
 };
+
+// 彰化、基隆的同步腳本已先轉成地圖共用格式，前端只需保留資料即可。
+export const parseNormalizedCityData = (data) => data;

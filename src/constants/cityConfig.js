@@ -1,5 +1,5 @@
 import { fetchTaipeiData } from '../lib/dataFetchers';
-import { parseTaichungData, parseTaipeiData, parseKaohsiungData } from '../lib/dataParsers';
+import { parseTaichungData, parseTaipeiData, parseKaohsiungData, parseNormalizedCityData } from '../lib/dataParsers';
 import { taichungKeyMap, taipeiKeyMap, kaohsiungKeyMap } from '../constants/keyMaps';
 
 const publicAsset = (path) => `${process.env.PUBLIC_URL}${path}`;
@@ -31,5 +31,21 @@ export const cityConfig = {
     fetcher: fetchTaipeiData,
     parser: parseKaohsiungData,
     isDisabled: false,
-  }
+  },
+  changhua: {
+    name: '彰化縣',
+    center: { lat: 23.99297, lng: 120.4818 },
+    apiUrl: publicAsset('/changhua.json'),
+    fetcher: fetchTaipeiData,
+    parser: parseNormalizedCityData,
+    isDisabled: false,
+  },
+  keelung: {
+    name: '基隆市',
+    center: { lat: 25.1276, lng: 121.7392 },
+    apiUrl: publicAsset('/keelung.json'),
+    fetcher: fetchTaipeiData,
+    parser: parseNormalizedCityData,
+    isDisabled: false,
+  },
 };

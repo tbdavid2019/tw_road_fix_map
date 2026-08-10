@@ -1,4 +1,4 @@
-name: Update Taiwan Road Data & Deploy to GitHub Pages
+name: Update Taiwan Road Data (Taipei, Kaohsiung, Changhua, Keelung) & Deploy
 
 on:
   push:
@@ -38,7 +38,8 @@ jobs:
       - name: Detect data changes
         id: changes
         run: |
-          if git diff --quiet -- public/*.json; then
+          # git diff 不會包含首次產生的未追蹤 changhua.json / keelung.json。
+          if [ -z "$(git status --short -- public/*.json)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -50,7 +51,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/*.json
-          git commit -m "chore: update Taiwan road data (Taipei, Kaohsiung, etc.)"
+          git commit -m "chore: update Taiwan road data"
           git push
 
       - name: Build React Application

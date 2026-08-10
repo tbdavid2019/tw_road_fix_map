@@ -13,9 +13,9 @@ const MakerMessage = (props) => {
 
     const externalCitySources = [
         { name: "臺南市", system: "臺南市道路挖掘管理系統 (DigGIS)", url: "https://diggis.tainan.gov.tw/tnroad/", status: "官方系統" },
-        { name: "新竹市", system: "新竹市道路挖掘資訊網 / 政府開放資料", url: "https://data.gov.tw/dataset/153243", status: "Open Data" },
-        { name: "彰化縣", system: "彰化縣政府管線挖掘便民服務系統", url: "https://diggis.chcg.gov.tw/", status: "官方系統" },
-        { name: "基隆市", system: "基隆市道路管理資訊平台", url: "https://road.klcg.gov.tw/", status: "官方系統" },
+        { name: "新竹市", system: "新竹市道路挖掘資訊統計 / 政府開放資料", url: "https://data.gov.tw/dataset/131133", status: "統計資料" },
+        { name: "彰化縣", system: "彰化縣政府管線挖掘便民服務系統", url: "https://pipegis.chcg.gov.tw/CHCGPub/", status: "已整合地圖" },
+        { name: "基隆市", system: "基隆市道路管理資訊平台", url: "https://kct.klcg.gov.tw/klroad/", status: "已整合地圖" },
         { name: "新北市", system: "新北市政府道路挖掘即時施工資訊", url: "https://data.ntpc.gov.tw/", status: "Open Data" },
         { name: "桃園市", system: "桃園市道路挖掘資訊網", url: "https://data.tycg.gov.tw/", status: "Open Data" },
         { name: "全國省道", system: "交通部 TDX 運輸資料流通服務", url: "https://tdx.transportdata.tw/", status: "中央 API" },
@@ -31,7 +31,7 @@ const MakerMessage = (props) => {
                             <i className="fas fa-map-marked-alt" /> 全台道路施工地圖與資料來源
                         </h3>
                         <p style={{ margin: '0 0 15px 0', color: '#666', lineHeight: '1.6' }}>
-                            本站整合全台各縣市 Open Data 道路挖掘與施工資訊，每日由自動化系統定時同步最新施工範圍與日期。
+                            本站整合目前可穩定取得的縣市道路挖掘與施工資訊，每日由自動化系統定時同步資料。
                         </p>
 
                         <div style={{ backgroundColor: '#f5f9f8', padding: '12px', borderRadius: '8px', marginBottom: '15px', borderLeft: '4px solid #25a19c' }}>
@@ -39,7 +39,9 @@ const MakerMessage = (props) => {
                             <div style={{ marginTop: '5px', color: '#333' }}>
                                 • <strong>臺北市</strong>（每日自動更新）<br />
                                 • <strong>臺中市</strong>（每日自動更新）<br />
-                                • <strong>高雄市</strong>（每日自動更新）
+                                • <strong>高雄市</strong>（每日自動更新）<br />
+                                • <strong>彰化縣</strong>（每日自動更新）<br />
+                                • <strong>基隆市</strong>（每日自動更新）
                             </div>
                         </div>
 
