@@ -7,6 +7,7 @@ const proj4 = require('proj4');
 const ROOT = path.resolve(__dirname, '..');
 const PUBLIC_DIR = path.join(ROOT, 'public');
 const USER_AGENT = 'tw-road-fix-map-updater/1.0 (+https://github.com/tbdavid2019/tw_road_fix_map)';
+const FETCH_TIMEOUT_MS = 15000;
 
 proj4.defs('TWD97', '+proj=tmerc +lat_0=0 +lon_0=121 +k=0.9999 +x_0=250000 +y_0=0 +ellps=GRS80 +units=m +no_defs');
 proj4.defs('WGS84', '+title=WGS 84 (long/lat) +proj=longlat +ellps=WGS84 +datum=WGS84 +units=degrees');
@@ -14,12 +15,15 @@ proj4.defs('WGS84', '+title=WGS 84 (long/lat) +proj=longlat +ellps=WGS84 +datum=
 const stripBom = (text) => text.replace(/^\uFEFF/, '');
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-const fetchText = async (url, options = {}, retries = 4) => {
+const fetchText = async (url, options = {}, retries = 2) => {
   let lastError;
   for (let attempt = 1; attempt <= retries; attempt += 1) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
     try {
       const response = await fetch(url, {
         ...options,
+        signal: options.signal || controller.signal,
         headers: {
           Accept: 'application/json, text/plain, */*',
           'User-Agent': USER_AGENT,
@@ -29,11 +33,13 @@ const fetchText = async (url, options = {}, retries = 4) => {
       if (!response.ok) throw new Error(`HTTP ${response.status} ${response.statusText}`);
       return stripBom(await response.text());
     } catch (error) {
-      lastError = error;
+      lastError = error.name === 'AbortError' ? new Error(`請求逾時（${FETCH_TIMEOUT_MS / 1000} 秒）`) : error;
       if (attempt < retries) {
         console.warn(`⚠️ ${url} 第 ${attempt} 次失敗，稍後重試：${error.message}`);
         await delay(attempt * 1000);
       }
+    } finally {
+      clearTimeout(timeoutId);
     }
   }
   throw lastError;
