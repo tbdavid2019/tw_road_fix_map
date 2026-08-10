@@ -223,7 +223,7 @@ const Selectors = (props)=>{
                 <i className="selectArrow fas fa-chevron-down"/>
                 <select name='citySelect'
                         id='citySelect'
-                        defaultValue='0'
+                        value={condition.city || 0}
                         onChange={handleCityChange}
                 >
                     <option value={0}>全縣市</option>
@@ -233,13 +233,13 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>
-                <span>{selectValue.city || '全縣市'}</span>
+                <span>{condition.city || '全縣市'}</span>
             </div>
             <div className='selectContainer'>
                 <i className="selectArrow fas fa-chevron-down"/>
                 <select name='workingState'
                         id='workingStateSelect'
-                        defaultValue='是'
+                        value={condition.workingState || 0}
                         onChange={handleWorkingState}
                 >
                     <option value={0}>全案件</option>
@@ -251,13 +251,13 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>
-                <span>{selectValue.workingState}</span>
+                <span>{convertWorkingState(condition.workingState)}</span>
             </div>
             <div className='selectContainer'>
                 <i className="selectArrow fas fa-chevron-down"/>
                 <select name='distriction'
                         id='districtionSelect'
-                        defaultValue='0'
+                        value={condition.distriction || 0}
                         onChange={handleDistChange}
                 >
                     <option value={0}>全地區</option>
@@ -267,7 +267,7 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>   
-                <span>{selectValue.dist}</span>
+                <span>{condition.distriction || '全地區'}</span>
             </div>
             <DatePicker
                 value={dateOnPicker}
