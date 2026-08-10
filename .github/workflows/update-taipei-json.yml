@@ -6,8 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # GitHub Actions uses UTC. 20:00 UTC = 04:00 Asia/Taipei, 08:00 UTC = 16:00 Asia/Taipei.
-    - cron: '0 8,20 * * *'
+    # GitHub Actions uses UTC: 23:00 UTC = 07:00、04:00 UTC = 12:00、07:00 UTC = 15:00 Asia/Taipei.
+    - cron: '0 23,4,7 * * *'
 
 permissions:
   contents: write
