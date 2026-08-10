@@ -255,6 +255,15 @@ async function syncPingtung() {
   writeJsonIfChanged(path.join(PUBLIC_DIR, 'pingtung.json'), normalized);
 }
 
+const syncOptionalCity = async (name, syncFunction) => {
+  try {
+    await syncFunction();
+  } catch (error) {
+    // 官方端點暫時無法連線時保留已提交的靜態快取，避免阻斷其他縣市部署。
+    console.error(`⚠️ ${name} 本次同步略過，保留既有資料：${error.message}`);
+  }
+};
+
 const isValidTaiwanCoordinate = (lat, lng) => (
   Number.isFinite(lat) && Number.isFinite(lng) && lat >= 21 && lat <= 26 && lng >= 119 && lng <= 123
 );
@@ -400,10 +409,10 @@ async function syncKeelung() {
 async function main() {
   console.log('🚀 開始同步臺灣道路施工資料…');
   for (const source of SOURCES) await syncCity(source);
-  await syncNewTaipei();
-  await syncPingtung();
-  await syncChanghua();
-  await syncKeelung();
+  await syncOptionalCity('新北', syncNewTaipei);
+  await syncOptionalCity('屏東', syncPingtung);
+  await syncOptionalCity('彰化', syncChanghua);
+  await syncOptionalCity('基隆', syncKeelung);
   console.log('✨ 所有同步工作完成。');
 }
 
