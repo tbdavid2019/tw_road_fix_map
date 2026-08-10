@@ -247,8 +247,9 @@ export const parseKaohsiungData = (rawData) => {
     
     const parseDate = (dateStr) => {
       debugLog('📅 高雄市解析日期:', dateStr);
-      if (!dateStr) return { year: 2025, month: 7, day: 2 };
+      if (!dateStr) return { year: 2026, month: 8, day: 10 };
       const date = new Date(dateStr);
+      if (isNaN(date.getTime())) return { year: 2026, month: 8, day: 10 };
       return {
         year: date.getFullYear(),
         month: date.getMonth() + 1,
@@ -257,12 +258,26 @@ export const parseKaohsiungData = (rawData) => {
     };
 
     const singleDate = parseDate(item[kaohsiungKeyMap.dateRange]);
+    const rawRoad = item[kaohsiungKeyMap.projectName] || '';
+    
+    // 從 cnstRoad 提取行政區 (例如: 阿蓮區)
+    const distMatch = rawRoad.match(/([一-龥]{2,3}[區市鎮鄉])/);
+    const distriction = distMatch ? distMatch[1] : '全地區';
+    
+    // 清理地址字串，移除 "台灣822002 高雄市 " 或 "N/A"
+    let cleanAddress = rawRoad
+      .replace(/^台灣\d*\s*/, '')
+      .replace(/^高雄市\s*/, '');
+    
+    if (distriction !== '全地區' && cleanAddress.startsWith(distriction)) {
+      cleanAddress = cleanAddress.substring(distriction.length).trim();
+    }
 
     const result = {
       city: '高雄市',
-      title: item[kaohsiungKeyMap.projectName] || '未知工程',
-      distriction: 'N/A',
-      address: item[kaohsiungKeyMap.projectName] || '未知地址',
+      title: '道路挖掘施工工程',
+      distriction: distriction,
+      address: cleanAddress || rawRoad || '道路施工地點',
       pipeType: '道路施工',
       constructionType: '道路工程',
       workingState: '是',
@@ -270,7 +285,7 @@ export const parseKaohsiungData = (rawData) => {
         start: singleDate,
         end: singleDate,
       },
-      applicationNumber: 'N/A',
+      applicationNumber: item[kaohsiungKeyMap.permitId] || 'N/A',
       licenseNumber: item[kaohsiungKeyMap.permitId] || 'N/A',
       applicant: item[kaohsiungKeyMap.contractorName] || 'N/A',
       contractor: {
@@ -282,8 +297,8 @@ export const parseKaohsiungData = (rawData) => {
         phone: 'N/A',
       },
       coordinate: {
-        lat: Number(item[kaohsiungKeyMap.lat]) || 0,
-        lng: Number(item[kaohsiungKeyMap.lng]) || 0,
+        lat: Number(item[kaohsiungKeyMap.lat]) || 22.6273,
+        lng: Number(item[kaohsiungKeyMap.lng]) || 120.3014,
         polygon: null,
       },
     };
