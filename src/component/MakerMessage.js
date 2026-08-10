@@ -16,8 +16,9 @@ const MakerMessage = (props) => {
         { name: "新竹市", system: "新竹市道路挖掘資訊統計 / 政府開放資料", url: "https://data.gov.tw/dataset/131133", status: "統計資料" },
         { name: "彰化縣", system: "彰化縣政府管線挖掘便民服務系統", url: "https://pipegis.chcg.gov.tw/CHCGPub/", status: "已整合地圖" },
         { name: "基隆市", system: "基隆市道路管理資訊平台", url: "https://kct.klcg.gov.tw/klroad/", status: "已整合地圖" },
-        { name: "新北市", system: "新北市政府道路挖掘即時施工資訊", url: "https://data.ntpc.gov.tw/", status: "Open Data" },
+        { name: "新北市", system: "新北市政府道路挖掘即時施工資訊", url: "https://data.gov.tw/dataset/177913", status: "已整合地圖" },
         { name: "桃園市", system: "桃園市道路挖掘資訊網", url: "https://data.tycg.gov.tw/", status: "Open Data" },
+        { name: "屏東縣", system: "屏東縣道路挖掘施工資訊", url: "https://data.gov.tw/dataset/177357", status: "已整合地圖" },
         { name: "全國省道", system: "交通部 TDX 運輸資料流通服務", url: "https://tdx.transportdata.tw/", status: "中央 API" },
     ];
 
@@ -41,7 +42,9 @@ const MakerMessage = (props) => {
                                 • <strong>臺中市</strong>（每日自動更新）<br />
                                 • <strong>高雄市</strong>（每日自動更新）<br />
                                 • <strong>彰化縣</strong>（每日自動更新）<br />
-                                • <strong>基隆市</strong>（每日自動更新）
+                                • <strong>基隆市</strong>（每日自動更新）<br />
+                                • <strong>新北市</strong>（每 10 分鐘更新）<br />
+                                • <strong>屏東縣</strong>（每日自動更新）
                             </div>
                         </div>
 

@@ -48,4 +48,20 @@ export const cityConfig = {
     parser: parseNormalizedCityData,
     isDisabled: false,
   },
+  newtaipei: {
+    name: '新北市',
+    center: { lat: 25.012, lng: 121.4657 },
+    apiUrl: publicAsset('/newtaipei.json'),
+    fetcher: fetchTaipeiData,
+    parser: parseNormalizedCityData,
+    isDisabled: false,
+  },
+  pingtung: {
+    name: '屏東縣',
+    center: { lat: 22.551975, lng: 120.54885 },
+    apiUrl: publicAsset('/pingtung.json'),
+    fetcher: fetchTaipeiData,
+    parser: parseNormalizedCityData,
+    isDisabled: false,
+  },
 };

@@ -46,6 +46,116 @@ const parseJson = (text) => {
   return parsed;
 };
 
+const parseCsv = (text) => {
+  const rows = [];
+  let row = [];
+  let value = '';
+  let quoted = false;
+
+  for (let index = 0; index < text.length; index += 1) {
+    const character = text[index];
+    const nextCharacter = text[index + 1];
+
+    if (character === '"' && quoted && nextCharacter === '"') {
+      value += '"';
+      index += 1;
+    } else if (character === '"') {
+      quoted = !quoted;
+    } else if (character === ',' && !quoted) {
+      row.push(value);
+      value = '';
+    } else if ((character === '\n' || character === '\r') && !quoted) {
+      if (character === '\r' && nextCharacter === '\n') index += 1;
+      row.push(value);
+      if (row.some((cell) => cell !== '')) rows.push(row);
+      row = [];
+      value = '';
+    } else {
+      value += character;
+    }
+  }
+
+  if (value || row.length > 0) {
+    row.push(value);
+    if (row.some((cell) => cell !== '')) rows.push(row);
+  }
+  return rows;
+};
+
+const parseDateValue = (value) => {
+  const raw = String(value || '').trim();
+  const digits = raw.replace(/\D/g, '');
+  if (digits.length >= 7) {
+    const rocDigits = digits.slice(0, 7);
+    const rocYear = Number(rocDigits.slice(0, 3));
+    const rocMonth = Number(rocDigits.slice(3, 5));
+    const rocDay = Number(rocDigits.slice(5, 7));
+    if (rocYear >= 80 && rocMonth >= 1 && rocMonth <= 12 && rocDay >= 1 && rocDay <= 31) {
+      return { year: rocYear + 1911, month: rocMonth, day: rocDay };
+    }
+  }
+  if (digits.length >= 8) {
+    const year = Number(digits.slice(0, 4));
+    const month = Number(digits.slice(4, 6));
+    const day = Number(digits.slice(6, 8));
+    if (year >= 1900 && month >= 1 && month <= 12 && day >= 1 && day <= 31) {
+      return { year, month, day };
+    }
+  }
+  const parsed = new Date(raw);
+  return Number.isNaN(parsed.getTime())
+    ? null
+    : { year: parsed.getUTCFullYear(), month: parsed.getUTCMonth() + 1, day: parsed.getUTCDate() };
+};
+
+const dateFromCaseNumber = (caseNumber) => parseDateValue(caseNumber);
+
+const getWorkingState = (startValue, endValue) => {
+  const start = parseDateValue(startValue);
+  const end = parseDateValue(endValue) || start;
+  if (!start || !end) return '否';
+  const now = new Date();
+  const today = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+  const startTime = Date.UTC(start.year, start.month - 1, start.day);
+  const endTime = Date.UTC(end.year, end.month - 1, end.day);
+  return today >= startTime && today <= endTime ? '是' : '否';
+};
+
+const convertPolygon = (geometryText) => {
+  if (!geometryText) return null;
+  try {
+    const geometry = typeof geometryText === 'string' ? JSON.parse(geometryText) : geometryText;
+    const findRing = (value) => {
+      if (!Array.isArray(value) || value.length === 0) return null;
+      if (Array.isArray(value[0]) && typeof value[0][0] === 'number') return value;
+      for (const child of value) {
+        const ring = findRing(child);
+        if (ring) return ring;
+      }
+      return null;
+    };
+    const ring = findRing(geometry);
+    if (!ring) return null;
+    return ring.map(([x, y]) => convertTwd97(x, y)).filter(Boolean);
+  } catch (error) {
+    console.warn(`⚠️ 施工範圍坐標解析失敗：${error.message}`);
+    return null;
+  }
+};
+
+const decodeXml = (value) => String(value || '')
+  .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+  .replace(/&quot;/g, '"')
+  .replace(/&apos;/g, "'")
+  .replace(/&lt;/g, '<')
+  .replace(/&gt;/g, '>')
+  .replace(/&amp;/g, '&');
+
+const xmlValue = (block, tag) => {
+  const match = block.match(new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`));
+  return decodeXml(match ? match[1].trim() : '');
+};
+
 const writeJsonIfChanged = (outputPath, data) => {
   const nextContent = `${JSON.stringify(data, null, 2)}\n`;
   const currentContent = fs.existsSync(outputPath) ? stripBom(fs.readFileSync(outputPath, 'utf8')) : null;
@@ -63,6 +173,9 @@ const SOURCES = [
   { name: 'Kaohsiung', url: 'https://data.kcg.gov.tw/Json/Get/d636aa85-4b08-42ab-a742-4f2aad070450', outputPath: path.join(PUBLIC_DIR, 'kaohsiung.json') },
 ];
 
+const NEW_TAIPEI_CSV_URL = 'https://data.ntpc.gov.tw/api/datasets/e4014a7a-e41b-4430-859e-092a97608327/csv/file';
+const PINGTUNG_XML_URL = 'https://e-road.pthg.gov.tw/openDataService.aspx';
+
 async function syncCity(source) {
   console.log(`📡 抓取 ${source.name}：${source.url}`);
   try {
@@ -70,6 +183,76 @@ async function syncCity(source) {
   } catch (error) {
     console.error(`❌ ${source.name} 同步失敗：${error.message}`);
   }
+}
+
+async function syncNewTaipei() {
+  const csv = parseCsv(await fetchText(NEW_TAIPEI_CSV_URL));
+  if (csv.length < 2) throw new Error('新北 CSV 沒有資料列');
+  const headers = csv[0].map((header) => header.trim());
+  const records = csv.slice(1).map((row) => Object.fromEntries(headers.map((header, index) => [header, row[index] || ''])));
+  const normalized = records.map((item) => {
+    const coordinate = convertTwd97(item.twd97x, item.twd97y);
+    if (!coordinate) return null;
+    return normalizedCase({
+      city: '新北市',
+      title: item.constname || '道路施工工程',
+      district: item.district || '全地區',
+      address: item.digsite,
+      pipeType: '道路施工',
+      constructionType: item.casetype || item.purpose || '道路挖掘',
+      workingState: getWorkingState(item.casestartdate_yyymmddroc, item.caseenddate_yyymmddroc),
+      caseNumber: item.caseid,
+      licenseNumber: item.licno,
+      applicant: item.supervise,
+      contractor: item.constructionunit,
+      personInCharge: {
+        name: item.qc_man || item.supervise_man || 'N/A',
+        phone: item.qc_mobiletelephone || item.supervise_mobiletelephone || item.qc_localcallservice || 'N/A',
+      },
+      startDate: item.casestartdate_yyymmddroc,
+      endDate: item.caseenddate_yyymmddroc,
+      coordinate,
+      polygon: convertPolygon(item.constructiongeomtext),
+    });
+  }).filter(Boolean);
+
+  if (normalized.length === 0) throw new Error('新北 CSV 沒有有效座標，保留既有資料');
+  console.log(`✅ 新北：${normalized.length} 筆，有效施工範圍 ${normalized.filter((item) => item.coordinate.polygon).length} 筆`);
+  writeJsonIfChanged(path.join(PUBLIC_DIR, 'newtaipei.json'), normalized);
+}
+
+async function syncPingtung() {
+  const xml = await fetchText(PINGTUNG_XML_URL);
+  const blocks = [...xml.matchAll(/<屏東縣道路挖掘施工案件>([\s\S]*?)<\/屏東縣道路挖掘施工案件>/g)].map((match) => match[1]);
+  if (blocks.length === 0) throw new Error('屏東 XML 沒有案件資料');
+
+  const normalized = blocks.map((block) => {
+    const caseNumber = xmlValue(block, '道路挖掘許可證字號');
+    const address = xmlValue(block, '挖掘地點');
+    const coordinate = convertTwd97(xmlValue(block, 'X座標_TWD97'), xmlValue(block, 'Y座標_TWD97'));
+    if (!coordinate) return null;
+    const districtMatch = address.match(/([^，,、\s]+(?:市|區|鄉|鎮))/);
+    return normalizedCase({
+      city: '屏東縣',
+      title: `${xmlValue(block, '施工原因') || '道路施工'} ${caseNumber}`.trim(),
+      district: districtMatch ? districtMatch[1] : '全地區',
+      address,
+      pipeType: '道路施工',
+      constructionType: xmlValue(block, '施工原因') || '道路挖掘',
+      workingState: getWorkingState(xmlValue(block, '核准施工起始日期'), xmlValue(block, '核准施工終止日期')),
+      caseNumber,
+      licenseNumber: caseNumber,
+      applicant: xmlValue(block, '申請單位'),
+      contractor: 'N/A',
+      startDate: xmlValue(block, '核准施工起始日期'),
+      endDate: xmlValue(block, '核准施工終止日期'),
+      coordinate,
+    });
+  }).filter(Boolean);
+
+  if (normalized.length === 0) throw new Error('屏東 XML 沒有有效座標，保留既有資料');
+  console.log(`✅ 屏東：${normalized.length} 筆`);
+  writeJsonIfChanged(path.join(PUBLIC_DIR, 'pingtung.json'), normalized);
 }
 
 const isValidTaiwanCoordinate = (lat, lng) => (
@@ -84,23 +267,14 @@ const convertTwd97 = (x, y) => {
   return isValidTaiwanCoordinate(lat, lng) ? { lat, lng } : null;
 };
 
-const dateFromCaseNumber = (caseNumber) => {
-  const digits = String(caseNumber || '').replace(/\D/g, '');
-  if (digits.length < 7) return null;
-  const year = Number(digits.slice(0, 3)) + 1911;
-  const month = Number(digits.slice(3, 5));
-  const day = Number(digits.slice(5, 7));
-  if (month < 1 || month > 12 || day < 1 || day > 31) return null;
-  return { year, month, day };
-};
-
 const fallbackDate = () => {
   const now = new Date();
   return { year: now.getUTCFullYear(), month: now.getUTCMonth() + 1, day: now.getUTCDate() };
 };
 
-const normalizedCase = ({ city, title, district, address, pipeType, constructionType, workingState, caseNumber, licenseNumber, applicant, contractor, coordinate }) => {
-  const date = dateFromCaseNumber(caseNumber) || fallbackDate();
+const normalizedCase = ({ city, title, district, address, pipeType, constructionType, workingState, caseNumber, licenseNumber, applicant, contractor, personInCharge, startDate, endDate, coordinate, polygon }) => {
+  const start = parseDateValue(startDate) || dateFromCaseNumber(caseNumber) || fallbackDate();
+  const end = parseDateValue(endDate) || start;
   return {
     city,
     title: title || '道路施工工程',
@@ -109,13 +283,13 @@ const normalizedCase = ({ city, title, district, address, pipeType, construction
     pipeType: pipeType || '道路施工',
     constructionType: constructionType || '道路挖掘',
     workingState: workingState || '否',
-    date: { start: date, end: date },
+    date: { start, end },
     applicationNumber: caseNumber || 'N/A',
     licenseNumber: licenseNumber || 'N/A',
     applicant: applicant || 'N/A',
     contractor: { name: contractor || 'N/A', phone: 'N/A' },
-    personInCharge: { name: 'N/A', phone: 'N/A' },
-    coordinate: { ...coordinate, polygon: null },
+    personInCharge: personInCharge || { name: 'N/A', phone: 'N/A' },
+    coordinate: { ...coordinate, polygon: polygon || null },
   };
 };
 
@@ -226,6 +400,8 @@ async function syncKeelung() {
 async function main() {
   console.log('🚀 開始同步臺灣道路施工資料…');
   for (const source of SOURCES) await syncCity(source);
+  await syncNewTaipei();
+  await syncPingtung();
   await syncChanghua();
   await syncKeelung();
   console.log('✨ 所有同步工作完成。');

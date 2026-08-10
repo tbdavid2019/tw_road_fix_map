@@ -15,7 +15,9 @@
 | ✅ **高雄市 Kaohsiung** | **已完成 Fully Operational** | 當日即時通報 | 已透過 GitHub Actions 機制解決 CORS 跨域限制 |
 | ✅ **彰化縣 Changhua** | **已完成 Fully Operational** | 約 476 筆 | 官方管線挖掘地圖 API，每日定時同步 |
 | ✅ **基隆市 Keelung** | **已完成 Fully Operational** | 約 396 筆 | 官方道路管理平台公開案件 API，每日定時同步 |
-| 🏛️ **其他縣市 Directory** | **官方直達導覽 Directory** | - | 臺南、新竹、新北、桃園及 TDX 官方系統；新竹目前提供統計資料，未納入點位地圖 |
+| ✅ **新北市 New Taipei** | **已完成 Fully Operational** | 即時資料 | 官方 CSV 每 10 分鐘更新，含施工範圍 |
+| ✅ **屏東縣 Pingtung** | **已完成 Fully Operational** | 每日資料 | 官方 XML 每日更新，含施工座標 |
+| 🏛️ **其他縣市 Directory** | **官方直達導覽 Directory** | - | 臺南、新竹、桃園及 TDX 官方系統；新竹目前提供統計資料，未納入點位地圖 |
 
 ---
 
@@ -28,7 +30,7 @@
 - **無障礙與行動端優化**：完整支援 BottomSheet 拖曳卡片面板及 `.sr-only` 語意標題。
 
 ### ⚡ 自動化資料數據同步 (Data Pipeline)
-- **Node.js 同步指令**：執行 `npm run sync:data` 自動拉取臺北、高雄、彰化與基隆資料，並將彰化、基隆 TWD97 座標轉為 WGS84。
+- **Node.js 同步指令**：執行 `npm run sync:data` 自動拉取臺北、高雄、彰化、基隆、新北與屏東資料，並將 TWD97 座標轉為 WGS84。
 - **GitHub Actions 自動化**：每日 Cron 任務定時抓取更新並 Commit 回存 static JSON，極速載入 (40ms)。
 
 ### 🔍 完整 SEO & Open Graph 支援
@@ -83,7 +85,9 @@ tw_road_fix_map/
 │   ├── taichung.json      # 台中市施工開放資料
 │   ├── kaohsiung.json     # 高雄市當日施工開放資料
 │   ├── changhua.json      # 彰化縣管線挖掘案件
-│   └── keelung.json       # 基隆市道路施工案件
+│   ├── keelung.json       # 基隆市道路施工案件
+│   ├── newtaipei.json     # 新北市即時道路挖掘案件
+│   └── pingtung.json      # 屏東縣道路挖掘案件
 ├── scripts/
 │   └── update-road-data.js # 資料庫定時抓取與 JSON 同步腳本
 ├── src/

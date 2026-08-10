@@ -1,4 +1,4 @@
-name: Update Taiwan Road Data (Taipei, Kaohsiung, Changhua, Keelung) & Deploy
+name: Update Taiwan Road Data (Taipei, Kaohsiung, Changhua, Keelung, New Taipei, Pingtung) & Deploy
 
 on:
   push:
