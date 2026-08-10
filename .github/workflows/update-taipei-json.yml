@@ -55,14 +55,12 @@ jobs:
           git push
 
       - name: Build React Application
-        if: ${{ secrets.REACT_APP_GOOGLE_MAP_API_KEY != '' }}
         run: npm run build
         env:
           CI: false
           REACT_APP_GOOGLE_MAP_API_KEY: ${{ secrets.REACT_APP_GOOGLE_MAP_API_KEY }}
 
       - name: Deploy to GitHub Pages
-        if: ${{ secrets.REACT_APP_GOOGLE_MAP_API_KEY != '' }}
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build
