@@ -1,6 +1,9 @@
-name: Update Taiwan Road Data JSON
+name: Update Taiwan Road Data & Deploy to GitHub Pages
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     # GitHub Actions uses UTC. 20:00 UTC = 04:00 Asia/Taipei, 08:00 UTC = 16:00 Asia/Taipei.
@@ -10,11 +13,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-road-data-json
+  group: update-road-data-and-deploy
   cancel-in-progress: false
 
 jobs:
-  update:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,10 +29,13 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install dependencies
+        run: npm ci
+
       - name: Sync Road Data JSON
         run: npm run sync:data
 
-      - name: Detect changes
+      - name: Detect data changes
         id: changes
         run: |
           if git diff --quiet -- public/*.json; then
@@ -45,7 +51,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/*.json
           git commit -m "chore: update Taiwan road data (Taipei, Kaohsiung, etc.)"
+          git push
 
-      - name: Push changes
-        if: steps.changes.outputs.changed == 'true'
-        run: git push
+      - name: Build React Application
+        run: npm run build
+        env:
+          CI: false
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
+          branch: gh-pages
