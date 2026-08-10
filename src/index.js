@@ -1,3 +1,4 @@
+import "@fortawesome/fontawesome-free/css/all.min.css";
 import "react-spring-bottom-sheet/dist/style.css";
 import React from 'react';
 import ReactDOM from 'react-dom';

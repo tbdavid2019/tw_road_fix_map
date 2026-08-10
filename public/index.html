@@ -2,40 +2,74 @@
 <html lang="zh-Hant-TW">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+    
+    <!-- Primary Meta Tags -->
+    <title>台灣道路施工地圖 | 即時查詢臺北市與全台道路工程資訊地圖</title>
+    <meta name="title" content="台灣道路施工地圖 | 即時查詢臺北市與全台道路工程資訊地圖" />
+    <meta name="description" content="全台道路施工與工程資訊即時地圖，整合臺北市、台中市、高雄市等各縣市最新道路挖掘、工程範圍、施工時間與施工單位資訊，提供便利的即時查詢與地圖圖層顯示。" />
+    <meta name="keywords" content="台灣道路施工地圖, 道路工程, 道路挖掘, 臺北市施工地圖, 台中市施工地圖, 高雄市施工地圖, 即時路況, 施工範圍" />
+    <meta name="author" content="tbdavid2019" />
+    <meta name="theme-color" content="#25a19c" />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://tbdavid2019.github.io/tw_road_fix_map/" />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/svg+xml" href="%PUBLIC_URL%/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/favicon-16x16.png" />
     <link rel="icon" href="%PUBLIC_URL%/icon.png" />
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>台灣道路施工地圖</title>
+    <!-- Mobile App Capabilities -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- Open Graph / Facebook / Line / Discord -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tbdavid2019.github.io/tw_road_fix_map/" />
+    <meta property="og:site_name" content="台灣道路施工地圖" />
+    <meta property="og:title" content="台灣道路施工地圖 | 即時查詢臺北市與全台道路工程資訊地圖" />
+    <meta property="og:description" content="全台道路施工與工程資訊即時地圖，整合臺北市、台中市、高雄市等各縣市最新道路挖掘、工程範圍、施工時間與施工單位資訊。" />
+    <meta property="og:image" content="https://tbdavid2019.github.io/tw_road_fix_map/og-image.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="台灣道路施工地圖即時畫面" />
+    <meta property="og:locale" content="zh_TW" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://tbdavid2019.github.io/tw_road_fix_map/" />
+    <meta name="twitter:site" content="@tbdavid2019" />
+    <meta name="twitter:title" content="台灣道路施工地圖 | 即時查詢臺北市與全台道路工程資訊地圖" />
+    <meta name="twitter:description" content="全台道路施工與工程資訊即時地圖，整合臺北市、台中市、高雄市等各縣市最新道路挖掘、工程範圍、施工時間與施工單位資訊。" />
+    <meta name="twitter:image" content="https://tbdavid2019.github.io/tw_road_fix_map/og-image.png" />
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "台灣道路施工地圖",
+      "alternateName": "Taiwan Road Fix Map",
+      "url": "https://tbdavid2019.github.io/tw_road_fix_map/",
+      "description": "全台道路施工與工程資訊即時地圖，整合臺北市、台中市、高雄市等各縣市最新道路挖掘、工程範圍、施工時間與施工單位資訊。",
+      "applicationCategory": "Maps & Navigation",
+      "operatingSystem": "All",
+      "inLanguage": "zh-TW"
+    }
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
+    <!-- Accessibility / SEO H1 Heading -->
+    <h1 style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;">
+      台灣道路施工地圖 - 即時全台道路挖掘與施工工程資訊地圖
+    </h1>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
   </body>
 </html>

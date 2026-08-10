@@ -292,3 +292,53 @@ export const parseKaohsiungData = (rawData) => {
     return result;
   });
 };
+
+export const parseGenericCityData = (cityName) => (data) => {
+  const parseDate = (dateStr) => {
+    if (!dateStr) return { year: 2026, month: 8, day: 10 };
+    if (typeof dateStr === 'string' && dateStr.length === 7) {
+      const year = Number(dateStr.substring(0, 3)) + 1911;
+      const month = Number(dateStr.substring(3, 5));
+      const day = Number(dateStr.substring(5));
+      return { year, month, day };
+    }
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) {
+      return { year: d.getFullYear(), month: d.getMonth() + 1, day: d.getDate() };
+    }
+    return { year: 2026, month: 8, day: 10 };
+  };
+
+  const lat = Number(data.lat || data.latitude || data.y || 0);
+  const lng = Number(data.lng || data.longitude || data.x || 0);
+
+  return {
+    city: cityName,
+    title: data.projectName || data.title || data.caseName || '道路施工工程',
+    distriction: data.district || data.dist || data.area || '全地區',
+    address: data.location || data.address || '工區範圍',
+    pipeType: data.pipeType || '道路施工',
+    constructionType: data.caseType || '道路挖掘',
+    workingState: data.isStarted === '否' ? '否' : '是',
+    date: {
+      start: parseDate(data.startDate || data.start),
+      end: parseDate(data.endDate || data.end),
+    },
+    applicationNumber: data.applicationId || 'N/A',
+    licenseNumber: data.permitId || 'N/A',
+    applicant: data.applicantUnit || 'N/A',
+    contractor: {
+      name: data.contractorName || 'N/A',
+      phone: data.contractorPhone || 'N/A',
+    },
+    personInCharge: {
+      name: data.contactName ? data.contactName.substring(0, 1) + "◯◯" : 'N/A',
+      phone: data.contactPhone || 'N/A',
+    },
+    coordinate: {
+      lat,
+      lng,
+      polygon: null,
+    },
+  };
+};

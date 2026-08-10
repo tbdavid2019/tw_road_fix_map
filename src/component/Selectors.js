@@ -42,27 +42,26 @@ const Selectors = (props)=>{
         let center = mapParameters.center; // 保持目前的地圖中心
         let shouldChangeCenter = false;
         
-        // 台北市的行政區
-        const taipeiDistricts = ['中正區', '大同區', '中山區', '松山區', '大安區', '萬華區', '信義區', '士林區', '北投區', '內湖區', '南港區', '文山區'];
-        // 台中市的行政區
-        const taichungDistricts = ['中區', '東區', '南區', '西區', '北區', '北屯區', '西屯區', '南屯區', '太平區', '大里區', '霧峰區', '烏日區', '豐原區', '后里區', '石岡區', '東勢區', '和平區', '新社區', '潭子區', '大雅區', '神岡區', '大肚區', '沙鹿區', '龍井區', '梧棲區', '清水區', '大甲區', '外埔區', '大安區'];
-        // 高雄市的行政區
-        const kaohsiungDistricts = ['新興區', '前金區', '苓雅區', '鹽埕區', '鼓山區', '旗津區', '前鎮區', '三民區', '楠梓區', '小港區', '左營區', '仁武區', '大社區', '岡山區', '路竹區', '阿蓮區', '田寮區', '燕巢區', '橋頭區', '梓官區', '彌陀區', '永安區', '湖內區', '鳳山區', '大寮區', '林園區', '鳥松區', '大樹區', '旗山區', '美濃區', '六龜區', '內門區', '杉林區', '甲仙區', '桃源區', '那瑪夏區', '茂林區', '茄萣區'];
+        const cityDistrictMap = {
+            taipei: ['中正區', '大同區', '中山區', '松山區', '大安區', '萬華區', '信義區', '士林區', '北投區', '內湖區', '南港區', '文山區'],
+            newtaipei: ['板橋區', '三重區', '中和區', '永和區', '新莊區', '新店區', '土城區', '蘆洲區', '樹林區', '汐止區', '鶯歌區', '三峽區', '淡水區', '瑞芳區', '五股區', '泰山區', '林口區', '深坑區', '石碇區', '坪林區', '三芝區', '石門區', '八里區', '平溪區', '雙溪區', '貢寮區', '金山區', '萬里區', '烏來區'],
+            taoyuan: ['桃園區', '中壢區', '平鎮區', '八德區', '楊梅區', '蘆竹區', '大溪區', '龍潭區', '龜山區', '大園區', '觀音區', '新屋區', '復興區'],
+            taichung: ['中區', '東區', '南區', '西區', '北區', '北屯區', '西屯區', '南屯區', '太平區', '大里區', '霧峰區', '烏日區', '豐原區', '后里區', '石岡區', '東勢區', '和平區', '新社區', '潭子區', '大雅區', '神岡區', '大肚區', '沙鹿區', '龍井區', '梧棲區', '清水區', '大甲區', '外埔區', '大安區'],
+            tainan: ['中西區', '東區', '南區', '北區', '安平區', '安南區', '永康區', '歸仁區', '新化區', '左鎮區', '玉井區', '楠西區', '南化區', '仁德區', '關廟區', '龍崎區', '官田區', '麻豆區', '佳里區', '西港區', '七股區', '將軍區', '學甲區', '北門區', '新營區', '後壁區', '白河區', '東山區', '六甲區', '下營區', '柳營區', '鹽水區', '善化區', '大內區', '山上區', '新市區', '安定區'],
+            kaohsiung: ['新興區', '前金區', '苓雅區', '鹽埕區', '鼓山區', '旗津區', '前鎮區', '三民區', '楠梓區', '小港區', '左營區', '仁武區', '大社區', '岡山區', '路竹區', '阿蓮區', '田寮區', '燕巢區', '橋頭區', '梓官區', '彌陀區', '永安區', '湖內區', '鳳山區', '大寮區', '林園區', '鳥松區', '大樹區', '旗山區', '美濃區', '六龜區', '內門區', '杉林區', '甲仙區', '桃源區', '那瑪夏區', '茂林區', '茄萣區'],
+            hsinchu: ['東區', '北區', '香山區'],
+            changhua: ['彰化市', '員林市', '和美鎮', '鹿港鎮', '溪湖鎮', '二林鎮', '田中鎮', '北斗鎮'],
+            keelung: ['仁愛區', '信義區', '中正區', '中山區', '安樂區', '七堵區', '暖暖區']
+        };
         
         // 只有當選擇特定行政區時才切換地圖中心
         if (selectedDistrict && selectedDistrict !== '全區域' && selectedDistrict !== '載入中' && selectedDistrict !== '全地區') {
-            if (taipeiDistricts.includes(selectedDistrict)) {
-                center = cityConfig.taipei.center;
-                shouldChangeCenter = true;
-                console.log('🏙️ 切換到台北市中心');
-            } else if (taichungDistricts.includes(selectedDistrict)) {
-                center = cityConfig.taichung.center;
-                shouldChangeCenter = true;
-                console.log('🏘️ 切換到台中市中心');
-            } else if (kaohsiungDistricts.includes(selectedDistrict)) {
-                center = cityConfig.kaohsiung.center;
-                shouldChangeCenter = true;
-                console.log('🏭 切換到高雄市中心');
+            for (const [key, districts] of Object.entries(cityDistrictMap)) {
+                if (districts.includes(selectedDistrict) && cityConfig[key]) {
+                    center = cityConfig[key].center;
+                    shouldChangeCenter = true;
+                    break;
+                }
             }
         }
         
@@ -222,11 +221,58 @@ const Selectors = (props)=>{
         setCondition({workingState:workingState, distriction:dist, date:{start: {...startDate}, end: {...endDate}}, stack:stack});
     }
 
+    const handleCityChange = (e) => {
+        let city = Number(e.target.value) === 0 ? 0 : e.target.value;
+        setCSSChosenValue(e.target);
+        setCSSChosenValue(e.target.previousElementSibling, e.target.value);
+        setSelectValue((prevState) => ({
+            ...prevState,
+            city: city === 0 ? '全縣市' : city
+        }));
+
+        if (city !== 0) {
+            const cityEntry = Object.values(cityConfig).find(c => c.name === city);
+            if (cityEntry && cityEntry.center) {
+                setMapParameters({
+                    center: cityEntry.center,
+                    polygon: null,
+                    zoom: 12,
+                    selectMarker: mapParameters.selectMarker,
+                    closeInfoWindow: true
+                });
+            }
+        }
+
+        setPageIndex(0);
+        setCondition((prev) => ({
+            ...prev,
+            city: city,
+            distriction: 0
+        }));
+    };
+
+    let cityArr = options.city || [];
     let workingStateArr = Array.from({length: options.workingState.length},(_,index)=>index);
     let distArr = Array.from({length: options.distriction.length},(_,index)=>index);
 
     return(
         <div className='selectors'>
+            <div className='selectContainer'>
+                <i className="selectArrow fas fa-chevron-down"/>
+                <select name='citySelect'
+                        id='citySelect'
+                        defaultValue='0'
+                        onChange={handleCityChange}
+                >
+                    <option value={0}>全縣市</option>
+                    {
+                        cityArr.map((c)=>(
+                            <option value={c} key={c}>{c}</option>
+                        ))
+                    }
+                </select>
+                <span>{selectValue.city || '全縣市'}</span>
+            </div>
             <div className='selectContainer'>
                 <i className="selectArrow fas fa-chevron-down"/>
                 <select name='workingState'

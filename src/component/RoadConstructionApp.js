@@ -20,12 +20,12 @@ const RoadConstructionApp = () => {
   const [closeInfoBlock, setCloseInfoBlock] = useState(null);
   const [makerMessage, setMakerMessage] = useState(null);
   const [constructionsData, setConstructionsData] = useState("loading");
-  const [bottomSheetOpen, setBottomSheetOpen] = useState(true);
   const [condition, setCondition] = useState({
-    workingState: "是",
+    workingState: 0,
     distriction: 0,
+    city: 0,
     date: { start: null, end: null },
-    stack: ["workingState"],
+    stack: [],
   });
   const [mapParameters, setMapParameters] = useState({
     center: { lat: 25.0330, lng: 121.5654 }, // Default to Taipei
@@ -38,7 +38,6 @@ const RoadConstructionApp = () => {
   const bottomSheetRef = useRef(null);
 
   useEffect(() => {
-    // 當選取了標記（且不是關閉狀態時），主動觸發 ref 讓抽屜往上彈到一半的高度 (0.5) 
     if (isMobile && mapParameters.selectMarker && !mapParameters.closeInfoWindow && bottomSheetRef.current) {
       bottomSheetRef.current.snapTo(({ maxHeight }) => maxHeight * 0.5);
     }
@@ -101,10 +100,11 @@ const RoadConstructionApp = () => {
   };
 
   const convertDate2Num = (date) => {
+    if (!date) return 0;
     let [year, month, day] = Object.values(date);
-    year = year.toString();
-    month = month.toString();
-    day = day.toString();
+    year = year ? year.toString() : '2026';
+    month = month ? month.toString() : '1';
+    day = day ? day.toString() : '1';
 
     if (month.length === 1) month = "0" + month;
     if (day.length === 1) day = "0" + day;
@@ -113,6 +113,7 @@ const RoadConstructionApp = () => {
   };
 
   const sliceData = (data) => {
+    if (!data || !Array.isArray(data)) return [];
     let _data = data;
     let newData = [];
     for (let i = 0; i < _data.length; i += 10) {
@@ -135,79 +136,44 @@ const RoadConstructionApp = () => {
         debugLog(`✅ ${city.name} 原始資料:`, rawData);
         
         let parsedData;
-        // Taipei data is nested under 'features'
         if (city.name === '台北市') {
-          debugLog(`🏙️ 台北市 features 數量:`, rawData?.features?.length || 0);
           if (rawData && rawData.features && Array.isArray(rawData.features)) {
             parsedData = rawData.features.map(city.parser);
           } else {
-            debugLog('⚠️ 台北市資料格式異常，跳過解析');
             parsedData = [];
           }
-        }
-        // The parser for Kaohsiung expects the full rawData
-        else if (city.name === '高雄市') {
-          debugLog(`🏭 高雄市 Data 數量:`, rawData?.Data?.length || 0);
+        } else if (city.name === '高雄市') {
           parsedData = city.parser(rawData);
-        }
-        // Taichung data is a direct array
-        else if (city.name === '台中市') {
-          debugLog(`🏘️ 台中市資料長度:`, rawData?.length || 0);
-          if (Array.isArray(rawData)) {
-            parsedData = rawData.map(city.parser);
-            debugLog(`✨ 台中市解析後資料數量:`, parsedData.length);
-          } else {
-            debugLog('⚠️ 台中市資料格式異常，跳過解析');
-            parsedData = [];
-          }
-        }
-        // For other cities, map through the array
-        else {
-          debugLog(`🏘️ ${city.name} 資料長度:`, rawData?.length || 0);
-          if (Array.isArray(rawData)) {
-            parsedData = rawData.map(city.parser);
-          } else {
-            parsedData = [];
-          }
+        } else if (Array.isArray(rawData)) {
+          parsedData = rawData.map(city.parser);
+        } else {
+          parsedData = [];
         }
         
         debugLog(`✨ ${city.name} 解析後資料:`, parsedData);
         return parsedData;
       } catch (error) {
         console.error(`❌ ${city.name} 抓取失敗:`, error);
-        return []; // Return empty array on failure
+        return [];
       }
     });
 
     const results = await Promise.allSettled(fetchPromises);
-    debugLog('🎯 Promise.allSettled 結果:', results);
 
     let allData = results
       .filter(result => result.status === 'fulfilled')
       .flatMap(result => result.value);
 
-    // 重新排序資料，讓台北市的資料在前面
     allData.sort((a, b) => {
       if (a.city === '台北市' && b.city !== '台北市') return -1;
       if (a.city !== '台北市' && b.city === '台北市') return 1;
-      if (a.city === '台中市' && b.city === '高雄市') return -1;
-      if (a.city === '高雄市' && b.city === '台中市') return 1;
       return 0;
     });
 
-    debugLog('📊 合併後的所有資料:', allData);
-    debugLog('📈 總資料筆數:', allData.length);
-    debugLog('🏙️ 資料城市分佈:', allData.reduce((acc, item) => {
-      acc[item.city] = (acc[item.city] || 0) + 1;
-      return acc;
-    }, {}));
-
     if (allData.length === 0) {
-      debugLog('⚠️ 沒有資料，設定為 null');
-        setConstructionsData(null); // Set to null if all fetches failed
+      setConstructionsData(null);
     } else {
-      debugLog('🎉 設定資料完成');
-        setConstructionsData(allData);
+      setConstructionsData(allData);
     }
   }, []);
 
@@ -217,101 +183,65 @@ const RoadConstructionApp = () => {
   }, [INITAIL, fetchData]);
 
   const filteredData = useMemo(() => {
-    const filteringData = (condition) => {
-      let data = constructionsData;
-      let newData = [];
-      if (data === null || data === "loading") {
-        newData = data;
-      } else if (condition.stack.length === 3) {
-        newData = data.filter(
-          (object) =>
-            ((convertDate2Num(condition.date.start) >=
-              convertDate2Num(object.date.start) &&
-              convertDate2Num(condition.date.start) <=
-                convertDate2Num(object.date.end)) ||
-              (convertDate2Num(condition.date.end) >=
-                convertDate2Num(object.date.start) &&
-                convertDate2Num(condition.date.end) <=
-                  convertDate2Num(object.date.end))) &&
-            object.workingState === condition.workingState &&
-            object.distriction === condition.distriction
-        );
-      } else if (condition.stack.length === 2) {
-        if (condition.stack.indexOf("date") !== -1) {
-          let anotherCondition =
-            condition.stack[1 - condition.stack.indexOf("date")];
-          newData = data.filter(
-            (object) =>
-              ((convertDate2Num(condition.date.start) >=
-                convertDate2Num(object.date.start) &&
-                convertDate2Num(condition.date.start) <=
-                  convertDate2Num(object.date.end)) ||
-                (convertDate2Num(condition.date.end) >=
-                  convertDate2Num(object.date.start) &&
-                  convertDate2Num(condition.date.end) <=
-                    convertDate2Num(object.date.end))) &&
-              object[anotherCondition] === condition[anotherCondition]
-          );
-        } else {
-          newData = data.filter(
-            (object) =>
-              object.workingState === condition.workingState &&
-              object.distriction === condition.distriction
-          );
-        }
-      } else if (condition.stack.length === 1) {
-        if (condition.distriction !== 0) {
-          newData = data.filter(
-            (object) => object.distriction === condition.distriction
-          );
-        } else if (
-          condition.date.start !== null &&
-          condition.date.end !== null
-        ) {
-          newData = data.filter(
-            (object) =>
-              (convertDate2Num(condition.date.start) >=
-                convertDate2Num(object.date.start) &&
-                convertDate2Num(condition.date.start) <=
-                  convertDate2Num(object.date.end)) ||
-              (convertDate2Num(condition.date.end) >=
-                convertDate2Num(object.date.start) &&
-                convertDate2Num(condition.date.end) <=
-                  convertDate2Num(object.date.end))
-          );
-        } else if (condition.workingState !== 0) {
-          newData = data.filter(
-            (object) => object.workingState === condition.workingState
-          );
-        }
+    if (!constructionsData || constructionsData === "loading" || constructionsData === null) {
+      return constructionsData;
+    }
+
+    return constructionsData.filter((object) => {
+      if (condition.city && condition.city !== 0 && object.city !== condition.city) {
+        return false;
+      }
+      if (condition.workingState && condition.workingState !== 0 && object.workingState !== condition.workingState) {
+        return false;
+      }
+      if (condition.distriction && condition.distriction !== 0 && object.distriction !== condition.distriction) {
+        return false;
+      }
+      if (condition.date && condition.date.start && condition.date.end) {
+        const startNum = convertDate2Num(condition.date.start);
+        const endNum = convertDate2Num(condition.date.end);
+        const objStartNum = convertDate2Num(object.date.start);
+        const objEndNum = convertDate2Num(object.date.end);
+
+        const overlaps =
+          (startNum >= objStartNum && startNum <= objEndNum) ||
+          (endNum >= objStartNum && endNum <= objEndNum) ||
+          (objStartNum >= startNum && objStartNum <= endNum);
+        if (!overlaps) return false;
       }
 
-      return newData;
-    };
-
-    let newData = filteringData(condition);
-    return newData;
+      return true;
+    });
   }, [condition, constructionsData]);
 
   const selectorsOptions = useMemo(() => {
-    let _stack = condition.stack;
     let _options = {
+      city: [],
       workingState: [],
       distriction: [],
       date: { start: {}, end: {} },
     };
     if (
-      _stack.length >= 0 &&
+      constructionsData &&
       constructionsData !== "loading" &&
-      constructionsData !== null
+      constructionsData !== null &&
+      constructionsData.length > 0
     ) {
       _options.date.start = { ...constructionsData[0].date.start };
       _options.date.end = { ...constructionsData[0].date.end };
+
+      const citySet = new Set();
+      const stateSet = new Set();
+      const distSet = new Set();
+
       for (let object of constructionsData) {
-        if (_options.workingState.indexOf(object.workingState) === -1)
-          _options.workingState.push(object.workingState);
-        if (_options.distriction.indexOf(object.distriction) === -1)
-          _options.distriction.push(object.distriction);
+        if (object.city) citySet.add(object.city);
+        if (object.workingState) stateSet.add(object.workingState);
+
+        if (!condition.city || condition.city === 0 || object.city === condition.city) {
+          if (object.distriction) distSet.add(object.distriction);
+        }
+
         if (
           convertDate2Num(object.date.start) <=
           convertDate2Num(_options.date.start)
@@ -322,9 +252,13 @@ const RoadConstructionApp = () => {
         )
           _options.date.end = { ...object.date.end };
       }
+
+      _options.city = Array.from(citySet);
+      _options.workingState = Array.from(stateSet);
+      _options.distriction = Array.from(distSet);
     }
     return _options;
-  }, [condition.stack, constructionsData]);
+  }, [condition.city, constructionsData]);
 
   const handleCloseClick = () => {
     let _closeInfoBlock = closeInfoBlock;
@@ -345,6 +279,7 @@ const RoadConstructionApp = () => {
   if (constructionsData === "loading") {
     return (
       <div className="container">
+        <h1 className="sr-only">台灣道路施工地圖 - 即時全台道路挖掘與施工工程資訊地圖</h1>
         <Map
           constructionsData={null}
           mapParameters={mapParameters}
@@ -364,17 +299,17 @@ const RoadConstructionApp = () => {
           setMapParameters={setMapParameters}
         />
         {isMobile ? (
-  <BottomSheet
-    open={true}
-    blocking={false}
-    snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
-    defaultSnap={({ maxHeight }) => maxHeight * 0.5}
-  >
-    <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
-  </BottomSheet>
-) : (
-  <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
-)}
+          <BottomSheet
+            open={true}
+            blocking={false}
+            snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
+            defaultSnap={({ maxHeight }) => maxHeight * 0.5}
+          >
+            <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
+          </BottomSheet>
+        ) : (
+          <InfoBlock value="loading" length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={true} constructionsData={null} />
+        )}
         <MakerMessage
           makerMessage={makerMessage}
           handleMakerMessageClick={handleMakerMessageClick}
@@ -384,6 +319,7 @@ const RoadConstructionApp = () => {
   } else if (constructionsData === null) {
     return (
       <div className="container">
+        <h1 className="sr-only">台灣道路施工地圖 - 即時全台道路挖掘與施工工程資訊地圖</h1>
         <Map
           constructionsData={null}
           mapParameters={mapParameters}
@@ -403,17 +339,17 @@ const RoadConstructionApp = () => {
           setMapParameters={setMapParameters}
         />
         {isMobile ? (
-  <BottomSheet
-    open={true}
-    blocking={false}
-    snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
-    defaultSnap={({ maxHeight }) => maxHeight * 0.5}
-  >
-    <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
-  </BottomSheet>
-) : (
-  <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
-)}
+          <BottomSheet
+            open={true}
+            blocking={false}
+            snapPoints={({ maxHeight }) => [160, maxHeight * 0.5]}
+            defaultSnap={({ maxHeight }) => maxHeight * 0.5}
+          >
+            <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} isInBottomSheet={true} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
+          </BottomSheet>
+        ) : (
+          <InfoBlock value={null} length={0} option={selectorsOptions} condition={condition} mapParameters={mapParameters} closeInfoBlock={closeInfoBlock} isMobile={isMobile} handleCloseClick={handleCloseClick} setCondition={setCondition} setMapParameters={setMapParameters} isLoading={false} constructionsData={null} />
+        )}
         <MakerMessage
           makerMessage={makerMessage}
           handleMakerMessageClick={handleMakerMessageClick}
@@ -421,19 +357,10 @@ const RoadConstructionApp = () => {
       </div>
     );
   } else {
-    let data = null;
-    if (
-      condition.distriction === 0 &&
-      condition.date.start === null &&
-      condition.date.end === null &&
-      condition.workingState === 0
-    ) {
-      data = constructionsData;
-    } else {
-      data = filteredData;
-    }
+    let data = filteredData;
     return (
       <div className="container">
+        <h1 className="sr-only">台灣道路施工地圖 - 即時全台道路挖掘與施工工程資訊地圖</h1>
         <Map
           constructionsData={sliceData(data)}
           mapParameters={mapParameters}
@@ -453,23 +380,14 @@ const RoadConstructionApp = () => {
           setMapParameters={setMapParameters}
         />
         {isMobile ? (
-
           <BottomSheet
-
             ref={bottomSheetRef}
-
             open={true}
-
             blocking={false}
-
             snapPoints={({ maxHeight }) => [120, maxHeight * 0.5, maxHeight * 0.95]}
-
             defaultSnap={({ maxHeight }) => 120}
-
             expandOnContentDrag={true}
-
           >
-
             {(mapParameters.selectMarker && !mapParameters.closeInfoWindow) ? (
               <div style={{ padding: '0 15px 15px', position: 'relative' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', borderBottom: '1px solid #eee', paddingBottom: '10px' }}>
@@ -486,7 +404,7 @@ const RoadConstructionApp = () => {
             ) : (
               <InfoBlock
                 value={sliceData(data)}
-                length={data.length}
+                length={data ? data.length : 0}
                 option={selectorsOptions}
                 condition={condition}
                 mapParameters={mapParameters}
@@ -499,26 +417,21 @@ const RoadConstructionApp = () => {
                 constructionsData={constructionsData}
               />
             )}
-
           </BottomSheet>
-
         ) : (
-
           <InfoBlock
-              value={sliceData(data)}
-              length={data.length}
-              option={selectorsOptions}
-              condition={condition}
-              mapParameters={mapParameters}
-              closeInfoBlock={closeInfoBlock}
-              isMobile={isMobile}
-              handleCloseClick={handleCloseClick}
-              setCondition={setCondition}
-              setMapParameters={setMapParameters}
-              constructionsData={constructionsData}
-
+            value={sliceData(data)}
+            length={data ? data.length : 0}
+            option={selectorsOptions}
+            condition={condition}
+            mapParameters={mapParameters}
+            closeInfoBlock={closeInfoBlock}
+            isMobile={isMobile}
+            handleCloseClick={handleCloseClick}
+            setCondition={setCondition}
+            setMapParameters={setMapParameters}
+            constructionsData={constructionsData}
           />
-
         )}
         <MakerMessage
           makerMessage={makerMessage}

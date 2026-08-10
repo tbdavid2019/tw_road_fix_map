@@ -1,192 +1,98 @@
 # 台灣道路施工地圖 Taiwan Road Construction Map
 
-本專案參考 
-https://github.com/TKaiC666/Taichung_Road_Construction_Map
-
-
-
-
-```
-# 完整的部署流程
-npm run build    # 建置 production 版本
-npm run deploy   # 自動執行 predeploy (再次 build) + 部署到 gh-pages
-
-# 或者直接一步到位
-npm run deploy   # 會自動先 build 再 deploy
-```
-
 🚧 即時顯示台灣各城市道路施工狀況的互動式地圖 | Real-time interactive map showing road construction status across Taiwan cities
+
+👉 **線上展演網站**: [https://tbdavid2019.github.io/tw_road_fix_map](https://tbdavid2019.github.io/tw_road_fix_map)
+
+---
 
 ## 專案狀態 Project Status
 
-| 城市 City | 狀態 Status | 說明 Description |
-|-----------|-------------|------------------|
-| ✅ 台北市 Taipei | **已完成 Completed** | 即時資料抓取正常運作 Real-time data fetching working |
-| ✅ 台中市 Taichung | **已完成 Completed** | 即時資料抓取正常運作，已整合4160筆施工資料 Real-time data fetching working with 4160 construction records |
-| 🚧 高雄市 Kaohsiung | **進行中 In Progress** | CORS 問題解決中 Resolving CORS issues |
+| 城市 / 來源 City | 狀態 Status | 數據筆數 Records | 說明 Description |
+|---|---|---|---|
+| ✅ **臺北市 Taipei** | **已完成 Fully Operational** | ~1,294 筆 | 每日定時自動抓取最新 Open Data (GeoJSON) |
+| ✅ **臺中市 Taichung** | **已完成 Fully Operational** | ~3,327 筆 | 整合開放資料平台道路養護與管線施工數據 |
+| ✅ **高雄市 Kaohsiung** | **已完成 Fully Operational** | 當日即時通報 | 已透過 GitHub Actions 機制解決 CORS 跨域限制 |
+| 🏛️ **其他縣市 Directory** | **官方直達導覽 Directory** | - | 整合臺南、新竹、彰化、基隆、新北、桃園及 TDX 官方系統目錄 |
+
+---
 
 ## 功能特色 Features
 
-### 🗺️ 互動式地圖
-- 使用 Google Maps 顯示施工位置
-- 支援標記叢集化，提升效能
-- 點擊標記查看詳細資訊
-- 動態縮放和平移
+### 🗺️ 互動式 Google 地圖與縣市連動
+- **動態縣市切換**：下拉選單選取縣市，地圖鏡頭自動平移並定焦至該縣市中心。
+- **行政區連動篩選**：選取特定縣市後，地區選單動態更新為該縣市之行政區。
+- **施工標記圖層**：綠色（施工中）與灰色（未施工）圓形標記，支援點擊查看詳情卡片。
+- **無障礙與行動端優化**：完整支援 BottomSheet 拖曳卡片面板及 `.sr-only` 語意標題。
 
-### 📊 即時資料
-- 每日更新的施工資訊
-- 自動抓取政府開放資料
-- 多重備援機制確保資料穩定性
+### ⚡ 自動化資料數據同步 (Data Pipeline)
+- **Node.js 同步指令**：執行 `npm run sync:data` 自動拉取台北市與高雄市開放資料。
+- **GitHub Actions 自動化**：每日 Cron 任務定時抓取更新並 Commit 回存 static JSON，極速載入 (40ms)。
 
-### 🎯 智慧篩選
-- 依行政區篩選
-- 依施工狀態篩選
-- 依時間範圍篩選
-- 支援關鍵字搜尋
+### 🔍 完整 SEO & Open Graph 支援
+- **社群分享卡片**：內建 Open Graph (`og:*`) 與 Twitter Cards 標籤，搭配專屬 1200x630 社群預覽圖。
+- **結構化資料**：`WebApplication` JSON-LD 語意化標記。
+- **Favicons**：包含向量 `favicon.svg` 及 PNG 規格圖檔。
 
-### 📱 響應式設計
-- 支援桌面和行動裝置
-- 優化的使用者介面
-- 即時位置定位功能
+---
 
 ## 技術架構 Tech Stack
 
 - **前端框架**: React.js
-- **地圖服務**: Google Maps API
-- **樣式處理**: SCSS
-- **資料格式**: GeoJSON, JSON
-- **打包工具**: Create React App
+- **地圖服務**: Google Maps API (@googlemaps/js-api-loader)
+- **樣式處理**: Vanilla SCSS & FontAwesome 5 Free
+- **自動化腳本**: Node.js (`scripts/update-road-data.js`)
+- **CI/CD 工作流**: GitHub Actions (`update-taipei-json.yml`)
+- **打包工具**: Create React App (CRA)
 
-## 資料來源 Data Sources
+---
 
-### 台北市 Taipei
-- **資料源**: 台北市工程管制中心
-- **API**: `https://tpnco.blob.core.windows.net/blobfs/Todaywork.json`
-- **格式**: GeoJSON Feature Collection
-- **更新頻率**: 每日
-
-### 台中市 Taichung
-- **資料源**: 台中市政府開放資料平台
-- **API**: `https://datacenter.taichung.gov.tw/swagger/OpenData/...`
-- **格式**: JSON Array
-- **狀態**: 開發中
-
-### 高雄市 Kaohsiung
-- **資料源**: 高雄市政府開放資料平台
-- **API**: `https://data.kcg.gov.tw/Json/Get/...`
-- **格式**: JSON Object with Data Array
-- **狀態**: CORS 問題解決中
-
-## 安裝使用 Installation
+## 安裝與執行 Installation & Usage
 
 ```bash
 # 複製專案
 git clone https://github.com/tbdavid2019/tw_road_fix_map.git
 
-# 進入目錄
+# 進入專案目錄
 cd tw_road_fix_map
 
 # 安裝依賴
 npm install
 
-# 設定環境變數
-cp example.env .env
-# 編輯 .env 檔案，加入你的 Google Maps API Key
+# 手動執行資料同步
+npm run sync:data
 
 # 啟動開發伺服器
 npm start
+
+# 建置正式版本
+npm run build
 ```
 
-## 環境設定 Environment Setup
-
-創建 `.env` 檔案並設定以下變數：
-
-```env
-REACT_APP_GOOGLE_MAP_API_KEY=your_google_maps_api_key_here
-```
+---
 
 ## 專案結構 Project Structure
 
 ```
-src/
-├── component/          # React 元件
-│   ├── Map.js         # 地圖主元件
-│   ├── InfoBlock.js   # 資訊區塊
-│   ├── Card.js        # 資訊卡片
-│   └── ...
-├── constants/         # 常數設定
-│   ├── cityConfig.js  # 城市配置
-│   └── keyMaps.js     # 資料欄位對應
-├── lib/              # 工具函式
-│   ├── dataFetchers.js # 資料抓取器
-│   ├── dataParsers.js  # 資料解析器
-│   └── ...
-└── scss/             # 樣式檔案
+tw_road_fix_map/
+├── .github/workflows/      # GitHub Actions 自動同步工作流
+├── public/                 # 靜態資源、SEO Favicon 及各地區 JSON 檔案
+│   ├── taipei.json        # 台北市施工開放資料
+│   ├── taichung.json      # 台中市施工開放資料
+│   └── kaohsiung.json     # 高雄市當日施工開放資料
+├── scripts/
+│   └── update-road-data.js # 資料庫定時抓取與 JSON 同步腳本
+├── src/
+│   ├── component/          # React 組件 (Map, Selectors, InfoBlock, MakerMessage)
+│   ├── constants/          # 縣市與 keyMap 設定 (cityConfig.js, keyMaps.js)
+│   ├── lib/                # 數據 Fetcher 與 Generic Parser (dataParsers.js)
+│   └── index.scss          # 設計系統樣式
+├── CHANGELOG.md            # 版本更新日誌
+└── README.md               # 專案說明文件
 ```
-
-## 開發貢獻 Contributing
-
-歡迎提交 Issue 和 Pull Request！
-
-1. Fork 此專案
-2. 創建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交變更 (`git commit -m 'Add amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 開啟 Pull Request
-
-## 已知問題 Known Issues
-
-- 台中市 API 存在連線問題，正在尋找替代方案
-- 高雄市資料存在 CORS 限制，需要代理服務
-- 部分施工資料可能存在座標轉換問題
-
-## 更新日誌 Changelog
-
-### v1.0.0 (2025-07-02)
-- ✅ 完成台北市資料整合
-- ✅ 實現多重 CORS 備援機制
-- ✅ 優化地圖效能和使用者體驗
-- 🚧 台中市、高雄市開發中
-
-
-
-## 聯絡方式 Contact
-
-如有任何問題或建議，歡迎聯絡：
-- 開啟 [GitHub Issue](https://github.com/tbdavid2019/tw_road_fix_map/issues)
-
 
 ---
 
-## English Version
+## 授權與貢獻 License & Contributing
 
-### Project Description
-
-Taiwan Road Construction Map is a real-time interactive web application that displays ongoing road construction and maintenance work across major cities in Taiwan. The application integrates with government open data APIs to provide up-to-date information about road conditions.
-
-### Features
-
-- **Interactive Google Maps Integration**: View construction sites with clustered markers for better performance
-- **Real-time Data**: Daily updated construction information from government sources
-- **Smart Filtering**: Filter by district, construction status, date range, and keywords
-- **Responsive Design**: Optimized for both desktop and mobile devices
-- **Multi-city Support**: Currently supporting Taipei with Taichung and Kaohsiung in development
-
-### Technical Implementation
-
-The application uses React.js with Google Maps API to create an interactive mapping experience. It implements a sophisticated data fetching system with multiple fallback mechanisms to handle CORS issues and API reliability concerns.
-
-### Data Integration Status
-
-- **Taipei**: ✅ Fully operational with real-time data fetching
-- **Taichung**: 🚧 API integration in progress
-- **Kaohsiung**: 🚧 Resolving CORS policy issues
-
-### Getting Started
-
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Set up your Google Maps API key in `.env`
-4. Run `npm start` to launch the development server
-
-This project aims to improve traffic awareness and urban planning by making construction data more accessible to the public.
+歡迎提交 Issue 與 Pull Request 協助改善資料格式解析或提供更多縣市 API 介接管道！
