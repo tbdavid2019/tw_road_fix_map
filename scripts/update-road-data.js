@@ -347,7 +347,7 @@ async function syncChanghua() {
       console.error(`❌ 彰化 ${status.label} 同步失敗：${error.message}`);
     }
   }
-  if (successfulRequests === 0) throw new Error('彰化所有公開案件 API 都無法取得，保留既有資料');
+  if (successfulRequests === 0 || records.length === 0) throw new Error('彰化沒有有效案件，保留既有資料');
   writeJsonIfChanged(path.join(PUBLIC_DIR, 'changhua.json'), records);
 }
 
@@ -408,7 +408,7 @@ async function syncKeelung() {
       console.error(`❌ 基隆 ${source.label} 同步失敗：${error.message}`);
     }
   }
-  if (successfulRequests === 0) throw new Error('基隆所有公開案件 API 都無法取得，保留既有資料');
+  if (successfulRequests === 0 || records.length === 0) throw new Error('基隆沒有有效案件，保留既有資料');
   writeJsonIfChanged(path.join(PUBLIC_DIR, 'keelung.json'), records);
 }
 
