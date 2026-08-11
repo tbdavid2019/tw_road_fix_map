@@ -75,6 +75,43 @@
   },
   {
     "city": "屏東縣",
+    "title": "茲因配合FTTH寬頻工程佈放電纜管障須埋設配管 1151152",
+    "distriction": "恆春鎮",
+    "address": "恆春鎮，槺林南路５３０號附近_埋設配管(10m)1處_S4L538030_另有鄉公所路權",
+    "pipeType": "道路施工",
+    "constructionType": "茲因配合FTTH寬頻工程佈放電纜管障須埋設配管",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 19
+      }
+    },
+    "applicationNumber": "1151152",
+    "licenseNumber": "1151152",
+    "applicant": "中華電信股份有限公司屏東營運處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 21.998472645325506,
+      "lng": 120.73046358126967,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
     "title": "茲因配合FTTH寬頻工程佈放電纜管障須提升手孔 1151093",
     "distriction": "枋寮鄉",
     "address": "枋寮鄉，東海路１２０號到中山路三段之間，共10處_提升手孔10座_S4L540072",
@@ -3553,6 +3590,80 @@
   },
   {
     "city": "屏東縣",
+    "title": "新設工程 19115027",
+    "distriction": "林邊鄉",
+    "address": "林邊鄉，和平路30之21號對面(仁和段763地號)(62M)",
+    "pipeType": "道路施工",
+    "constructionType": "新設工程",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 5
+      }
+    },
+    "applicationNumber": "19115027",
+    "licenseNumber": "19115027",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.43473227421931,
+      "lng": 120.51334233322154,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "新設工程 19115026",
+    "distriction": "林邊鄉",
+    "address": "林邊鄉，堤防路7號對面(林邊鄉游泳池)(46M)",
+    "pipeType": "道路施工",
+    "constructionType": "新設工程",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 5
+      }
+    },
+    "applicationNumber": "19115026",
+    "licenseNumber": "19115026",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.43602620607327,
+      "lng": 120.52256526133974,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
     "title": "改善(負載不足改良)工程 06115093",
     "distriction": "長治鄉",
     "address": "長治鄉，德新路8巷(德新路~德新路8巷10號旁)(408M)",
@@ -4219,6 +4330,43 @@
   },
   {
     "city": "屏東縣",
+    "title": "新設(太陽光電引接線)工程 04115106",
+    "distriction": "恆春鎮",
+    "address": "恆春鎮，南灣路901號旁(16M)-另有公路局路權",
+    "pipeType": "道路施工",
+    "constructionType": "新設(太陽光電引接線)工程",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 30
+      }
+    },
+    "applicationNumber": "04115106",
+    "licenseNumber": "04115106",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 21.981345502966224,
+      "lng": 120.75118234208739,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
     "title": "新設工程 04115105",
     "distriction": "恆春鎮",
     "address": "恆春鎮，新興路90巷20號旁(24M)",
@@ -4515,43 +4663,6 @@
   },
   {
     "city": "屏東縣",
-    "title": "新增用電 05115074",
-    "distriction": "萬丹鄉",
-    "address": "萬丹鄉，大憲街239號前(手孔一處)",
-    "pipeType": "道路施工",
-    "constructionType": "新增用電",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "05115074",
-    "licenseNumber": "05115074",
-    "applicant": "台灣電力股份有限公司屏東區營業處",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.588436836592358,
-      "lng": 120.48801974054442,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
     "title": "台電屏東配合線路改善工程 申請提升孔蓋 02115252",
     "distriction": "潮州鎮",
     "address": "潮州鎮，潮州鎮民治路98號前 (人孔提升1只)",
@@ -4663,6 +4774,154 @@
   },
   {
     "city": "屏東縣",
+    "title": "台電屏東配合線路新增設工程 申請提升孔蓋 02115256",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，潮州鎮華嚴街106號、福安街35號、福安街7號 (人孔提升2只、手孔提升2只)",
+    "pipeType": "道路施工",
+    "constructionType": "台電屏東配合線路新增設工程 申請提升孔蓋",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 14
+      }
+    },
+    "applicationNumber": "02115256",
+    "licenseNumber": "02115256",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.557947372864636,
+      "lng": 120.5382463132412,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "台電屏東配合線路新增設工程 申請提升孔蓋 02115256",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，潮州鎮華嚴街106號、福安街35號、福安街7號 (人孔提升2只、手孔提升2只)",
+    "pipeType": "道路施工",
+    "constructionType": "台電屏東配合線路新增設工程 申請提升孔蓋",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 14
+      }
+    },
+    "applicationNumber": "02115256",
+    "licenseNumber": "02115256",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.557971943104203,
+      "lng": 120.5382577827723,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "台電屏東配合線路新增設工程 申請提升孔蓋 02115256",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，潮州鎮華嚴街106號、福安街35號、福安街7號 (人孔提升2只、手孔提升2只)",
+    "pipeType": "道路施工",
+    "constructionType": "台電屏東配合線路新增設工程 申請提升孔蓋",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 14
+      }
+    },
+    "applicationNumber": "02115256",
+    "licenseNumber": "02115256",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.55797478588108,
+      "lng": 120.53858114216035,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "台電屏東配合線路新增設工程 申請提升孔蓋 02115256",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，潮州鎮華嚴街106號、福安街35號、福安街7號 (人孔提升2只、手孔提升2只)",
+    "pipeType": "道路施工",
+    "constructionType": "台電屏東配合線路新增設工程 申請提升孔蓋",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 14
+      }
+    },
+    "applicationNumber": "02115256",
+    "licenseNumber": "02115256",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.55803398703155,
+      "lng": 120.5391206001402,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
     "title": "配合用戶蔡憲欽申請線路新增設工程 申請提升孔蓋 02115253",
     "distriction": "潮州鎮",
     "address": "潮州鎮，潮州鎮五福路150號旁 (手孔提升1只)",
@@ -4769,6 +5028,80 @@
     "coordinate": {
       "lat": 22.55515475034743,
       "lng": 120.5430704568425,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "新設工程-管障變更路徑 02115257",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，文化路190號旁(25M)",
+    "pipeType": "道路施工",
+    "constructionType": "新設工程-管障變更路徑",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 27
+      }
+    },
+    "applicationNumber": "02115257",
+    "licenseNumber": "02115257",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.55849987617367,
+      "lng": 120.54383515006084,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "新增設工程 02115255",
+    "distriction": "潮州鎮",
+    "address": "潮州鎮，北門路與文化路口(26M)",
+    "pipeType": "道路施工",
+    "constructionType": "新增設工程",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 25
+      }
+    },
+    "applicationNumber": "02115255",
+    "licenseNumber": "02115255",
+    "applicant": "台灣電力股份有限公司屏東區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.558611293083473,
+      "lng": 120.54400109238978,
       "polygon": null
     }
   },
@@ -13691,43 +14024,6 @@
   },
   {
     "city": "屏東縣",
-    "title": "辦理屏東縣長治鄉繁華村等供水延管工程 06115081",
-    "distriction": "長治鄉",
-    "address": "長治鄉，水源路(左)",
-    "pipeType": "道路施工",
-    "constructionType": "辦理屏東縣長治鄉繁華村等供水延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "06115081",
-    "licenseNumber": "06115081",
-    "applicant": "自來水公司屏東區管理處屏東營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.701596146167173,
-      "lng": 120.57148745231466,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
     "title": "辦理屏東縣長治鄉繁華村等供水延管工程 06115084",
     "distriction": "長治鄉",
     "address": "長治鄉，南華街、復華街、水圳路、水圳巷",
@@ -14389,6 +14685,80 @@
     "coordinate": {
       "lat": 22.698631551755028,
       "lng": 120.49744878511699,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "用戶新裝工程(補助案) PT1150676",
+    "distriction": "屏東市",
+    "address": "屏東市，頂柳路175巷29之2號",
+    "pipeType": "道路施工",
+    "constructionType": "用戶新裝工程(補助案)",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 10
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      }
+    },
+    "applicationNumber": "PT1150676",
+    "licenseNumber": "PT1150676",
+    "applicant": "自來水公司屏東區管理處屏東營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.633977173363867,
+      "lng": 120.4956472238514,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "用戶新裝工程(補助案) PT1150675",
+    "distriction": "屏東市",
+    "address": "屏東市，頂柳路175巷80號",
+    "pipeType": "道路施工",
+    "constructionType": "用戶新裝工程(補助案)",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 10
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      }
+    },
+    "applicationNumber": "PT1150675",
+    "licenseNumber": "PT1150675",
+    "applicant": "自來水公司屏東區管理處屏東營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.634975077507324,
+      "lng": 120.49619262104288,
       "polygon": null
     }
   },
@@ -15504,43 +15874,6 @@
   },
   {
     "city": "屏東縣",
-    "title": "用戶 王佳瀚 申請供水 09115156",
-    "distriction": "里港鄉",
-    "address": "里港鄉，里港路108巷26號",
-    "pipeType": "道路施工",
-    "constructionType": "用戶 王佳瀚 申請供水",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115156",
-    "licenseNumber": "09115156",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.7754511892258,
-      "lng": 120.4963226960723,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
     "title": "用戶 李淑榕 陳素時 林文慶 蔡寶盛 曾聖耀 曾伏凌 申請供水 09115182",
     "distriction": "里港鄉",
     "address": "里港鄉，福興路2-3號、5號、6號、19-21號、25-2號、27號",
@@ -15837,43 +16170,6 @@
   },
   {
     "city": "屏東縣",
-    "title": "用戶 湯麗蘭 申請供水 09115155",
-    "distriction": "里港鄉",
-    "address": "里港鄉，光復巷11-1號",
-    "pipeType": "道路施工",
-    "constructionType": "用戶 湯麗蘭 申請供水",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115155",
-    "licenseNumber": "09115155",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.767031149478512,
-      "lng": 120.5014227429556,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
     "title": "用戶 黃來定 申請供水 09115183",
     "distriction": "里港鄉",
     "address": "里港鄉，福興路25-2號",
@@ -15906,43 +16202,6 @@
     "coordinate": {
       "lat": 22.787200667372257,
       "lng": 120.50831013345241,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "用戶 黃清盛 申請供水 09115157",
-    "distriction": "里港鄉",
-    "address": "里港鄉，里中路6-39號",
-    "pipeType": "道路施工",
-    "constructionType": "用戶 黃清盛 申請供水",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115157",
-    "licenseNumber": "09115157",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.770845000073088,
-      "lng": 120.50062790925512,
       "polygon": null
     }
   },
@@ -16165,2781 +16424,6 @@
     "coordinate": {
       "lat": 22.77773288331142,
       "lng": 120.51418095826115,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115173",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-1.1-7.1-12.1-16號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115173",
-    "licenseNumber": "09115173",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783090225797086,
-      "lng": 120.52721936792771,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115173",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-1.1-7.1-12.1-16號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115173",
-    "licenseNumber": "09115173",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.782985773354326,
-      "lng": 120.52745628318937,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115173",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-1.1-7.1-12.1-16號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115173",
-    "licenseNumber": "09115173",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.782851548242167,
-      "lng": 120.52775493989776,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115173",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-1.1-7.1-12.1-16號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115173",
-    "licenseNumber": "09115173",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.782768181437163,
-      "lng": 120.52793066844949,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115174",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-10.1-11.1-14號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115174",
-    "licenseNumber": "09115174",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783071504016604,
-      "lng": 120.52732571634589,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115174",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-10.1-11.1-14號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115174",
-    "licenseNumber": "09115174",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78291784428629,
-      "lng": 120.52767296092942,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115174",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路1-10.1-11.1-14號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115174",
-    "licenseNumber": "09115174",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78285460044346,
-      "lng": 120.52780979996619,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115161",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134.134-7.134-8.135-1.144-1號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115161",
-    "licenseNumber": "09115161",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785097456779802,
-      "lng": 120.52872387020388,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115161",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134.134-7.134-8.135-1.144-1號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115161",
-    "licenseNumber": "09115161",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784931888695315,
-      "lng": 120.52906403013102,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115161",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134.134-7.134-8.135-1.144-1號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115161",
-    "licenseNumber": "09115161",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78494943480965,
-      "lng": 120.52908216297543,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115161",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134.134-7.134-8.135-1.144-1號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115161",
-    "licenseNumber": "09115161",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78491195873612,
-      "lng": 120.52910718536147,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115161",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134.134-7.134-8.135-1.144-1號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115161",
-    "licenseNumber": "09115161",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784788335938252,
-      "lng": 120.52936100746929,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115163",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-10.134-11.134-12.134-14.134-15號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115163",
-    "licenseNumber": "09115163",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78466548187981,
-      "lng": 120.52881347555834,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115163",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-10.134-11.134-12.134-14.134-15號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115163",
-    "licenseNumber": "09115163",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784700725584685,
-      "lng": 120.52883679704348,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115163",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-10.134-11.134-12.134-14.134-15號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115163",
-    "licenseNumber": "09115163",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784765241410096,
-      "lng": 120.5288735069694,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115163",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-10.134-11.134-12.134-14.134-15號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115163",
-    "licenseNumber": "09115163",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784801057346886,
-      "lng": 120.52889488839567,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115163",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-10.134-11.134-12.134-14.134-15號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115163",
-    "licenseNumber": "09115163",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78483276941511,
-      "lng": 120.52891494963792,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115164",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-16.134-17.134-18.134-19.134-21號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115164",
-    "licenseNumber": "09115164",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784702142072916,
-      "lng": 120.52879964641832,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115164",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-16.134-17.134-18.134-19.134-21號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115164",
-    "licenseNumber": "09115164",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784779579536256,
-      "lng": 120.52884505785899,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115164",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-16.134-17.134-18.134-19.134-21號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115164",
-    "licenseNumber": "09115164",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784807434650258,
-      "lng": 120.52886178200485,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115164",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-16.134-17.134-18.134-19.134-21號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115164",
-    "licenseNumber": "09115164",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784847579157308,
-      "lng": 120.52888412250171,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115164",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-16.134-17.134-18.134-19.134-21號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115164",
-    "licenseNumber": "09115164",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78488393457379,
-      "lng": 120.52890776161541,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115162",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-9.134-22.134-23.134-25.134-26號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115162",
-    "licenseNumber": "09115162",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785059107228946,
-      "lng": 120.5288017024365,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115162",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-9.134-22.134-23.134-25.134-26號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115162",
-    "licenseNumber": "09115162",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785036754303164,
-      "lng": 120.5288469697641,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115162",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-9.134-22.134-23.134-25.134-26號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115162",
-    "licenseNumber": "09115162",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785017428337675,
-      "lng": 120.52888974314988,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115162",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-9.134-22.134-23.134-25.134-26號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115162",
-    "licenseNumber": "09115162",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78499399343067,
-      "lng": 120.52893559852545,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115162",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路134-9.134-22.134-23.134-25.134-26號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115162",
-    "licenseNumber": "09115162",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784952333301337,
-      "lng": 120.52902390205482,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115165",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路137-3.138(2戶).143.143-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115165",
-    "licenseNumber": "09115165",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785954450261414,
-      "lng": 120.52775298475008,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115165",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路137-3.138(2戶).143.143-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115165",
-    "licenseNumber": "09115165",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785561584205492,
-      "lng": 120.52858945976521,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115165",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路137-3.138(2戶).143.143-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115165",
-    "licenseNumber": "09115165",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785316860687832,
-      "lng": 120.52916176756924,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115165",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路137-3.138(2戶).143.143-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115165",
-    "licenseNumber": "09115165",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785241653388077,
-      "lng": 120.52933041918857,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115165",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路137-3.138(2戶).143.143-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115165",
-    "licenseNumber": "09115165",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785204144545563,
-      "lng": 120.52939945381777,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115166",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路144.145.146.146-7.147號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115166",
-    "licenseNumber": "09115166",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785464682453316,
-      "lng": 120.52792001616514,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115166",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路144.145.146.146-7.147號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115166",
-    "licenseNumber": "09115166",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785334861991252,
-      "lng": 120.52825783444693,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115166",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路144.145.146.146-7.147號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115166",
-    "licenseNumber": "09115166",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785313229086015,
-      "lng": 120.5283022229342,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115166",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路144.145.146.146-7.147號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115166",
-    "licenseNumber": "09115166",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78520805947595,
-      "lng": 120.52853839380461,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115166",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路144.145.146.146-7.147號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115166",
-    "licenseNumber": "09115166",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785126492002675,
-      "lng": 120.5287181995464,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115167",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路146-1.146-2(3戶).146-3號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115167",
-    "licenseNumber": "09115167",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78554169256876,
-      "lng": 120.52781177066848,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115167",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路146-1.146-2(3戶).146-3號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115167",
-    "licenseNumber": "09115167",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785513072315243,
-      "lng": 120.5278783112012,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115167",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路146-1.146-2(3戶).146-3號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115167",
-    "licenseNumber": "09115167",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785485084739342,
-      "lng": 120.52794198615366,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115167",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路146-1.146-2(3戶).146-3號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115167",
-    "licenseNumber": "09115167",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785459840873497,
-      "lng": 120.52799900938868,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115167",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路146-1.146-2(3戶).146-3號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115167",
-    "licenseNumber": "09115167",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785397284685246,
-      "lng": 120.52812720965461,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115168",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路148(2戶).148-1.148-3.148-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115168",
-    "licenseNumber": "09115168",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785331994123666,
-      "lng": 120.52818586068136,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115168",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路148(2戶).148-1.148-3.148-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115168",
-    "licenseNumber": "09115168",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785330896710743,
-      "lng": 120.5281964901002,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115168",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路148(2戶).148-1.148-3.148-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115168",
-    "licenseNumber": "09115168",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785245242311902,
-      "lng": 120.52838974082515,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115168",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路148(2戶).148-1.148-3.148-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115168",
-    "licenseNumber": "09115168",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78519921529997,
-      "lng": 120.52849151947518,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115168",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路148(2戶).148-1.148-3.148-5號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115168",
-    "licenseNumber": "09115168",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78516782068162,
-      "lng": 120.52856362066797,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115169",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路150-6.150-8.150-9.151-6.151-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115169",
-    "licenseNumber": "09115169",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784279888414822,
-      "lng": 120.52875612075344,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115169",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路150-6.150-8.150-9.151-6.151-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115169",
-    "licenseNumber": "09115169",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784420163025214,
-      "lng": 120.52885999547338,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115169",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路150-6.150-8.150-9.151-6.151-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115169",
-    "licenseNumber": "09115169",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78441860201733,
-      "lng": 120.52892466977498,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115169",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路150-6.150-8.150-9.151-6.151-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115169",
-    "licenseNumber": "09115169",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784399224116,
-      "lng": 120.5289651543992,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115169",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路150-6.150-8.150-9.151-6.151-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115169",
-    "licenseNumber": "09115169",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784255868482788,
-      "lng": 120.5291850338012,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115170",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路153.153-1.153-2.153-3.153-4號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115170",
-    "licenseNumber": "09115170",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78412549704789,
-      "lng": 120.52812314035158,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115170",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路153.153-1.153-2.153-3.153-4號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115170",
-    "licenseNumber": "09115170",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784101310953943,
-      "lng": 120.52816531669107,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115170",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路153.153-1.153-2.153-3.153-4號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115170",
-    "licenseNumber": "09115170",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784077795583183,
-      "lng": 120.52820527015474,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115170",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路153.153-1.153-2.153-3.153-4號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115170",
-    "licenseNumber": "09115170",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78404858095817,
-      "lng": 120.52825410594036,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115170",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路153.153-1.153-2.153-3.153-4號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115170",
-    "licenseNumber": "09115170",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78395284983485,
-      "lng": 120.5284173827703,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115171",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路155-2.155-3.155-5.155-6號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115171",
-    "licenseNumber": "09115171",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78408781937342,
-      "lng": 120.52812880185911,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115171",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路155-2.155-3.155-5.155-6號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115171",
-    "licenseNumber": "09115171",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78405202566875,
-      "lng": 120.52818520822709,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115171",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路155-2.155-3.155-5.155-6號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115171",
-    "licenseNumber": "09115171",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783982927228852,
-      "lng": 120.52830295986452,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115171",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路155-2.155-3.155-5.155-6號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115171",
-    "licenseNumber": "09115171",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783925711284997,
-      "lng": 120.5283986792826,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115172",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路155-4號(自費案)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115172",
-    "licenseNumber": "09115172",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784017218486618,
-      "lng": 120.5282454094882,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115175",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2.155-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115175",
-    "licenseNumber": "09115175",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78363097681628,
-      "lng": 120.52777058616347,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115175",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2.155-7號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115175",
-    "licenseNumber": "09115175",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783556203003307,
-      "lng": 120.52786245080216,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115160",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2-5.152-1.155(2戶) 號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115160",
-    "licenseNumber": "09115160",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783559269788125,
-      "lng": 120.52826729056726,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115160",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2-5.152-1.155(2戶) 號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115160",
-    "licenseNumber": "09115160",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783707329236105,
-      "lng": 120.52834977931887,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115160",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2-5.152-1.155(2戶) 號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115160",
-    "licenseNumber": "09115160",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.7837185654577,
-      "lng": 120.52835654842332,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115160",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路2-5.152-1.155(2戶) 號",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115160",
-    "licenseNumber": "09115160",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.78420615418748,
-      "lng": 120.5287048142741,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115158",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(三)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115158",
-    "licenseNumber": "09115158",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784011645587256,
-      "lng": 120.52828786264622,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115158",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(三)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115158",
-    "licenseNumber": "09115158",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785144612686675,
-      "lng": 120.52861900045262,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115158",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(三)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115158",
-    "licenseNumber": "09115158",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784022551258822,
-      "lng": 120.52865643702805,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115158",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(三)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115158",
-    "licenseNumber": "09115158",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.785470671757892,
-      "lng": 120.52878520244303,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115158",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(三)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115158",
-    "licenseNumber": "09115158",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.784809114180394,
-      "lng": 120.52887700854244,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115159",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(四)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115159",
-    "licenseNumber": "09115159",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.782927459803496,
-      "lng": 120.52759898788604,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣里港鄉載興村巷道延管工程 09115159",
-    "distriction": "里港鄉",
-    "address": "里港鄉，載興路各巷道(四)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣里港鄉載興村巷道延管工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "09115159",
-    "licenseNumber": "09115159",
-    "applicant": "自來水公司屏東區管理處高樹營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.783557205815825,
-      "lng": 120.52787784508324,
       "polygon": null
     }
   },
@@ -19310,80 +16794,6 @@
     "coordinate": {
       "lat": 22.569561226821946,
       "lng": 120.60962644234242,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣萬巒鄉新厝村等巷道管線延管工程(此路段無用戶申請) 1151009",
-    "distriction": "萬巒鄉",
-    "address": "萬巒鄉，新樂街1-6號往新樂街39號(此路段無用戶申請)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣萬巒鄉新厝村等巷道管線延管工程(此路段無用戶申請)",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 15
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "1151009",
-    "licenseNumber": "1151009",
-    "applicant": "自來水公司屏東區管理處潮州營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.56857015694178,
-      "lng": 120.61150908404126,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "屏東縣萬巒鄉新厝村等巷道管線延管工程(此路段無用戶申請) 1151009",
-    "distriction": "萬巒鄉",
-    "address": "萬巒鄉，新樂街1-6號往新樂街39號(此路段無用戶申請)",
-    "pipeType": "道路施工",
-    "constructionType": "屏東縣萬巒鄉新厝村等巷道管線延管工程(此路段無用戶申請)",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 15
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "1151009",
-    "licenseNumber": "1151009",
-    "applicant": "自來水公司屏東區管理處潮州營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.56795717375047,
-      "lng": 120.61155443361827,
       "polygon": null
     }
   },
@@ -24532,6 +21942,80 @@
   },
   {
     "city": "屏東縣",
+    "title": "萬巒淨水場清水池管線改善工程 12115263",
+    "distriction": "萬巒鄉",
+    "address": "萬巒鄉，營區路1巷(萬巒淨水廠旁)",
+    "pipeType": "道路施工",
+    "constructionType": "萬巒淨水場清水池管線改善工程",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 7
+      }
+    },
+    "applicationNumber": "12115263",
+    "licenseNumber": "12115263",
+    "applicant": "自來水公司屏東區管理處潮州營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.611070368663672,
+      "lng": 120.62287673886586,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
+    "title": "萬巒鄉佳佐村等巷道延管工程-新裝用戶 12115264",
+    "distriction": "萬巒鄉",
+    "address": "萬巒鄉，民生路28-9號(佳佐延管)",
+    "pipeType": "道路施工",
+    "constructionType": "萬巒鄉佳佐村等巷道延管工程-新裝用戶",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 11
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 8
+      }
+    },
+    "applicationNumber": "12115264",
+    "licenseNumber": "12115264",
+    "applicant": "自來水公司屏東區管理處潮州營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 22.564329147052774,
+      "lng": 120.60665980398204,
+      "polygon": null
+    }
+  },
+  {
+    "city": "屏東縣",
     "title": "萬巒鄉佳和村等巷道管線延管工程-新裝用戶 12115252",
     "distriction": "萬巒鄉",
     "address": "萬巒鄉，光明路2-2號、光明路2-2號、光明路2-8號、光明路2-10號",
@@ -27862,43 +25346,6 @@
   },
   {
     "city": "屏東縣",
-    "title": "114年度屏東縣污水下水道系統用戶接管開口契約工程 1151063",
-    "distriction": "內埔鄉",
-    "address": "內埔鄉，文化路181之1號前",
-    "pipeType": "道路施工",
-    "constructionType": "114年度屏東縣污水下水道系統用戶接管開口契約工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "1151063",
-    "licenseNumber": "1151063",
-    "applicant": "屏東縣政府水利處下水道科",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.61104773792343,
-      "lng": 120.56964706680247,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
     "title": "屏東縣東港鎮污水下水道系統分支管及用戶接管工程(第一期)第一標 115677",
     "distriction": "東港鎮",
     "address": "東港鎮，中正路一段26號~54號，中正路一段318~346號",
@@ -28597,43 +26044,6 @@
     "coordinate": {
       "lat": 22.545551189994157,
       "lng": 120.53691000586339,
-      "polygon": null
-    }
-  },
-  {
-    "city": "屏東縣",
-    "title": "114年度屏東縣污水下水道系統用戶接管開口契約工程 13115374",
-    "distriction": "內埔鄉",
-    "address": "內埔鄉，文昌路7之1號對面",
-    "pipeType": "道路施工",
-    "constructionType": "114年度屏東縣污水下水道系統用戶接管開口契約工程",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 10
-      }
-    },
-    "applicationNumber": "13115374",
-    "licenseNumber": "13115374",
-    "applicant": "屏東縣政府水利處下水道科",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 22.610880134125598,
-      "lng": 120.5696345149345,
       "polygon": null
     }
   },

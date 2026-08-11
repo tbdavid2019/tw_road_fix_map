@@ -51,7 +51,7 @@ const Card = (props)=>{
                     </div>
                 </div>
                 <div className='buttons'>
-                    {(data.coordinate.lat !== 0 && data.coordinate.lat !== 0) &&
+                    {(data.coordinate.lat !== 0 && data.coordinate.lng !== 0) &&
                     <div title='顯示位置' className='buttons-locate' onClick={()=>{handleLocationData()}}>
                         <i className="fas fa-map-marker-alt"/>
                     </div>}

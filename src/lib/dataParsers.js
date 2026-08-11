@@ -8,6 +8,24 @@ const debugLog = (...args) => {
   }
 };
 
+const isValidTaiwanCoordinate = (lat, lng) => (
+  Number.isFinite(lat) &&
+  Number.isFinite(lng) &&
+  lat >= 21 && lat <= 26 &&
+  lng >= 119 && lng <= 123
+);
+
+const normalizeCoordinate = (coordinate) => {
+  const lat = Number(coordinate?.lat);
+  const lng = Number(coordinate?.lng);
+
+  if (!isValidTaiwanCoordinate(lat, lng)) {
+    return { lat: 0, lng: 0, polygon: coordinate?.polygon || null };
+  }
+
+  return { ...coordinate, lat, lng, polygon: coordinate?.polygon || null };
+};
+
 // --- Data Parsers for each city ---
 
 export const parseTaichungData = (data) => {
@@ -55,16 +73,17 @@ export const parseTaichungData = (data) => {
   };
 
   // 座標處理：台中市使用 WGS84 座標，無需轉換
-  const lngStr = data[taichungKeyMap.lng];
-  const latStr = data[taichungKeyMap.lat];
+  // 台中市 API 的欄位名稱曾經變更過，保留舊欄位作為相容處理。
+  const lngStr = data[taichungKeyMap.lng] ?? data['經度'];
+  const latStr = data[taichungKeyMap.lat] ?? data['緯度'];
   const lng = Number(lngStr);
   const lat = Number(latStr);
   debugLog('🗺️ 台中市原始座標 (WGS84):', { lat, lng, lngStr, latStr });
   
-  // 檢查座標是否為有效數字，對於空字串給預設座標
+  // 檢查座標是否為有效數字；無效座標不應被放到預設位置。
   if (!lngStr || !latStr || lngStr === "" || latStr === "" || !isFinite(lng) || !isFinite(lat)) {
-    debugLog('❌ 台中市座標資料為空，使用預設座標:', { lngStr, latStr });
-    // 使用預設座標而不是跳過，確保資料能顯示
+    debugLog('❌ 台中市座標資料為空，不繪製地圖座標:', { lngStr, latStr });
+    // 沒有座標的案件仍保留在清單中，但不要把它偽造到台中市中心。
     const result = {
       city: '台中市',
       title: data[taichungKeyMap.projectName] || '道路工程',
@@ -89,8 +108,8 @@ export const parseTaichungData = (data) => {
         phone: data[taichungKeyMap.contactPhone] || 'N/A',
       },
       coordinate: {
-        lat: 24.163 + (Math.random() - 0.5) * 0.1, // 加入隨機偏移避免重疊
-        lng: 120.673 + (Math.random() - 0.5) * 0.1,
+        lat: 0,
+        lng: 0,
         polygon: splitPolygonData(data[taichungKeyMap.geometry]),
       },
     };
@@ -98,9 +117,9 @@ export const parseTaichungData = (data) => {
     return result;
   }
 
-  // 檢查座標是否在合理範圍內，如果不是就使用預設座標
+  // 檢查座標是否在合理範圍內；超出範圍的資料不應被放到預設位置。
   if (lng < 120 || lng > 122 || lat < 23 || lat > 25) {
-    debugLog('⚠️ 台中市座標超出範圍，使用預設座標:', { lng, lat });
+    debugLog('⚠️ 台中市座標超出範圍，不繪製地圖座標:', { lng, lat });
     const result = {
       city: '台中市',
       title: data[taichungKeyMap.projectName] || '道路工程',
@@ -125,8 +144,8 @@ export const parseTaichungData = (data) => {
         phone: data[taichungKeyMap.contactPhone] || 'N/A',
       },
       coordinate: {
-        lat: 24.163 + (Math.random() - 0.5) * 0.1, // 加入隨機偏移避免重疊
-        lng: 120.673 + (Math.random() - 0.5) * 0.1,
+        lat: 0,
+        lng: 0,
         polygon: splitPolygonData(data[taichungKeyMap.geometry]),
       },
     };
@@ -170,8 +189,8 @@ export const parseTaichungData = (data) => {
 };
 
 export const parseTaipeiData = (item) => {
-  const properties = item.properties;
-  const geometry = item.geometry;
+  const properties = item?.properties || {};
+  const geometry = item?.geometry;
 
   const parseDate = (dateStr) => {
     debugLog('📅 解析日期:', dateStr);
@@ -189,13 +208,20 @@ export const parseTaipeiData = (item) => {
     : '未知區域';
 
   // Convert TWD97 to WGS84
-  const x = parseFloat(geometry.coordinates[0]);
-  const y = parseFloat(geometry.coordinates[1]);
+  const x = Number(geometry?.coordinates?.[0]);
+  const y = Number(geometry?.coordinates?.[1]);
   debugLog('🗺️ 原始坐標 (TWD97):', { x, y });
   
-  const { lat: baseLat, lng: baseLng } = convertTWD97ToWGS84(x, y);
-  const lat = baseLat + (Math.random() - 0.5) * 0.00015;
-  const lng = baseLng + (Math.random() - 0.5) * 0.00015;
+  const converted = Number.isFinite(x) && Number.isFinite(y)
+    ? convertTWD97ToWGS84(x, y)
+    : { lat: 0, lng: 0 };
+  const hasValidCoordinate = isValidTaiwanCoordinate(converted.lat, converted.lng);
+  const lat = hasValidCoordinate
+    ? converted.lat + (Math.random() - 0.5) * 0.00015
+    : 0;
+  const lng = hasValidCoordinate
+    ? converted.lng + (Math.random() - 0.5) * 0.00015
+    : 0;
   debugLog('🌍 轉換後坐標 (WGS84):', { lat, lng });
 
   const result = {
@@ -296,11 +322,11 @@ export const parseKaohsiungData = (rawData) => {
         name: 'N/A',
         phone: 'N/A',
       },
-      coordinate: {
-        lat: Number(item[kaohsiungKeyMap.lat]) || 22.6273,
-        lng: Number(item[kaohsiungKeyMap.lng]) || 120.3014,
+      coordinate: normalizeCoordinate({
+        lat: item[kaohsiungKeyMap.lat],
+        lng: item[kaohsiungKeyMap.lng],
         polygon: null,
-      },
+      }),
     };
     
     debugLog(`✨ 高雄市第 ${index + 1} 筆解析結果:`, result);
@@ -350,13 +376,17 @@ export const parseGenericCityData = (cityName) => (data) => {
       name: data.contactName ? data.contactName.substring(0, 1) + "◯◯" : 'N/A',
       phone: data.contactPhone || 'N/A',
     },
-    coordinate: {
+    coordinate: normalizeCoordinate({
       lat,
       lng,
       polygon: null,
-    },
+    }),
   };
 };
 
-// 彰化、基隆的同步腳本已先轉成地圖共用格式，前端只需保留資料即可。
-export const parseNormalizedCityData = (data) => data;
+// 彰化、基隆、新北、屏東的同步腳本已先轉成共用格式，
+// 但前端仍需驗證座標，避免壞資料把 NaN 傳給 Google Maps。
+export const parseNormalizedCityData = (data) => ({
+  ...data,
+  coordinate: normalizeCoordinate(data.coordinate),
+});
