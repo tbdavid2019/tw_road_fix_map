@@ -13432,43 +13432,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150700131",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 15
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 15
-      }
-    },
-    "applicationNumber": "1150700131",
-    "licenseNumber": "N/A",
-    "applicant": "欣林天然氣股份公司",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.973377168463198,
-      "lng": 120.57520356922952,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150700134",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -15832,6 +15795,43 @@
     "coordinate": {
       "lat": 23.912592378733162,
       "lng": 120.31210568679214,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150700131",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 15
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 15
+      }
+    },
+    "applicationNumber": "1150700131",
+    "licenseNumber": "N/A",
+    "applicant": "欣林天然氣股份公司",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.973377168463198,
+      "lng": 120.57520356922952,
       "polygon": null
     }
   },
