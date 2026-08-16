@@ -1,413 +1,6 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中開孔 WH11409001  ",
-    "distriction": "中正區",
-    "address": "信二路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      }
-    },
-    "applicationNumber": "WH11409001  ",
-    "licenseNumber": "WH11409001-07",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.131585458532147,
-      "lng": 121.74525793656298,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507010  ",
-    "distriction": "仁愛區",
-    "address": "仁五路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507010  ",
-    "licenseNumber": "WH11507010-02",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12728823863449,
-      "lng": 121.74092466388049,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507011  ",
-    "distriction": "信義區",
-    "address": "東明路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507011  ",
-    "licenseNumber": "WH11507011-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12808053270411,
-      "lng": 121.75633226305382,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507011  ",
-    "distriction": "信義區",
-    "address": "東明路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507011  ",
-    "licenseNumber": "WH11507011-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127931220347257,
-      "lng": 121.7582842150565,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507011  ",
-    "distriction": "信義區",
-    "address": "東明路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507011  ",
-    "licenseNumber": "WH11507011-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12784150680627,
-      "lng": 121.76000086255596,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507011  ",
-    "distriction": "信義區",
-    "address": "東明路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507011  ",
-    "licenseNumber": "WH11507011-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127710712117118,
-      "lng": 121.76173864960352,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507014  ",
-    "distriction": "中正區",
-    "address": "信四路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507014  ",
-    "licenseNumber": "WH11507014-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.133398739012733,
-      "lng": 121.74652808953131,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11507015  ",
-    "distriction": "信義區",
-    "address": "東明路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507015  ",
-    "licenseNumber": "WH11507015-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127803306995787,
-      "lng": 121.76040273975553,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11508001  ",
-    "distriction": "中正區",
-    "address": "調和街",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      }
-    },
-    "applicationNumber": "WH11508001  ",
-    "licenseNumber": "WH11508001-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.126953504246103,
-      "lng": 121.79940274785149,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11508003  ",
-    "distriction": "信義區",
-    "address": "崇法街",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      }
-    },
-    "applicationNumber": "WH11508003  ",
-    "licenseNumber": "WH11508003-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.128997767510725,
-      "lng": 121.76476294197114,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11508003  ",
-    "distriction": "信義區",
-    "address": "崇法街",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 16
-      }
-    },
-    "applicationNumber": "WH11508003  ",
-    "licenseNumber": "WH11508003-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.131231833838207,
-      "lng": 121.76542628039061,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1110600222",
     "distriction": "仁愛區",
     "address": "自 忠一路４號 至 仁二路２５５號",
@@ -16540,6 +16133,43 @@
   },
   {
     "city": "基隆市",
+    "title": "施工中道路挖掘 R115080084",
+    "distriction": "安樂區",
+    "address": "自 安一路177巷３１號 至 安一路177巷３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 16
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 16
+      }
+    },
+    "applicationNumber": "R115080084",
+    "licenseNumber": "R115080084-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.132276060586467,
+      "lng": 121.73173027672676,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "施工中道路維護 M114060640",
     "distriction": "安樂區",
     "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
@@ -16609,6 +16239,43 @@
     "coordinate": {
       "lat": 25.121858128224293,
       "lng": 121.72291567228429,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115080082",
+    "distriction": "中山區",
+    "address": "自 通明街１６號 至 通明街１６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 16
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 16
+      }
+    },
+    "applicationNumber": "R115080082",
+    "licenseNumber": "R115080082-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.148709929045662,
+      "lng": 121.73900149961743,
       "polygon": null
     }
   }
