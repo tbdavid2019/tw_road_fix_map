@@ -15800,43 +15800,6 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150200015",
-    "distriction": "仁愛區",
-    "address": "自 孝一路１０１之１號 至 孝一路１１３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 17
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 17
-      }
-    },
-    "applicationNumber": "1150200015",
-    "licenseNumber": "1150200015-06",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "麗寶工程顧問有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.128300776573255,
-      "lng": 121.74022483507014,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "施工中道路挖掘 1150400017",
     "distriction": "仁愛區",
     "address": "自 南榮路200巷３號 至 南榮路200巷３號",
@@ -16281,6 +16244,43 @@
   },
   {
     "city": "基隆市",
+    "title": "施工中道路挖掘 R115080087",
+    "distriction": "信義區",
+    "address": "自 崇法街１２５號 至 崇法街１２５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      }
+    },
+    "applicationNumber": "R115080087",
+    "licenseNumber": "R115080087-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "東傑工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13426565157605,
+      "lng": 121.76837567915877,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "施工中道路維護 M114060640",
     "distriction": "安樂區",
     "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
@@ -16355,12 +16355,49 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路挖掘 1150200015",
+    "distriction": "仁愛區",
+    "address": "自 孝一路１０１之１號 至 孝一路１１３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 17
+      }
+    },
+    "applicationNumber": "1150200015",
+    "licenseNumber": "1150200015-06",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "麗寶工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128300776573255,
+      "lng": 121.74022483507014,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -16392,12 +16429,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -16429,12 +16466,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -16466,12 +16503,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -16503,12 +16540,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -16540,12 +16577,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路維護 M115060772",
+    "title": "已完工道路維護 M115060772",
     "distriction": "信義區",
     "address": "自 東光路４０之１號 至 東光路４０之１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
