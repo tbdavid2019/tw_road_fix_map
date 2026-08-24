@@ -8622,43 +8622,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 1150700011",
-    "distriction": "七堵區",
-    "address": "自 長安街１號 至 長安街１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 24
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 24
-      }
-    },
-    "applicationNumber": "1150700011",
-    "licenseNumber": "1150700011-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "麗寶工程顧問有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.07750811490271,
-      "lng": 121.69005868073057,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1150700013",
     "distriction": "安樂區",
     "address": "自 崇德路１８號 至 崇德路12巷１１號",
@@ -9135,43 +9098,6 @@
     "coordinate": {
       "lat": 25.100651650322632,
       "lng": 121.7545242788226,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 1150700050",
-    "distriction": "七堵區",
-    "address": "自 明德一路2巷3弄２號 至 明德一路2巷3弄１０之１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 24
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 24
-      }
-    },
-    "applicationNumber": "1150700050",
-    "licenseNumber": "1150700050-01",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.099792799978673,
-      "lng": 121.71781085216607,
       "polygon": null
     }
   },
@@ -12433,413 +12359,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09786513110927,
-      "lng": 121.71425474109765,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.097478142428418,
-      "lng": 121.71319662414032,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.07714765256826,
-      "lng": 121.69185716622601,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.077519538427186,
-      "lng": 121.68962949033651,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.07164283235386,
-      "lng": 121.69643441156605,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.07532701765136,
-      "lng": 121.69664800860957,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.072940964992956,
-      "lng": 121.69610031192586,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.095674258392176,
-      "lng": 121.71322203486723,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.095133926962472,
-      "lng": 121.71905248719521,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.084197320611505,
-      "lng": 121.70821930427957,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080802",
-    "distriction": "七堵區",
-    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080802",
-    "licenseNumber": "M115080802-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.088539554021544,
-      "lng": 121.70883930379203,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路維護 M115080805",
     "distriction": "安樂區",
     "address": "自 安一路176巷３８號 至 武隆街103巷５３號",
@@ -13469,43 +12988,6 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中開孔 WH11507010",
-    "distriction": "仁愛區",
-    "address": "仁五路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11507010",
-    "licenseNumber": "WH11507010-02",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12728823863449,
-      "lng": 121.74092466388049,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "施工中道路挖掘 1150100015",
     "distriction": "中山區",
     "address": "自 文化路239巷５號 至 文化路239巷１號",
@@ -13802,43 +13284,6 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115080115",
-    "distriction": "中正區",
-    "address": "自 祥豐街２０７號 至 祥豐街２０７號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080115",
-    "licenseNumber": "R115080115-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.14352768784194,
-      "lng": 121.76582896728034,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "施工中道路維護 M114060640",
     "distriction": "安樂區",
     "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
@@ -13908,6 +13353,43 @@
     "coordinate": {
       "lat": 25.121858128224293,
       "lng": 121.72291567228429,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工開孔 WH11507010",
+    "distriction": "仁愛區",
+    "address": "仁五路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11507010",
+    "licenseNumber": "WH11507010-02",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12728823863449,
+      "lng": 121.74092466388049,
       "polygon": null
     }
   },
