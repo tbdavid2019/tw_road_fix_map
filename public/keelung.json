@@ -4293,12 +4293,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150100015",
+    "title": "已完工道路挖掘 1150100015",
     "distriction": "中山區",
     "address": "自 文化路239巷５號 至 文化路239巷１號",
     "pipeType": "道路挖掘",
     "constructionType": "一般案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -4330,12 +4330,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150100015",
+    "title": "已完工道路挖掘 1150100015",
     "distriction": "中山區",
     "address": "自 文化路239巷５號 至 文化路239巷１號",
     "pipeType": "道路挖掘",
     "constructionType": "一般案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -4367,12 +4367,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150700004",
+    "title": "已完工道路挖掘 1150700004",
     "distriction": "信義區",
     "address": "自 教忠街４１號 至 教忠街１３０號",
     "pipeType": "道路挖掘",
     "constructionType": "一般案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -4404,12 +4404,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150700008",
+    "title": "已完工道路挖掘 1150700008",
     "distriction": "安樂區",
     "address": "自 樂一路12巷１８號 至 樂一路12巷１０５號",
     "pipeType": "道路挖掘",
     "constructionType": "一般案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -4436,6 +4436,80 @@
     "coordinate": {
       "lat": 25.13189033631373,
       "lng": 121.73355328375361,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路維護 M114060640",
+    "distriction": "安樂區",
+    "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2025,
+        "month": 6,
+        "day": 6
+      },
+      "end": {
+        "year": 2025,
+        "month": 6,
+        "day": 6
+      }
+    },
+    "applicationNumber": "M114060640",
+    "licenseNumber": "M114060640-02",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "正鼎東開發營造股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122523326281108,
+      "lng": 121.72542769472227,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路維護 M114060640",
+    "distriction": "安樂區",
+    "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2025,
+        "month": 6,
+        "day": 6
+      },
+      "end": {
+        "year": 2025,
+        "month": 6,
+        "day": 6
+      }
+    },
+    "applicationNumber": "M114060640",
+    "licenseNumber": "M114060640-02",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "正鼎東開發營造股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.121858128224293,
+      "lng": 121.72291567228429,
       "polygon": null
     }
   }
