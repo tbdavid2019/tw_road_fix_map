@@ -11,12 +11,12 @@
       "start": {
         "year": 2026,
         "month": 8,
-        "day": 29
+        "day": 30
       },
       "end": {
         "year": 2026,
         "month": 8,
-        "day": 29
+        "day": 30
       }
     },
     "applicationNumber": "WH11508003  ",
@@ -48,12 +48,12 @@
       "start": {
         "year": 2026,
         "month": 8,
-        "day": 29
+        "day": 30
       },
       "end": {
         "year": 2026,
         "month": 8,
-        "day": 29
+        "day": 30
       }
     },
     "applicationNumber": "WH11508003  ",
@@ -2665,43 +2665,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路維護 M115070800",
-    "distriction": "中正區",
-    "address": "自 祥豐街３４１號 至 祥豐街７７５之１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115070800",
-    "licenseNumber": "M115070800-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "松盛營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.14596661355793,
-      "lng": 121.76944367192166,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路維護 M115070801",
     "distriction": "安樂區",
     "address": "自 武嶺街３１１號 至 安一路177巷９０號",
@@ -4293,160 +4256,12 @@
   },
   {
     "city": "基隆市",
-    "title": "已完工道路挖掘 1150100015",
-    "distriction": "中山區",
-    "address": "自 文化路239巷５號 至 文化路239巷１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      }
-    },
-    "applicationNumber": "1150100015",
-    "licenseNumber": "1150100015-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處工務課",
-    "contractor": {
-      "name": "冠勝工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.152532363734345,
-      "lng": 121.72962151838297,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150100015",
-    "distriction": "中山區",
-    "address": "自 文化路239巷５號 至 文化路239巷１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      }
-    },
-    "applicationNumber": "1150100015",
-    "licenseNumber": "1150100015-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處工務課",
-    "contractor": {
-      "name": "冠勝工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.15242042398576,
-      "lng": 121.72988716806941,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150700004",
-    "distriction": "信義區",
-    "address": "自 教忠街４１號 至 教忠街１３０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      }
-    },
-    "applicationNumber": "1150700004",
-    "licenseNumber": "1150700004-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "麗寶工程顧問有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.136092508835663,
-      "lng": 121.77841193952973,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150700008",
-    "distriction": "安樂區",
-    "address": "自 樂一路12巷１８號 至 樂一路12巷１０５號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 29
-      }
-    },
-    "applicationNumber": "1150700008",
-    "licenseNumber": "1150700008-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "彬峸工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13189033631373,
-      "lng": 121.73355328375361,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路維護 M114060640",
+    "title": "施工中道路維護 M114060640",
     "distriction": "安樂區",
     "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "否",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2025,
@@ -4478,12 +4293,12 @@
   },
   {
     "city": "基隆市",
-    "title": "已完工道路維護 M114060640",
+    "title": "施工中道路維護 M114060640",
     "distriction": "安樂區",
     "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
     "pipeType": "道路維護",
     "constructionType": "維養案件",
-    "workingState": "否",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2025,
