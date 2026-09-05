@@ -19,6 +19,10 @@ const Map = (props) => {
     isMobile,
     userLocation,
     setUserLocation,
+    closeInfoBlock,
+    makerMessage,
+    handleCloseClick,
+    handleMakerMessageClick,
   } = props;
   const mapRef = useRef(null);
   let isClusterWork =
@@ -191,6 +195,10 @@ const Map = (props) => {
         mapParameters={mapParameters}
         setMapParameters={setMapParameters}
         isMobile={isMobile}
+        closeInfoBlock={closeInfoBlock}
+        makerMessage={makerMessage}
+        handleCloseClick={handleCloseClick}
+        handleMakerMessageClick={handleMakerMessageClick}
       />
     </div>
   );

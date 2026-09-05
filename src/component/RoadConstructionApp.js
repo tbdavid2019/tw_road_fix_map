@@ -2,7 +2,6 @@ import React, { useState, useEffect, useCallback, useMemo, useRef } from "react"
 import Map from "./Map";
 import InfoBlock from "./InfoBlock";
 import Card from "./Card";
-import InfoButton from "./InfoButton";
 import MakerMessage from "./MakerMessage";
 import { cityConfig } from "../constants/cityConfig";
 import { BottomSheet } from "react-spring-bottom-sheet";
@@ -289,15 +288,8 @@ const RoadConstructionApp = () => {
           isMobile={isMobile}
           userLocation={userLocation}
           setUserLocation={setUserLocation}
-        />
-        <InfoButton
-          closeInfoBlock={closeInfoBlock}
-          makerMessage={makerMessage}
           handleCloseClick={handleCloseClick}
           handleMakerMessageClick={handleMakerMessageClick}
-          userLocation={userLocation}
-          mapParameters={mapParameters}
-          setMapParameters={setMapParameters}
         />
         {isMobile ? (
           <BottomSheet
@@ -330,15 +322,8 @@ const RoadConstructionApp = () => {
           isMobile={isMobile}
           userLocation={userLocation}
           setUserLocation={setUserLocation}
-        />
-        <InfoButton
-          closeInfoBlock={closeInfoBlock}
-          makerMessage={makerMessage}
           handleCloseClick={handleCloseClick}
           handleMakerMessageClick={handleMakerMessageClick}
-          userLocation={userLocation}
-          mapParameters={mapParameters}
-          setMapParameters={setMapParameters}
         />
         {isMobile ? (
           <BottomSheet
@@ -372,15 +357,8 @@ const RoadConstructionApp = () => {
           isMobile={isMobile}
           userLocation={userLocation}
           setUserLocation={setUserLocation}
-        />
-        <InfoButton
-          closeInfoBlock={closeInfoBlock}
-          makerMessage={makerMessage}
           handleCloseClick={handleCloseClick}
           handleMakerMessageClick={handleMakerMessageClick}
-          userLocation={userLocation}
-          mapParameters={mapParameters}
-          setMapParameters={setMapParameters}
         />
         {isMobile ? (
           <BottomSheet
