@@ -8,17 +8,17 @@ import {
   Polygon,
 } from "@react-google-maps/api";
 import CardMini from "./CardMini";
+import MapControls from "./MapControls";
 
 const Map = (props) => {
   const [gridSize, setGridSize] = useState(60);
   const {
     constructionsData,
     mapParameters,
-    closeInfoBlock,
     setMapParameters,
     isMobile,
-    makerMessage,
     userLocation,
+    setUserLocation,
   } = props;
   const mapRef = useRef(null);
   let isClusterWork =
@@ -184,6 +184,14 @@ const Map = (props) => {
           )}
         </GoogleMap>
       </LoadScript>
+      <MapControls
+        mapRef={mapRef}
+        userLocation={userLocation}
+        setUserLocation={setUserLocation}
+        mapParameters={mapParameters}
+        setMapParameters={setMapParameters}
+        isMobile={isMobile}
+      />
     </div>
   );
 };

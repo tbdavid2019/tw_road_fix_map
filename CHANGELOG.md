@@ -2,6 +2,19 @@
 
 本專案遵循 [Semantic Versioning](https://semver.org/lang/zh-TW/) 規範。
 
+## [v1.4.0] - 2026-09-05
+
+### 🗺️ Google Maps 風格懸浮控制元件 (MapControls)
+- **右下角定位按鈕 (My Location)**：
+  - 新增比照 Google Maps 網頁版設計的白底懸浮定位按鈕與十字靶心圖標 (`my_location`)。
+  - 整合 HTML5 Geolocation API，點擊可即時取得使用者 GPS 座標，透過 `panTo` 平滑移至中心並放大至街區層級 (`zoom: 15`)。
+  - 支援定位中旋轉動畫回饋與定位成功狀態樣式（Google 藍色高亮）。
+- **右下角放大縮小按鈕組 (Zoom Controls)**：
+  - 實作 Google Maps 原生風格垂直卡片式 `+` / `−` 縮放按鈕組與中置分隔線。
+  - 與地圖狀態雙向同步（限制於 11 ~ 20 級範圍），支援流暢縮放操作。
+- **RWD 與行動裝置適配**：
+  - 手機版自動將控制項避開底部滑動抽屜（Bottom Sheet），懸浮於安全拇指操作區（`bottom: 180px`）。
+
 ## [v1.3.0] - 2026-08-10
 
 ### 🗺️ 新增新北與屏東道路施工資料

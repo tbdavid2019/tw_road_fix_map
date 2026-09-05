@@ -288,6 +288,7 @@ const RoadConstructionApp = () => {
           makerMessage={makerMessage}
           isMobile={isMobile}
           userLocation={userLocation}
+          setUserLocation={setUserLocation}
         />
         <InfoButton
           closeInfoBlock={closeInfoBlock}
@@ -328,6 +329,7 @@ const RoadConstructionApp = () => {
           makerMessage={makerMessage}
           isMobile={isMobile}
           userLocation={userLocation}
+          setUserLocation={setUserLocation}
         />
         <InfoButton
           closeInfoBlock={closeInfoBlock}
@@ -369,6 +371,7 @@ const RoadConstructionApp = () => {
           makerMessage={makerMessage}
           isMobile={isMobile}
           userLocation={userLocation}
+          setUserLocation={setUserLocation}
         />
         <InfoButton
           closeInfoBlock={closeInfoBlock}
