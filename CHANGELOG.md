@@ -2,6 +2,31 @@
 
 本專案遵循 [Semantic Versioning](https://semver.org/lang/zh-TW/) 規範。
 
+## [v1.4.1] - 2026-09-05
+
+### 🎨 左側施工資訊列與卡片視覺現代化 (Google Maps Style Info Panel)
+- **浮動面板容器 (Floating Panel Container)**：
+  - 改採 Google Maps 經典純白浮動面板、12px 圓角與細緻雙層 Elevation 陰影 (`0 1px 3px 0 rgba(60,64,67,0.3), 0 4px 8px 3px rgba(60,64,67,0.15)`)，徹底移除過去沉重黑影與不對稱外距。
+  - 響應式優化：桌機（420px 寬度）、平板（380px 寬度）與手機（滿版或適配底部滑動抽屜），版面配置更輕盈流暢。
+- **面板頂部標題列 (Panel Header)**：
+  - 新增 Google Maps 風格專屬頂部列，整合主題工具圖標、標題「道路施工資訊」、目前分頁進度膠囊 (`{pageIndex + 1} / {totalPages} 頁`)。
+  - 收合按鈕 (`CloseButton`) 升級為無邊框 32x32px 圓形懸浮按鍵，並具備圓形 hover 背景回饋。
+- **篩選晶片 (Filter Chips)**：
+  - 將過去舊式亮青綠色實心藥丸按鈕全面升級為 Google Maps 晶片風格（34px 高度、內建前綴圖標、細緻邊框與 Active 狀態淺青高亮）。
+  - 縣市（城市圖標）、施工狀態（工程帽圖標）、行政區（定位標記圖標）及日期範圍（日曆圖標）風格全面統一。
+- **現代化施工卡片 (Modernized Cards)**：
+  - 移除老派螢光筆粗標底線 (`highlighter`) 與笨重浮動大圓鈕。
+  - 施工狀態改為精緻圓點狀態標籤（施工中紅點淺紅底、未施工灰點淺灰底）。
+  - 清楚的起訖日期列（日曆圖標與平滑箭頭指示）。
+  - 底部操作改為現代 Action Chip 按鈕（「查看位置」藍色定位聚焦晶片、「詳細資訊」展開收合晶片）。
+  - 展開詳情採用簡潔雙欄網格排版，廠商與負責人聯絡電話提供可直接撥打之 `tel:` 連結。
+- **地圖標記彈出小卡 (InfoWindow CardMini)**：
+  - 同步升級地圖 Marker 點擊彈出之 InfoWindow，與列表卡片風格 100% 一致。
+- **分頁控制器 (Pagination)**：
+  - 將原本佔空間的巨大圓形分頁按鈕升級為 Google Maps 風格的精準方形圓角導航晶片。
+- **行動端與底部抽屜相容 (Mobile BottomSheet Compatibility)**：
+  - 支援 `react-spring-bottom-sheet` 手機抽屜模式，篩選晶片支援橫向無縫捲動，卡片列表可平滑滾動。
+
 ## [v1.4.0] - 2026-09-05
 
 ### 🗺️ Google Maps 風格懸浮控制元件與功能整合 (MapControls)

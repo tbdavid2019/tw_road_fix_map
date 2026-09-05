@@ -1,98 +1,136 @@
-import {useState} from 'react';
+import { useState } from 'react';
 
-const Card = (props)=>{
+const Card = (props) => {
     let data = props.value;
-
     const [showLess, setShowLess] = useState(true);
-    const {setMapParameters} = props;
-    const handleClick = ()=>{
-        setShowLess(!showLess);
-    }
+    const { setMapParameters } = props;
 
-    const handleLocationData = ()=>{
+    const handleClick = () => {
+        setShowLess(!showLess);
+    };
+
+    const handleLocationData = () => {
         let randomNum = Math.random() / 1000000;
         setMapParameters({
-            center: {lat:data.coordinate.lat + randomNum, lng:data.coordinate.lng + randomNum},
+            center: { lat: data.coordinate.lat + randomNum, lng: data.coordinate.lng + randomNum },
             polygon: data.coordinate.polygon,
-            zoom: 20 + randomNum,
+            zoom: 17 + randomNum,
             selectMarker: data,
             closeInfoWindow: false
         });
-    }
+    };
 
-    if(data === 'loading'){
-        return(
+    if (data === 'loading') {
+        return (
             <div className='card loading'>
-                <div>Loading...</div>
-            </div>);
+                <div className='cardSkeleton'>載入中...</div>
+            </div>
+        );
     }
 
-    return(
+    const isWorking = data.workingState === '是';
+
+    return (
         <div className='card'>
-            <div className='card-meta'>
-                <div className='card-meta-title'>
-                    <div className='highlighter bgColor_mintGreen-light' style={{width:data.pipeType.length+'em'}}></div>
-                    <div className={`state unselectable ${data.workingState === '是' ? 'working' : 'notWorking'}`}>{data.workingState === '是' ? '施工中' : '未施工'}</div>
-                    <div className='pipeType' style={{position:'relative'}}>
-                        {data.pipeType}
-                    </div>
+            <div className='card-header'>
+                <span className={`statusBadge ${isWorking ? 'working' : 'notWorking'}`}>
+                    <span className='statusDot' />
+                    {isWorking ? '施工中' : '未施工'}
+                </span>
+                <h3 className='pipeType'>{data.pipeType}</h3>
+            </div>
+
+            <div className='card-meta-basicInfo'>
+                <div className='dateRow'>
+                    <i className="far fa-calendar-alt dateIcon" />
+                    <span className='dateText'>
+                        {data.date.start.year}/{data.date.start.month}/{data.date.start.day}
+                    </span>
+                    <span className='dateArrow'>➔</span>
+                    <span className='dateText'>
+                        {data.date.end.year}/{data.date.end.month}/{data.date.end.day}
+                    </span>
                 </div>
-                <div className='card-meta-basicInfo'>
-                    <div className='date'>
-                        <span className='slash'>{data.date.start.year}</span><span className='slash'>{data.date.start.month}</span><span>{data.date.start.day}</span><i className="fas fa-caret-right fa-lg"></i><span className='slash'>{data.date.end.year}</span><span className='slash'>{data.date.end.month}</span><span>{data.date.end.day}</span>
-                    </div>
-                    <div className='info'>
-                        <div className='item'>案件類別</div>
-                        <div>{data.constructionType}</div>
-                    </div>
-                    <div className='info'>
-                        <div className='item'>地點</div>
-                        <div>{data.distriction + data.address}</div>
-                    </div>
+                <div className='infoRow'>
+                    <span className='infoLabel'>類別</span>
+                    <span className='infoContent'>{data.constructionType}</span>
                 </div>
-                <div className='buttons'>
-                    {(data.coordinate.lat !== 0 && data.coordinate.lng !== 0) &&
-                    <div title='顯示位置' className='buttons-locate' onClick={()=>{handleLocationData()}}>
-                        <i className="fas fa-map-marker-alt"/>
-                    </div>}
-                    <div title='更多資訊' className={showLess ? 'buttons-moreInfo' : 'buttons-moreInfoClicked'} onClick={()=>{handleClick()}}>
-                        <i className={`fas ${showLess ? 'fa-angle-double-down' : 'fa-angle-double-up'}`}/>
-                    </div>
+                <div className='infoRow'>
+                    <span className='infoLabel'>地點</span>
+                    <span className='infoContent'>{data.distriction} {data.address}</span>
                 </div>
             </div>
-            <div className={`${showLess && 'noneDisplay'} horiLine`}/>
-            <div className={`${showLess && 'noneDisplay'} card-body`}>
-                <div className='card-body-detailInfo'>
-                    <div className='oneRow'>
-                        <div className='item'>工程名稱</div>
-                        <div className='constructTitle'>{data.title}</div>
-                    </div>
-                    <div>
-                        <div className='item'>申請書編號</div>
-                        <div>{data.applicationNumber}</div>
-                    </div>
-                    <div>
-                        <div className='item'>許可證編號</div>
-                        <div>{data.licenseNumber}</div>
-                    </div>
-                    <div className='oneRow'>
-                        <div className='item'>申請單位</div>
-                        <div>{data.applicant}</div>
-                    </div>
-                    <div className='oneRow'>
-                        <div className='item'>廠商</div>
-                        <div>{data.contractor.name}</div>
-                        <div className='phone'>{data.contractor.phone}</div>
-                    </div>
-                    <div className='oneRow'>
-                        <div className='item'>負責人</div>
-                        <div>{data.personInCharge.name}</div>
-                        <div className='phone'>{data.personInCharge.phone}</div>
+
+            <div className='cardActions'>
+                {(data.coordinate.lat !== 0 && data.coordinate.lng !== 0) && (
+                    <button
+                        type='button'
+                        title='在地圖上查看位置'
+                        className='cardActionBtn locateBtn'
+                        onClick={handleLocationData}
+                    >
+                        <i className="fas fa-crosshairs" />
+                        <span>查看位置</span>
+                    </button>
+                )}
+                <button
+                    type='button'
+                    title={showLess ? '展開詳細工程資訊' : '收合資訊'}
+                    className={`cardActionBtn moreBtn ${!showLess ? 'expanded' : ''}`}
+                    onClick={handleClick}
+                >
+                    <span>{showLess ? '詳細資訊' : '收合資訊'}</span>
+                    <i className={`fas fa-chevron-${showLess ? 'down' : 'up'}`} />
+                </button>
+            </div>
+
+            {!showLess && (
+                <div className='card-body'>
+                    <div className='cardDivider' />
+                    <div className='card-body-detailInfo'>
+                        <div className='detailRow fullWidth'>
+                            <span className='detailLabel'>工程名稱</span>
+                            <span className='detailValue constructTitle'>{data.title}</span>
+                        </div>
+                        <div className='detailRow'>
+                            <span className='detailLabel'>申請書編號</span>
+                            <span className='detailValue'>{data.applicationNumber}</span>
+                        </div>
+                        <div className='detailRow'>
+                            <span className='detailLabel'>許可證編號</span>
+                            <span className='detailValue'>{data.licenseNumber}</span>
+                        </div>
+                        <div className='detailRow fullWidth'>
+                            <span className='detailLabel'>申請單位</span>
+                            <span className='detailValue'>{data.applicant}</span>
+                        </div>
+                        <div className='detailRow'>
+                            <span className='detailLabel'>施工廠商</span>
+                            <span className='detailValue'>
+                                {data.contractor.name}
+                                {data.contractor.phone && data.contractor.phone !== 'N/A' && (
+                                    <a className='phoneLink' href={`tel:${data.contractor.phone}`}>
+                                        <i className="fas fa-phone-alt" /> {data.contractor.phone}
+                                    </a>
+                                )}
+                            </span>
+                        </div>
+                        <div className='detailRow'>
+                            <span className='detailLabel'>現場負責人</span>
+                            <span className='detailValue'>
+                                {data.personInCharge.name}
+                                {data.personInCharge.phone && data.personInCharge.phone !== 'N/A' && (
+                                    <a className='phoneLink' href={`tel:${data.personInCharge.phone}`}>
+                                        <i className="fas fa-phone-alt" /> {data.personInCharge.phone}
+                                    </a>
+                                )}
+                            </span>
+                        </div>
                     </div>
                 </div>
-            </div>
+            )}
         </div>
     );
-}
+};
 
 export default Card;

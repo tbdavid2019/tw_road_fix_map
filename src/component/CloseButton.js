@@ -1,23 +1,27 @@
-const CloseButton = (props)=>{
+const CloseButton = (props) => {
+    let { handleCloseClick, handleMakerMessageClick } = props;
 
-    let {handleCloseClick, handleMakerMessageClick} = props;
-
-    const handleClick = ()=>{
-        if(handleCloseClick !== undefined){
+    const handleClick = () => {
+        if (handleCloseClick !== undefined) {
             handleCloseClick();
-        }
-        else if(handleMakerMessageClick !== undefined){
+        } else if (handleMakerMessageClick !== undefined) {
             handleMakerMessageClick();
         }
-    }
+    };
 
-    return(
+    return (
         <div className='closeButtonContainer'>
-            <div className='closeButton' onClick={handleClick}>
-                <i className="fas fa-times fa-lg"/>
-            </div>
+            <button
+                type="button"
+                className='closeButton'
+                onClick={handleClick}
+                title="收合面板"
+                aria-label="收合面板"
+            >
+                <i className="fas fa-times" />
+            </button>
         </div>
     );
-}
+};
 
 export default CloseButton;

@@ -9,19 +9,21 @@ const Selectors = (props)=>{
     const [dateRange, setDateRange] = useState([null, null]);
     const [startDate, endDate] = dateRange;
     const [dateOnPicker,setDateOnPicker] = useState('');
-    const [selectValue,setSelectValue] = useState({dist:null,workingState:null});
     const {options, condition, mapParameters, setCondition, setPageIndex, setMapParameters}= props;
 
     const INITAIL = useCallback(()=>{
         let node = document.getElementById('districtionSelect');
-        setCSSChosenValue(node);
-        setCSSChosenValue(node.previousElementSibling, node.value);
+        if (node) {
+            setCSSChosenValue(node);
+            if (node.previousElementSibling) {
+                setCSSChosenValue(node.previousElementSibling, node.value);
+            }
+        }
         registerLocale('zh-TW',zh_TW);
     },[]);
 
     useEffect(()=>{
         INITAIL();
-        setSelectValue({dist:getSelectValue('districtionSelect'), workingState:getSelectValue('workingStateSelect')});
     },[INITAIL]);
 
     const setCSSChosenValue = (element, value=element.value)=>{
@@ -126,11 +128,6 @@ const Selectors = (props)=>{
     const handleWorkingState = (e)=>{
         let workingState = Number(e.target.value) === 0 ? 0 : e.target.value;
         setCSSChosenValue(e.target);
-        setCSSChosenValue(e.target.previousElementSibling, e.target.value);
-        setSelectValue((prevState)=>({
-            ...prevState,
-            workingState: convertWorkingState(workingState)
-        }));
 
         clearMapInfo();
         setPageIndex(0);
@@ -143,11 +140,6 @@ const Selectors = (props)=>{
     const handleDistChange = (e)=>{
         let dist = Number(e.target.value) === 0 ? 0 : e.target.value;
         setCSSChosenValue(e.target);
-        setCSSChosenValue(e.target.previousElementSibling, e.target.value);
-        setSelectValue((prevState)=>({
-            ...prevState,
-            dist: dist === 0 ? '全地區' : dist
-        }));
 
         clearMapInfo();
         setPageIndex(0);
@@ -187,11 +179,6 @@ const Selectors = (props)=>{
     const handleCityChange = (e) => {
         let city = Number(e.target.value) === 0 ? 0 : e.target.value;
         setCSSChosenValue(e.target);
-        setCSSChosenValue(e.target.previousElementSibling, e.target.value);
-        setSelectValue((prevState) => ({
-            ...prevState,
-            city: city === 0 ? '全縣市' : city
-        }));
 
         if (city !== 0) {
             const cityEntry = Object.values(cityConfig).find(c => c.name === city);
@@ -218,14 +205,20 @@ const Selectors = (props)=>{
     let workingStateArr = Array.from({length: options.workingState.length},(_,index)=>index);
     let distArr = Array.from({length: options.distriction.length},(_,index)=>index);
 
+    const isCityActive = condition.city && condition.city !== 0 && condition.city !== '0';
+    const isStateActive = condition.workingState && condition.workingState !== 0 && condition.workingState !== '0';
+    const isDistActive = condition.distriction && condition.distriction !== 0 && condition.distriction !== '0';
+    const isDateActive = startDate !== null || endDate !== null;
+
     return(
         <div className='selectors'>
-            <div className='selectContainer'>
-                <i className="selectArrow fas fa-chevron-down"/>
+            <div className={`selectContainer ${isCityActive ? 'activeChip' : ''}`}>
+                <i className="selectPrefixIcon fas fa-city"/>
                 <select name='citySelect'
                         id='citySelect'
                         value={condition.city || 0}
                         onChange={handleCityChange}
+                        aria-label="選擇縣市"
                 >
                     <option value={0}>全縣市</option>
                     {
@@ -234,14 +227,17 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>
-                <span>{condition.city || '全縣市'}</span>
-            </div>
-            <div className='selectContainer'>
+                <span className="selectText">{condition.city || '全縣市'}</span>
                 <i className="selectArrow fas fa-chevron-down"/>
+            </div>
+
+            <div className={`selectContainer ${isStateActive ? 'activeChip' : ''}`}>
+                <i className="selectPrefixIcon fas fa-hard-hat"/>
                 <select name='workingState'
                         id='workingStateSelect'
                         value={condition.workingState || 0}
                         onChange={handleWorkingState}
+                        aria-label="選擇施工狀態"
                 >
                     <option value={0}>全案件</option>
                     {
@@ -252,14 +248,17 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>
-                <span>{convertWorkingState(condition.workingState)}</span>
-            </div>
-            <div className='selectContainer'>
+                <span className="selectText">{convertWorkingState(condition.workingState)}</span>
                 <i className="selectArrow fas fa-chevron-down"/>
+            </div>
+
+            <div className={`selectContainer ${isDistActive ? 'activeChip' : ''}`}>
+                <i className="selectPrefixIcon fas fa-map-marker-alt"/>
                 <select name='distriction'
                         id='districtionSelect'
                         value={condition.distriction || 0}
                         onChange={handleDistChange}
+                        aria-label="選擇行政區"
                 >
                     <option value={0}>全地區</option>
                     {
@@ -268,25 +267,30 @@ const Selectors = (props)=>{
                         ))
                     }
                 </select>   
-                <span>{condition.distriction || '全地區'}</span>
+                <span className="selectText">{condition.distriction || '全地區'}</span>
+                <i className="selectArrow fas fa-chevron-down"/>
             </div>
-            <DatePicker
-                value={dateOnPicker}
-                locale='zh-TW'
-                wrapperClassName='dateSelectContainer'
-                className='dateSelect'
-                placeholderText='日期範圍'
-                dateFormat='yyyy/MM/dd'
-                selectsRange={true}
-                startDate={startDate}
-                endDate={endDate}
-                minDate={new Date(Object.values(options.date.start))}
-                maxDate={new Date(Object.values(options.date.end))}
-                isClearable
-                shouldCloseOnSelect={false}
-                onChange={handleDateChange}
-                onFocus={e => e.target.blur()}
-            />
+
+            <div className={`dateSelectContainer ${isDateActive ? 'activeChip' : ''}`}>
+                <i className="datePrefixIcon far fa-calendar-alt"/>
+                <DatePicker
+                    value={dateOnPicker}
+                    locale='zh-TW'
+                    wrapperClassName='datePickerWrapper'
+                    className='dateSelect'
+                    placeholderText='選擇日期範圍'
+                    dateFormat='yyyy/MM/dd'
+                    selectsRange={true}
+                    startDate={startDate}
+                    endDate={endDate}
+                    minDate={new Date(Object.values(options.date.start))}
+                    maxDate={new Date(Object.values(options.date.end))}
+                    isClearable
+                    shouldCloseOnSelect={false}
+                    onChange={handleDateChange}
+                    onFocus={e => e.target.blur()}
+                />
+            </div>
         </div>
     );
 }

@@ -1,37 +1,37 @@
-
-const CardMini = (props)=>{
+const CardMini = (props) => {
     let data = props.value;
-    return(
+    if (!data) return null;
+    const isWorking = data.workingState === '是';
+
+    return (
         <div className='cardMini'>
-            <div className='title'>
-                <div className={`state inlineBlock ${data.workingState === '是' ? 'working' : 'notWorking'}`}>
-                    {data.workingState === '是' ? '施工中' : '未施工'}
-                </div>
-                <div className='pipeType inlineBlock'>
-                    {data.pipeType}
-                </div>
+            <div className='cardMiniHeader'>
+                <span className={`statusBadge ${isWorking ? 'working' : 'notWorking'}`}>
+                    <span className='statusDot' />
+                    {isWorking ? '施工中' : '未施工'}
+                </span>
+                <h4 className='pipeType'>{data.pipeType}</h4>
             </div>
-            <div className='title'>
-                <div className='date'>
-                    <span className='slash'>{data.date.start.year}</span><span className='slash'>{data.date.start.month}</span><span>{data.date.start.day}</span>
-                    <i className="fas fa-caret-right fa-lg"/>
-                    <span className='slash'>{data.date.end.year}</span><span className='slash'>{data.date.end.month}</span><span>{data.date.end.day}</span>
-                </div>
+            <div className='cardMiniDate'>
+                <i className="far fa-calendar-alt" />
+                <span>
+                    {data.date.start.year}/{data.date.start.month}/{data.date.start.day} ➔ {data.date.end.year}/{data.date.end.month}/{data.date.end.day}
+                </span>
             </div>
-            <div>
-                <div className='item'>案件類別</div>
-                <div className='data'>{data.constructionType}</div>
+            <div className='cardMiniRow'>
+                <span className='label'>類別</span>
+                <span className='val'>{data.constructionType}</span>
             </div>
-            <div>
-                <div className='item'>工程名稱</div>
-                <div className='data'>{data.title}</div>
+            <div className='cardMiniRow'>
+                <span className='label'>工程</span>
+                <span className='val'>{data.title}</span>
             </div>
-            <div>
-                <div className='item'>地點</div>
-                <div className='data last'>{data.distriction + data.address}</div>
+            <div className='cardMiniRow'>
+                <span className='label'>地點</span>
+                <span className='val'>{data.distriction} {data.address}</span>
             </div>
         </div>
     );
-}
+};
 
 export default CardMini;
