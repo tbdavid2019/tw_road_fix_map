@@ -14357,6 +14357,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "緊急搶修案件 1150800417",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "緊急搶修",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 5
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 5
+      }
+    },
+    "applicationNumber": "1150800417",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(北彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.060598060272113,
+      "lng": 120.54464044705335,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "緊急搶修案件 1150900021",
     "distriction": "全地區",
     "address": "施工位置未提供",
