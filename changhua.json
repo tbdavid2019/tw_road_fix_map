@@ -14579,43 +14579,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150800422",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 13
-      }
-    },
-    "applicationNumber": "1150800422",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處彰化服務所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.106869024762283,
-      "lng": 120.50071881860379,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150800426",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14685,6 +14648,80 @@
     "coordinate": {
       "lat": 23.897646406612186,
       "lng": 120.44197051879436,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150800031",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 13
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 13
+      }
+    },
+    "applicationNumber": "1150800031",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處彰化服務所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.133278960172586,
+      "lng": 120.47611616938394,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150800422",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 13
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 13
+      }
+    },
+    "applicationNumber": "1150800422",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處彰化服務所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.106869024762283,
+      "lng": 120.50071881860379,
       "polygon": null
     }
   },
