@@ -96,5 +96,105 @@
         }
       ]
     }
+  },
+  {
+    "city": "新北市",
+    "title": "板橋服務所115年度管線設備維修工程(非檢測漏案)",
+    "distriction": "板橋區",
+    "address": "板橋區華中里村里僑中一街124巷59號",
+    "pipeType": "道路施工",
+    "constructionType": "搶修案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 20
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 22
+      }
+    },
+    "applicationNumber": "E11501932",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水公司第十二區管理處板橋服務所",
+    "contractor": {
+      "name": "上睿工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "葉文賢",
+      "phone": "0989177184"
+    },
+    "coordinate": {
+      "lat": 25.01590520482215,
+      "lng": 121.44666815839919,
+      "polygon": [
+        {
+          "lat": 25.01592151488652,
+          "lng": 121.44665872264838
+        },
+        {
+          "lat": 25.015918396247674,
+          "lng": 121.44668106371886
+        },
+        {
+          "lat": 25.01588887712907,
+          "lng": 121.44667704327485
+        },
+        {
+          "lat": 25.015891486831237,
+          "lng": 121.44665581996739
+        },
+        {
+          "lat": 25.01592151488652,
+          "lng": 121.44665872264838
+        }
+      ]
+    }
+  },
+  {
+    "city": "新北市",
+    "title": "周邊修復",
+    "distriction": "汐止區",
+    "address": "汐止區山光里村里樟樹二路420號",
+    "pipeType": "道路施工",
+    "constructionType": "孔蓋案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 16
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "A11511209",
+    "licenseNumber": "N/A",
+    "applicant": "觀天下有線電視事業股份有限公司",
+    "contractor": {
+      "name": "杰昇工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "周敏杰",
+      "phone": "0926223659"
+    },
+    "coordinate": {
+      "lat": 25.073838546213228,
+      "lng": 121.64351985842747,
+      "polygon": [
+        {
+          "lat": 25.073838546213228,
+          "lng": 121.64351985842747
+        }
+      ]
+    }
   }
 ]
