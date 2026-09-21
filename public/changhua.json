@@ -11,12 +11,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140800291",
@@ -48,12 +48,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200354",
@@ -85,12 +85,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400084",
@@ -112,6 +112,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150400151",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150400151",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.878081549182948,
+      "lng": 120.52232081382562,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150400374",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -122,12 +159,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400374",
@@ -159,12 +196,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400508",
@@ -196,12 +233,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500316",
@@ -233,12 +270,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600163",
@@ -270,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600164",
@@ -307,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600166",
@@ -344,12 +381,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600167",
@@ -381,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600283",
@@ -418,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600284",
@@ -455,12 +492,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600285",
@@ -492,12 +529,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600286",
@@ -529,12 +566,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600287",
@@ -566,12 +603,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600288",
@@ -593,6 +630,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150600380",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150600380",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.98341681645268,
+      "lng": 120.45985735511644,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150700042",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -603,12 +677,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700042",
@@ -640,12 +714,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700092",
@@ -677,12 +751,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700431",
@@ -714,12 +788,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700441",
@@ -751,12 +825,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700446",
@@ -788,12 +862,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700467",
@@ -825,12 +899,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700499",
@@ -862,12 +936,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700508",
@@ -899,12 +973,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700519",
@@ -936,12 +1010,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700522",
@@ -973,12 +1047,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700525",
@@ -1010,12 +1084,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800011",
@@ -1047,12 +1121,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800020",
@@ -1084,12 +1158,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800029",
@@ -1121,12 +1195,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800033",
@@ -1158,12 +1232,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800034",
@@ -1195,12 +1269,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800040",
@@ -1232,12 +1306,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800041",
@@ -1269,12 +1343,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800042",
@@ -1306,12 +1380,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800049",
@@ -1343,12 +1417,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800051",
@@ -1380,12 +1454,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800053",
@@ -1407,6 +1481,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800058",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800058",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.050799997506726,
+      "lng": 120.48941957198412,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800061",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1417,12 +1528,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800061",
@@ -1444,6 +1555,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800085",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800085",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.8954215156296,
+      "lng": 120.47754724810396,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800086",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1454,12 +1602,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800086",
@@ -1481,6 +1629,117 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800090",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800090",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.953895159107333,
+      "lng": 120.56313058384245,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800091",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800091",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.931860407600045,
+      "lng": 120.58377145929839,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800095",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800095",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.866842387266757,
+      "lng": 120.58464237490996,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800104",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1491,12 +1750,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800104",
@@ -1518,6 +1777,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800105",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800105",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.878492107848302,
+      "lng": 120.58695805705293,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800106",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1528,12 +1824,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800106",
@@ -1555,6 +1851,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800107",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800107",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.960156278965357,
+      "lng": 120.58581258371512,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800109",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1565,12 +1898,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800109",
@@ -1592,6 +1925,117 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800112",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800112",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.99826017997686,
+      "lng": 120.58461985068601,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800115",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800115",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.05106662622535,
+      "lng": 120.43697529725705,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800119",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800119",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.96328980103182,
+      "lng": 120.62311468861283,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800134",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1602,12 +2046,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800134",
@@ -1639,12 +2083,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800135",
@@ -1676,12 +2120,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800139",
@@ -1713,12 +2157,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800144",
@@ -1740,43 +2184,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "申請中案件 1150800145",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "申請中",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150800145",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處花壇營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.98654791337547,
-      "lng": 120.52481517250715,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "申請中案件 1150800150",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -1787,12 +2194,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800150",
@@ -1824,12 +2231,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800154",
@@ -1861,12 +2268,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800163",
@@ -1898,12 +2305,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800164",
@@ -1935,12 +2342,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800165",
@@ -1972,12 +2379,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800167",
@@ -2009,12 +2416,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800169",
@@ -2046,12 +2453,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800182",
@@ -2083,12 +2490,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800183",
@@ -2110,6 +2517,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800186",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800186",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.938294774898992,
+      "lng": 120.60015843749093,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800196",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2120,12 +2564,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800196",
@@ -2157,12 +2601,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800200",
@@ -2194,12 +2638,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800204",
@@ -2231,12 +2675,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800205",
@@ -2258,6 +2702,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800207",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800207",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.974910330171173,
+      "lng": 120.57392300388196,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800209",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2268,12 +2749,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800209",
@@ -2295,6 +2776,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800213",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800213",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.974500956031413,
+      "lng": 120.5739715834232,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800216",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2305,12 +2823,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800216",
@@ -2342,12 +2860,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800217",
@@ -2369,6 +2887,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800230",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800230",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.908769764285978,
+      "lng": 120.55547218297369,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800231",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800231",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.953752229134597,
+      "lng": 120.59493252294789,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800234",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2379,12 +2971,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800234",
@@ -2406,6 +2998,117 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800235",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800235",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.95447117676774,
+      "lng": 120.55068505604186,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800237",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800237",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.85523657552374,
+      "lng": 120.5791311293555,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800239",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800239",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.86458917959189,
+      "lng": 120.57175978349028,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800244",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2416,12 +3119,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800244",
@@ -2453,12 +3156,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800247",
@@ -2490,12 +3193,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800253",
@@ -2527,12 +3230,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800256",
@@ -2564,12 +3267,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800270",
@@ -2601,12 +3304,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800277",
@@ -2628,6 +3331,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800284",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800284",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.952646265706523,
+      "lng": 120.60159102255615,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800291",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2638,12 +3378,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800291",
@@ -2675,12 +3415,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800296",
@@ -2712,12 +3452,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800299",
@@ -2749,12 +3489,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800314",
@@ -2786,12 +3526,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800316",
@@ -2823,12 +3563,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800318",
@@ -2860,12 +3600,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800324",
@@ -2897,12 +3637,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800325",
@@ -2924,43 +3664,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "申請中案件 1150800326",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "申請中",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150800326",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.97502693518844,
-      "lng": 120.47952225855907,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "申請中案件 1150800329",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -2971,12 +3674,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800329",
@@ -3008,12 +3711,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800331",
@@ -3045,12 +3748,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800332",
@@ -3072,43 +3775,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "申請中案件 1150800336",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "申請中",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150800336",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.93587188160543,
-      "lng": 120.48727896063406,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "申請中案件 1150800339",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3119,12 +3785,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800339",
@@ -3156,12 +3822,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800340",
@@ -3183,43 +3849,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "申請中案件 1150800341",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "申請中",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150800341",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.97384630379727,
-      "lng": 120.4311407903923,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "申請中案件 1150800354",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3230,12 +3859,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800354",
@@ -3267,12 +3896,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800355",
@@ -3304,12 +3933,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800361",
@@ -3341,12 +3970,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800362",
@@ -3378,12 +4007,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800374",
@@ -3415,12 +4044,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800379",
@@ -3452,12 +4081,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800380",
@@ -3489,12 +4118,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800381",
@@ -3526,12 +4155,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800383",
@@ -3563,12 +4192,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800390",
@@ -3600,12 +4229,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800391",
@@ -3627,6 +4256,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800395",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800395",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(北彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.083821891220175,
+      "lng": 120.54728540675855,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800408",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3637,12 +4303,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800408",
@@ -3674,12 +4340,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800410",
@@ -3711,12 +4377,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800411",
@@ -3738,6 +4404,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800414",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800414",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.959250585726977,
+      "lng": 120.46739365127293,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800416",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3748,12 +4451,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800416",
@@ -3785,12 +4488,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800419",
@@ -3822,12 +4525,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800425",
@@ -3859,12 +4562,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800427",
@@ -3886,6 +4589,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800428",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800428",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.954396813865078,
+      "lng": 120.4343628202435,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800429",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800429",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.953048483475673,
+      "lng": 120.48327947672878,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800440",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3896,12 +4673,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800440",
@@ -3923,6 +4700,117 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800445",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800445",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.097006158632592,
+      "lng": 120.47418699025464,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800451",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800451",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.011522530077347,
+      "lng": 120.46385860801873,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800455",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800455",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.11688053469935,
+      "lng": 120.4394855601549,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800465",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3933,12 +4821,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800465",
@@ -3960,6 +4848,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800466",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800466",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.988996581261063,
+      "lng": 120.47291266600685,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800468",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -3970,12 +4895,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800468",
@@ -3997,6 +4922,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800471",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800471",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.10268591476704,
+      "lng": 120.49663260649623,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800475",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4007,12 +4969,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800475",
@@ -4044,12 +5006,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800477",
@@ -4071,6 +5033,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800479",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800479",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.09073083046588,
+      "lng": 120.45978453392468,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800487",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4081,12 +5080,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800487",
@@ -4108,6 +5107,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800488",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800488",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.958417093571,
+      "lng": 120.4847385013097,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800492",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4118,12 +5154,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800492",
@@ -4155,12 +5191,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800494",
@@ -4182,6 +5218,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800496",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800496",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.939586533276508,
+      "lng": 120.505524170811,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800501",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4192,12 +5265,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800501",
@@ -4229,12 +5302,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800503",
@@ -4266,12 +5339,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800504",
@@ -4303,12 +5376,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800506",
@@ -4340,12 +5413,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800508",
@@ -4377,12 +5450,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800513",
@@ -4414,12 +5487,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800514",
@@ -4441,6 +5514,154 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150800520",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800520",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.019868432748282,
+      "lng": 120.39168186606943,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800522",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800522",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.028128247465467,
+      "lng": 120.41509782958606,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800523",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800523",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.03877897993894,
+      "lng": 120.41758802767922,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150800524",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800524",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.038803809898656,
+      "lng": 120.41758049178112,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150800525",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4451,12 +5672,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800525",
@@ -4488,12 +5709,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800528",
@@ -4525,12 +5746,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800531",
@@ -4562,12 +5783,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800534",
@@ -4599,12 +5820,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900010",
@@ -4626,6 +5847,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900012",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900012",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.979711717359084,
+      "lng": 120.49623547942166,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900015",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4636,12 +5894,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900015",
@@ -4673,12 +5931,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900016",
@@ -4700,6 +5958,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900018",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900018",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.95782532505139,
+      "lng": 120.47358532036986,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900020",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4710,12 +6005,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900020",
@@ -4747,12 +6042,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900029",
@@ -4774,6 +6069,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900033",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900033",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.953686205622684,
+      "lng": 120.47533739774202,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900034",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4784,12 +6116,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900034",
@@ -4811,6 +6143,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900036",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900036",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.99937062335535,
+      "lng": 120.46612946558827,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900047",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4821,12 +6190,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900047",
@@ -4858,12 +6227,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900055",
@@ -4885,6 +6254,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900056",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900056",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處工務課",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.996218211654092,
+      "lng": 120.63239887097713,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900058",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4895,12 +6301,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900058",
@@ -4932,12 +6338,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900061",
@@ -4959,6 +6365,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900065",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900065",
+    "licenseNumber": "N/A",
+    "applicant": "欣彰天然氣股份公司",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.10915509385562,
+      "lng": 120.49831286735268,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900070",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900070",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處員林營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.960968732258905,
+      "lng": 120.56110538289258,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900071",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -4969,12 +6449,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900071",
@@ -4996,6 +6476,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900072",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900072",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.06802659821383,
+      "lng": 120.44561729575103,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900079",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900079",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.953800434242346,
+      "lng": 120.49653437701299,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900097",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5006,12 +6560,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900097",
@@ -5043,12 +6597,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900098",
@@ -5080,12 +6634,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900099",
@@ -5117,12 +6671,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900102",
@@ -5154,12 +6708,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900106",
@@ -5191,12 +6745,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900110",
@@ -5228,12 +6782,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900113",
@@ -5265,12 +6819,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900121",
@@ -5302,12 +6856,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900125",
@@ -5339,12 +6893,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900131",
@@ -5366,6 +6920,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900141",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900141",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.817264167505023,
+      "lng": 120.57962655186171,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900151",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5376,12 +6967,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900151",
@@ -5403,6 +6994,302 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900190",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900190",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.971786955531496,
+      "lng": 120.5355937693823,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900197",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900197",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處二水營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.810017696896885,
+      "lng": 120.61572438331645,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900200",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900200",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.037050382285024,
+      "lng": 120.41596691450549,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900202",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900202",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(北彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.11356231391386,
+      "lng": 120.4965024751121,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900204",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900204",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.067004082095135,
+      "lng": 120.44597192772777,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900219",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900219",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處二水營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.816605698309534,
+      "lng": 120.61694193416096,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900220",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900220",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理彰化給水廠",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.06035575822037,
+      "lng": 120.53710889265801,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900245",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900245",
+    "licenseNumber": "N/A",
+    "applicant": "欣林天然氣股份公司",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.956064797049038,
+      "lng": 120.56911279130061,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1150900261",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5413,12 +7300,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900261",
@@ -5450,12 +7337,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900267",
@@ -5487,12 +7374,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900268",
@@ -5514,6 +7401,228 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1150900281",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900281",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.041903022300115,
+      "lng": 120.45686297783762,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900283",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900283",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.06037497826761,
+      "lng": 120.43784984004152,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900286",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900286",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.042810146440505,
+      "lng": 120.4241729524271,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900287",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900287",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.068922914191074,
+      "lng": 120.43421344150204,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900290",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900290",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.966550885379238,
+      "lng": 120.5660366576579,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "申請中案件 1150900296",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900296",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.85671061198861,
+      "lng": 120.54047304113345,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1121100364",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5524,12 +7633,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1121100364",
@@ -5561,12 +7670,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140300206",
@@ -5598,12 +7707,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140300224",
@@ -5635,12 +7744,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140400056",
@@ -5672,12 +7781,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140400371",
@@ -5709,12 +7818,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140600088",
@@ -5746,12 +7855,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1140800218",
@@ -5783,12 +7892,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1141100080",
@@ -5820,12 +7929,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1141100197",
@@ -5857,12 +7966,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1141100241",
@@ -5894,12 +8003,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1141100311",
@@ -5931,12 +8040,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1141100475",
@@ -5968,12 +8077,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150100129",
@@ -6005,12 +8114,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150100345",
@@ -6042,12 +8151,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150100439",
@@ -6079,12 +8188,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150100483",
@@ -6116,12 +8225,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200049",
@@ -6153,12 +8262,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200095",
@@ -6190,12 +8299,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200195",
@@ -6227,12 +8336,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200211",
@@ -6264,12 +8373,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200275",
@@ -6301,12 +8410,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200326",
@@ -6338,12 +8447,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150200362",
@@ -6375,12 +8484,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300083",
@@ -6412,12 +8521,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300113",
@@ -6449,12 +8558,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300142",
@@ -6486,12 +8595,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300186",
@@ -6523,12 +8632,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300252",
@@ -6560,12 +8669,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300262",
@@ -6597,12 +8706,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300274",
@@ -6634,12 +8743,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300307",
@@ -6661,6 +8770,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150300314",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150300314",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理彰化給水廠",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.074669529500763,
+      "lng": 120.55428721079797,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150300321",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -6671,12 +8817,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300321",
@@ -6708,12 +8854,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150300324",
@@ -6745,12 +8891,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400009",
@@ -6782,12 +8928,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400010",
@@ -6819,12 +8965,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400119",
@@ -6856,12 +9002,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400201",
@@ -6893,12 +9039,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400281",
@@ -6930,12 +9076,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400291",
@@ -6967,12 +9113,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400292",
@@ -7004,12 +9150,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400377",
@@ -7041,12 +9187,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400385",
@@ -7078,12 +9224,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400413",
@@ -7115,12 +9261,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400456",
@@ -7152,12 +9298,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400470",
@@ -7189,12 +9335,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150400481",
@@ -7226,12 +9372,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500049",
@@ -7263,12 +9409,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500064",
@@ -7300,12 +9446,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500081",
@@ -7327,6 +9473,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150500140",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150500140",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.90453819460552,
+      "lng": 120.36572119146189,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150500172",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -7337,12 +9520,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500172",
@@ -7374,12 +9557,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500195",
@@ -7411,12 +9594,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500308",
@@ -7448,12 +9631,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500322",
@@ -7485,12 +9668,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500342",
@@ -7522,12 +9705,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500367",
@@ -7559,12 +9742,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500383",
@@ -7596,12 +9779,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500442",
@@ -7633,12 +9816,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500455",
@@ -7670,12 +9853,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500461",
@@ -7707,12 +9890,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150500467",
@@ -7734,6 +9917,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150600004",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150600004",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.881380975377496,
+      "lng": 120.46134455246386,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150600018",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -7744,12 +9964,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600018",
@@ -7781,12 +10001,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600025",
@@ -7818,12 +10038,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600044",
@@ -7855,12 +10075,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600096",
@@ -7882,6 +10102,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150600112",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150600112",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.898825939869518,
+      "lng": 120.38408167910484,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150600129",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -7892,12 +10149,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600129",
@@ -7929,12 +10186,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600145",
@@ -7966,12 +10223,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600207",
@@ -8003,12 +10260,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600217",
@@ -8040,12 +10297,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600219",
@@ -8077,12 +10334,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600221",
@@ -8104,6 +10361,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150600226",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150600226",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.938226683716714,
+      "lng": 120.52924942397567,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150600242",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -8114,12 +10408,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600242",
@@ -8151,12 +10445,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600250",
@@ -8188,12 +10482,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600289",
@@ -8225,12 +10519,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600291",
@@ -8262,12 +10556,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600292",
@@ -8299,12 +10593,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600293",
@@ -8336,12 +10630,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600295",
@@ -8373,12 +10667,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600312",
@@ -8410,12 +10704,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600328",
@@ -8447,12 +10741,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600331",
@@ -8484,12 +10778,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600344",
@@ -8521,12 +10815,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600371",
@@ -8558,12 +10852,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600392",
@@ -8595,12 +10889,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600396",
@@ -8632,12 +10926,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600403",
@@ -8669,12 +10963,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600405",
@@ -8696,43 +10990,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150600407",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150600407",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處花壇營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.996116559254578,
-      "lng": 120.57180816612073,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150600412",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -8743,12 +11000,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600412",
@@ -8780,12 +11037,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600414",
@@ -8817,12 +11074,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600420",
@@ -8854,12 +11111,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600430",
@@ -8891,12 +11148,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600448",
@@ -8928,12 +11185,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600451",
@@ -8965,12 +11222,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600454",
@@ -9002,12 +11259,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600455",
@@ -9039,12 +11296,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600459",
@@ -9076,12 +11333,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600461",
@@ -9113,12 +11370,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600465",
@@ -9150,12 +11407,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600466",
@@ -9187,12 +11444,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600467",
@@ -9224,12 +11481,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600468",
@@ -9261,12 +11518,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600472",
@@ -9298,12 +11555,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600482",
@@ -9335,12 +11592,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150600484",
@@ -9372,12 +11629,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700001",
@@ -9409,12 +11666,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700002",
@@ -9446,12 +11703,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700004",
@@ -9483,12 +11740,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700009",
@@ -9520,12 +11777,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700012",
@@ -9557,12 +11814,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700027",
@@ -9594,12 +11851,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700038",
@@ -9631,12 +11888,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700049",
@@ -9668,12 +11925,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700061",
@@ -9705,12 +11962,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700073",
@@ -9732,6 +11989,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150700078",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150700078",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司中區施工處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.976658996578205,
+      "lng": 120.5291175262211,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150700090",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -9742,12 +12036,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700090",
@@ -9779,12 +12073,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700091",
@@ -9816,12 +12110,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700105",
@@ -9853,12 +12147,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700117",
@@ -9890,12 +12184,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700118",
@@ -9927,12 +12221,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700132",
@@ -9954,6 +12248,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150700151",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150700151",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.85080110472301,
+      "lng": 120.39846082192267,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150700158",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -9964,12 +12295,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700158",
@@ -10001,12 +12332,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700159",
@@ -10038,12 +12369,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700160",
@@ -10075,12 +12406,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700178",
@@ -10112,12 +12443,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700190",
@@ -10149,12 +12480,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700191",
@@ -10186,12 +12517,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700207",
@@ -10223,12 +12554,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700212",
@@ -10260,12 +12591,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700234",
@@ -10297,12 +12628,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700250",
@@ -10324,6 +12655,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150700252",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150700252",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.949237224316146,
+      "lng": 120.4856973249024,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150700257",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10334,12 +12702,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700257",
@@ -10371,12 +12739,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700262",
@@ -10398,43 +12766,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150700263",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150700263",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司台中供電區營運處",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.06448564569134,
-      "lng": 120.53381670583606,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150700272",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10445,12 +12776,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700272",
@@ -10482,12 +12813,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700280",
@@ -10509,6 +12840,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150700281",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150700281",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.09360506066537,
+      "lng": 120.54356030736838,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150700282",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10519,12 +12887,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700282",
@@ -10556,12 +12924,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700295",
@@ -10593,12 +12961,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700303",
@@ -10630,12 +12998,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700305",
@@ -10667,12 +13035,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700324",
@@ -10704,12 +13072,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700327",
@@ -10741,12 +13109,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700342",
@@ -10778,12 +13146,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700354",
@@ -10815,12 +13183,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700356",
@@ -10842,6 +13210,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150700376",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150700376",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處彰化服務所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.08992578486324,
+      "lng": 120.60858457413633,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150700380",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10852,12 +13257,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700380",
@@ -10889,12 +13294,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700383",
@@ -10926,12 +13331,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700384",
@@ -10963,12 +13368,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700386",
@@ -11000,12 +13405,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700389",
@@ -11037,12 +13442,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700392",
@@ -11074,12 +13479,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700399",
@@ -11111,12 +13516,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700406",
@@ -11148,12 +13553,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700411",
@@ -11185,12 +13590,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700414",
@@ -11222,12 +13627,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700418",
@@ -11259,12 +13664,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700424",
@@ -11296,12 +13701,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700433",
@@ -11333,12 +13738,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700442",
@@ -11370,12 +13775,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700475",
@@ -11407,12 +13812,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700476",
@@ -11444,12 +13849,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700481",
@@ -11481,12 +13886,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700488",
@@ -11518,12 +13923,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700492",
@@ -11555,12 +13960,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700502",
@@ -11592,12 +13997,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700504",
@@ -11629,12 +14034,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700507",
@@ -11666,12 +14071,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700509",
@@ -11703,12 +14108,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700510",
@@ -11740,12 +14145,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700531",
@@ -11777,12 +14182,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150700532",
@@ -11814,12 +14219,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800009",
@@ -11851,12 +14256,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800027",
@@ -11888,12 +14293,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800047",
@@ -11925,12 +14330,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800048",
@@ -11962,12 +14367,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800050",
@@ -11999,12 +14404,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800057",
@@ -12036,12 +14441,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800070",
@@ -12073,12 +14478,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800071",
@@ -12110,12 +14515,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800072",
@@ -12147,12 +14552,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800074",
@@ -12184,12 +14589,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800080",
@@ -12221,12 +14626,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800082",
@@ -12258,12 +14663,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800083",
@@ -12295,12 +14700,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800084",
@@ -12332,12 +14737,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800088",
@@ -12369,12 +14774,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800101",
@@ -12406,12 +14811,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800116",
@@ -12443,12 +14848,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800133",
@@ -12480,12 +14885,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800136",
@@ -12517,12 +14922,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800142",
@@ -12554,12 +14959,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800152",
@@ -12591,12 +14996,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800153",
@@ -12628,12 +15033,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800160",
@@ -12665,12 +15070,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800166",
@@ -12702,12 +15107,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800173",
@@ -12739,12 +15144,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800176",
@@ -12776,12 +15181,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800177",
@@ -12813,12 +15218,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800179",
@@ -12850,12 +15255,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800184",
@@ -12887,12 +15292,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800187",
@@ -12924,12 +15329,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800194",
@@ -12961,12 +15366,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800198",
@@ -12998,12 +15403,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800202",
@@ -13035,12 +15440,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800208",
@@ -13072,12 +15477,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800212",
@@ -13109,12 +15514,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800215",
@@ -13146,12 +15551,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800220",
@@ -13183,12 +15588,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800223",
@@ -13220,12 +15625,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800241",
@@ -13257,12 +15662,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800251",
@@ -13294,12 +15699,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800252",
@@ -13331,12 +15736,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800257",
@@ -13368,12 +15773,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800261",
@@ -13405,12 +15810,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800263",
@@ -13442,12 +15847,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800271",
@@ -13479,12 +15884,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800273",
@@ -13516,12 +15921,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800274",
@@ -13553,12 +15958,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800278",
@@ -13590,12 +15995,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800279",
@@ -13627,12 +16032,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800283",
@@ -13664,12 +16069,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800285",
@@ -13701,12 +16106,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800309",
@@ -13738,12 +16143,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800317",
@@ -13775,12 +16180,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800338",
@@ -13812,12 +16217,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800359",
@@ -13849,12 +16254,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800368",
@@ -13876,6 +16281,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150800371",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800371",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司南投區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.983027986676394,
+      "lng": 120.64056237841693,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "預定施工案件 1150800388",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800388",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.118903476191075,
+      "lng": 120.49346378921308,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150800397",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -13886,12 +16365,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800397",
@@ -13923,12 +16402,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800398",
@@ -13960,12 +16439,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800402",
@@ -13997,12 +16476,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800420",
@@ -14034,12 +16513,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800422",
@@ -14071,12 +16550,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800426",
@@ -14098,6 +16577,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150800430",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800430",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.052998678263748,
+      "lng": 120.44115243589577,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150800443",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14108,12 +16624,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800443",
@@ -14135,6 +16651,80 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150800457",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800457",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.06001438376608,
+      "lng": 120.53580845347916,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "預定施工案件 1150800472",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150800472",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.088203823534545,
+      "lng": 120.56671805956798,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150800478",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14145,12 +16735,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800478",
@@ -14182,12 +16772,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800493",
@@ -14219,12 +16809,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150800526",
@@ -14256,12 +16846,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900027",
@@ -14283,43 +16873,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150900039",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 20
-      }
-    },
-    "applicationNumber": "1150900039",
-    "licenseNumber": "N/A",
-    "applicant": "欣彰天然氣股份公司",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.960578470015626,
-      "lng": 120.4787184626354,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150900049",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14330,12 +16883,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900049",
@@ -14357,6 +16910,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150900054",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900054",
+    "licenseNumber": "N/A",
+    "applicant": "欣林天然氣股份公司",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.948078390658097,
+      "lng": 120.58155628668403,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "預定施工案件 1150900138",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14367,12 +16957,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900138",
@@ -14394,6 +16984,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "預定施工案件 1150900169",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "預定施工",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "applicationNumber": "1150900169",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理彰化給水廠",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.119348230201407,
+      "lng": 120.52549016844102,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "緊急搶修案件 1150900285",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14404,12 +17031,12 @@
       "start": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       },
       "end": {
         "year": 2026,
         "month": 9,
-        "day": 20
+        "day": 21
       }
     },
     "applicationNumber": "1150900285",
