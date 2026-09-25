@@ -12396,12 +12396,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115090053",
+    "title": "已完工道路挖掘 R115090053",
     "distriction": "中山區",
     "address": "自 文化路１３２號 至 協和街７號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -12433,12 +12433,49 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115090073",
+    "title": "已完工道路挖掘 R115090071",
+    "distriction": "安樂區",
+    "address": "自 安和一街２７３號 至 安和一街２７３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 25
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 25
+      }
+    },
+    "applicationNumber": "R115090071",
+    "licenseNumber": "R115090071-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127150283616746,
+      "lng": 121.72298928929379,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115090073",
     "distriction": "仁愛區",
     "address": "自 仁一路３１３號 至 仁一路３１９號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -12470,12 +12507,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115090073",
+    "title": "已完工道路挖掘 R115090073",
     "distriction": "仁愛區",
     "address": "自 仁一路３１３號 至 仁一路３１９號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -12502,6 +12539,43 @@
     "coordinate": {
       "lat": 25.129859390020673,
       "lng": 121.7449588843323,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115090075",
+    "distriction": "暖暖區",
+    "address": "自 過港路５２號 至 過港路５２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 25
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 25
+      }
+    },
+    "applicationNumber": "R115090075",
+    "licenseNumber": "R115090075-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.104491083427032,
+      "lng": 121.73858851119134,
       "polygon": null
     }
   }
