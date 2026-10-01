@@ -1,29 +1,29 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中道路維護 M114110687",
-    "distriction": "中山區",
-    "address": "自 德安路２之２號 至 德安路２之１６號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
+    "title": "申請中開孔 WH11509013  ",
+    "distriction": "仁愛區",
+    "address": "仁五路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
     "workingState": "否",
     "date": {
       "start": {
-        "year": 2025,
-        "month": 11,
-        "day": 6
+        "year": 2026,
+        "month": 9,
+        "day": 1
       },
       "end": {
-        "year": 2025,
-        "month": 11,
-        "day": 6
+        "year": 2026,
+        "month": 9,
+        "day": 1
       }
     },
-    "applicationNumber": "M114110687",
-    "licenseNumber": "M114110687-04",
-    "applicant": "基隆市政府工務處公有建築科",
+    "applicationNumber": "WH11509013  ",
+    "licenseNumber": "WH11509013-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
     "contractor": {
-      "name": "安致營造有限公司",
+      "name": "安聯通電訊股份有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
@@ -31,8 +31,4929 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.149641822268435,
-      "lng": 121.72539081253991,
+      "lat": 25.127505601640465,
+      "lng": 121.74083577365296,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11509017  ",
+    "distriction": "仁愛區",
+    "address": "愛一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11509017  ",
+    "licenseNumber": "WH11509017-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130147456546805,
+      "lng": 121.74204783710915,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11509018  ",
+    "distriction": "仁愛區",
+    "address": "忠一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11509018  ",
+    "licenseNumber": "WH11509018-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130447565359216,
+      "lng": 121.74151416011176,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11509019  ",
+    "distriction": "仁愛區",
+    "address": "成功一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11509019  ",
+    "licenseNumber": "WH11509019-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "中華電信基隆營運處",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127074587749288,
+      "lng": 121.73789960054108,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130837573655445,
+      "lng": 121.74343107925488,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130160000156593,
+      "lng": 121.74265358654394,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129924487249994,
+      "lng": 121.74248663537645,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130119330673928,
+      "lng": 121.74212321219339,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130393849945655,
+      "lng": 121.74157581852137,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600222",
+    "distriction": "仁愛區",
+    "address": "自 忠一路４號 至 仁二路２５５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600222",
+    "licenseNumber": "1110600222-33",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13078694475093,
+      "lng": 121.7410722234273,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.131025312266658,
+      "lng": 121.74071531237995,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13138901856551,
+      "lng": 121.7400215609046,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13116359874354,
+      "lng": 121.74007937020572,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130838220250226,
+      "lng": 121.73976675153571,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130211099080398,
+      "lng": 121.73935775899376,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110600223",
+    "distriction": "仁愛區",
+    "address": "自 忠一路７號 至 孝三路６５巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110600223",
+    "licenseNumber": "1110600223-32",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129924140132992,
+      "lng": 121.7391588903162,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130064572276172,
+      "lng": 121.74197426713856,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12956345094175,
+      "lng": 121.74163564699147,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12922638755592,
+      "lng": 121.74141148899704,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128471919071192,
+      "lng": 121.74091858743364,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12831143925311,
+      "lng": 121.74080716931206,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700002",
+    "distriction": "仁愛區",
+    "address": "自 忠二路３４號 至 愛一路３１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700002",
+    "licenseNumber": "1110700002-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127789991778865,
+      "lng": 121.7404393979704,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129071626697446,
+      "lng": 121.74130895243175,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12877724884924,
+      "lng": 121.74111124976108,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128448566350105,
+      "lng": 121.74090762739249,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128373701300205,
+      "lng": 121.74085846840165,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12869308035005,
+      "lng": 121.74041175276,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700003",
+    "distriction": "仁愛區",
+    "address": "自 愛一路２４號 至 忠三路２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700003",
+    "licenseNumber": "1110700003-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128964972427852,
+      "lng": 121.73989528517268,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128314375593117,
+      "lng": 121.74080974719428,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127751658022696,
+      "lng": 121.74042559605351,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12889529554631,
+      "lng": 121.74196507902764,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.1287554907484,
+      "lng": 121.74186772433544,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12843011753558,
+      "lng": 121.74164765361893,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1110700005",
+    "distriction": "仁愛區",
+    "address": "自 愛一路７號 至 愛二路１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1110700005",
+    "licenseNumber": "1110700005-29",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "盛泰開發實業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12806259621508,
+      "lng": 121.74139573449509,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127447726299863,
+      "lng": 121.74800104321355,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127406131331306,
+      "lng": 121.74724278775697,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127544030266755,
+      "lng": 121.74691787462893,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127702410464376,
+      "lng": 121.74661512901488,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12830451875842,
+      "lng": 121.74553609202499,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128180928163808,
+      "lng": 121.74578339412065,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12736035298591,
+      "lng": 121.74761096991635,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1111200043",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１５９號 至 仁二路１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1111200043",
+    "licenseNumber": "1111200043-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127951154579332,
+      "lng": 121.74619621724543,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200046",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３０１號 至 愛五路２１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200046",
+    "licenseNumber": "1120200046-22",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129395339193884,
+      "lng": 121.74578765526712,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200046",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３０１號 至 愛五路２１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200046",
+    "licenseNumber": "1120200046-22",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12925544955741,
+      "lng": 121.74602870116908,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200046",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３０１號 至 愛五路２１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200046",
+    "licenseNumber": "1120200046-22",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128768007166265,
+      "lng": 121.74575452244846,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200047",
+    "distriction": "仁愛區",
+    "address": "自 愛六路１８號 至 愛六路３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200047",
+    "licenseNumber": "1120200047-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128147429419705,
+      "lng": 121.74757548852135,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200047",
+    "distriction": "仁愛區",
+    "address": "自 愛六路１８號 至 愛六路３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200047",
+    "licenseNumber": "1120200047-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.1279059151774,
+      "lng": 121.74746769912673,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130353996368328,
+      "lng": 121.7439056029045,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12970346101634,
+      "lng": 121.7429516188365,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129454712145073,
+      "lng": 121.74326699979736,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129057869751914,
+      "lng": 121.74304356206987,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128626681958455,
+      "lng": 121.74271625252209,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128168738252,
+      "lng": 121.74244550553996,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12777248883309,
+      "lng": 121.74217963082391,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12737070659729,
+      "lng": 121.74202315046692,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200048",
+    "distriction": "仁愛區",
+    "address": "自 愛三路１號 至 愛三路１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200048",
+    "licenseNumber": "1120200048-21",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.1269507473399,
+      "lng": 121.74170812998965,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200067",
+    "distriction": "仁愛區",
+    "address": "自 仁一路２６１之１號 至 延平街２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200067",
+    "licenseNumber": "1120200067-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128275469741638,
+      "lng": 121.7486228937792,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200067",
+    "distriction": "仁愛區",
+    "address": "自 仁一路２６１之１號 至 延平街２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200067",
+    "licenseNumber": "1120200067-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127893241557764,
+      "lng": 121.74858554270399,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120200067",
+    "distriction": "仁愛區",
+    "address": "自 仁一路２６１之１號 至 延平街２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120200067",
+    "licenseNumber": "1120200067-25",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127360568450463,
+      "lng": 121.74855236265971,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300003",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３２１號 至 愛四路４１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300003",
+    "licenseNumber": "1120300003-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129974698786732,
+      "lng": 121.74465004502825,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300003",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３２１號 至 愛四路４１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300003",
+    "licenseNumber": "1120300003-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129675411846147,
+      "lng": 121.74445320151086,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300003",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３２１號 至 愛四路４１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300003",
+    "licenseNumber": "1120300003-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12920864722352,
+      "lng": 121.74411720315496,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300003",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３２１號 至 愛四路４１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300003",
+    "licenseNumber": "1120300003-26",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129406722354204,
+      "lng": 121.74427884665906,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12785817856681,
+      "lng": 121.7448552059155,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12793619691906,
+      "lng": 121.74464154047683,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128035340626802,
+      "lng": 121.74437502440824,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128015801912216,
+      "lng": 121.74382321967596,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128208407192474,
+      "lng": 121.74343878853456,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127893452981397,
+      "lng": 121.74325521219865,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127670991354314,
+      "lng": 121.74311830140063,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127602258100506,
+      "lng": 121.74240574621471,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300004",
+    "distriction": "仁愛區",
+    "address": "自 仁三路５號 至 仁四路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300004",
+    "licenseNumber": "1120300004-23",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12758479625269,
+      "lng": 121.74277043761361,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.126669914795286,
+      "lng": 121.74155633057383,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12623796828848,
+      "lng": 121.7411693015361,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12597446834611,
+      "lng": 121.74102190141059,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12555825519094,
+      "lng": 121.74142092560459,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.125181565472282,
+      "lng": 121.74182143439282,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12485749422718,
+      "lng": 121.74211758106857,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120300065",
+    "distriction": "仁愛區",
+    "address": "自 精一路１號 至 龍安街１６５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120300065",
+    "licenseNumber": "1120300065-24",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.124609660808282,
+      "lng": 121.74205127301798,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120500075",
+    "distriction": "仁愛區",
+    "address": "自 仁二路１３９號 至 仁二路137巷３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120500075",
+    "licenseNumber": "1120500075-17",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127389361140338,
+      "lng": 121.74655777298935,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120900073",
+    "distriction": "仁愛區",
+    "address": "自 延平街１０號 至 延平街２３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120900073",
+    "licenseNumber": "1120900073-15",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12644327892473,
+      "lng": 121.748528078577,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1120900073",
+    "distriction": "仁愛區",
+    "address": "自 延平街１０號 至 延平街２３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1120900073",
+    "licenseNumber": "1120900073-15",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127075191725986,
+      "lng": 121.74853371647455,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1121100123",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３０９號 至 仁一路３０９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1121100123",
+    "licenseNumber": "1121100123-12",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12979134847462,
+      "lng": 121.74511744848402,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1130200038",
+    "distriction": "仁愛區",
+    "address": "自 仁一路２９７號 至 愛五路３２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1130200038",
+    "licenseNumber": "1130200038-14",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128819182605785,
+      "lng": 121.74584433006953,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1130200038",
+    "distriction": "仁愛區",
+    "address": "自 仁一路２９７號 至 愛五路３２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1130200038",
+    "licenseNumber": "1130200038-14",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128987426491353,
+      "lng": 121.7465647772952,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1141100014",
+    "distriction": "信義區",
+    "address": "自 深澳坑路１６１號 至 深澳坑路１３３之１８號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1141100014",
+    "licenseNumber": "1141100014-10",
+    "applicant": "台灣自來水股份有限公司第一區管理處工務課",
+    "contractor": {
+      "name": "箴澤工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12384241363064,
+      "lng": 121.79106530356809,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1141200029",
+    "distriction": "信義區",
+    "address": "自 教忠街40巷２號 至 教忠街３９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1141200029",
+    "licenseNumber": "1141200029-06",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "麗寶工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13377268864538,
+      "lng": 121.77733916218992,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1141200029",
+    "distriction": "信義區",
+    "address": "自 教忠街40巷２號 至 教忠街３９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1141200029",
+    "licenseNumber": "1141200029-06",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "麗寶工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.134739750420902,
+      "lng": 121.77765594975189,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1141200044",
+    "distriction": "信義區",
+    "address": "自 東信路１０８號 至 東信路１５２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1141200044",
+    "licenseNumber": "1141200044-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12753082694957,
+      "lng": 121.76603718889022,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150200011",
+    "distriction": "仁愛區",
+    "address": "自 仁二路２４９號 至 愛二路２０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150200011",
+    "licenseNumber": "1150200011-03",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129722590094033,
+      "lng": 121.74281618672805,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150200011",
+    "distriction": "仁愛區",
+    "address": "自 仁二路２４９號 至 愛二路２０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150200011",
+    "licenseNumber": "1150200011-03",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129769985993818,
+      "lng": 121.74267183451886,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150200011",
+    "distriction": "仁愛區",
+    "address": "自 仁二路２４９號 至 愛二路２０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150200011",
+    "licenseNumber": "1150200011-03",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129674904440524,
+      "lng": 121.74256620998422,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150200011",
+    "distriction": "仁愛區",
+    "address": "自 仁二路２４９號 至 愛二路２０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150200011",
+    "licenseNumber": "1150200011-03",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12925985772931,
+      "lng": 121.74228824560207,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150200011",
+    "distriction": "仁愛區",
+    "address": "自 仁二路２４９號 至 愛二路２０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150200011",
+    "licenseNumber": "1150200011-03",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.128362738650207,
+      "lng": 121.7416891590818,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150300009",
+    "distriction": "信義區",
+    "address": "自 東信路１７８號 至 崇法街２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150300009",
+    "licenseNumber": "1150300009-02",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12896656039849,
+      "lng": 121.76469459239301,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150300010",
+    "distriction": "信義區",
+    "address": "自 信一路６２號 至 信一路６２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150300010",
+    "licenseNumber": "1150300010-07",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "麗寶工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12833964655095,
+      "lng": 121.75307499822274,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150400020",
+    "distriction": "仁愛區",
+    "address": "自 仁二路９３號 至 延平街７７之９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150400020",
+    "licenseNumber": "1150400020-02",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127622960298016,
+      "lng": 121.7487516697436,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150400020",
+    "distriction": "仁愛區",
+    "address": "自 仁二路９３號 至 延平街７７之９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150400020",
+    "licenseNumber": "1150400020-02",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127703759122152,
+      "lng": 121.74910992110237,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150400020",
+    "distriction": "仁愛區",
+    "address": "自 仁二路９３號 至 延平街７７之９號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150400020",
+    "licenseNumber": "1150400020-02",
+    "applicant": "基隆市政府工務處下水道科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127487090476055,
+      "lng": 121.7491429313786,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.081931579438045,
+      "lng": 121.69770229258262,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08193295835114,
+      "lng": 121.69748447732792,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.081919014571703,
+      "lng": 121.69723791212388,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.081919467166575,
+      "lng": 121.69695158879061,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.081913196675764,
+      "lng": 121.69667117901612,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.082080612530987,
+      "lng": 121.69630280272528,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.082580922080417,
+      "lng": 121.69621488766103,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150500045",
+    "distriction": "七堵區",
+    "address": "自 百三街１１３號 至 福二街154巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150500045",
+    "licenseNumber": "1150500045-04",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.082583783143043,
+      "lng": 121.6965935671588,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09057855198675,
+      "lng": 121.75295667003262,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09044564279907,
+      "lng": 121.75288437715899,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.0904059314207,
+      "lng": 121.75286693199061,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09020011919482,
+      "lng": 121.75278134423223,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09017006724228,
+      "lng": 121.7527674080376,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.089965906124835,
+      "lng": 121.75269161608911,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09012303406062,
+      "lng": 121.75268330203313,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600028",
+    "distriction": "暖暖區",
+    "address": "自 碇內街１７７號 至 碇內街３００號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600028",
+    "licenseNumber": "1150600028-03",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.089907043790124,
+      "lng": 121.75260566027568,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600035",
+    "distriction": "暖暖區",
+    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600035",
+    "licenseNumber": "1150600035-03",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.10759036748552,
+      "lng": 121.72808123693812,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600035",
+    "distriction": "暖暖區",
+    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600035",
+    "licenseNumber": "1150600035-03",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.107889433158597,
+      "lng": 121.72853662097717,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600035",
+    "distriction": "暖暖區",
+    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600035",
+    "licenseNumber": "1150600035-03",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.108126757315173,
+      "lng": 121.72915523949574,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600035",
+    "distriction": "暖暖區",
+    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600035",
+    "licenseNumber": "1150600035-03",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.10780189338156,
+      "lng": 121.72889800074222,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600035",
+    "distriction": "暖暖區",
+    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600035",
+    "licenseNumber": "1150600035-03",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "順生科技有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.107492588885588,
+      "lng": 121.72925377740138,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150600070",
+    "distriction": "暖暖區",
+    "address": "自 尚仁街１１１號 至 尚仁街１１１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150600070",
+    "licenseNumber": "1150600070-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處工務課",
+    "contractor": {
+      "name": "廣躍工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.111460023373006,
+      "lng": 121.72992031387749,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150700004",
+    "distriction": "信義區",
+    "address": "自 教忠街４１號 至 教忠街１３０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150700004",
+    "licenseNumber": "1150700004-05",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "麗寶工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.136092508835663,
+      "lng": 121.77841193952973,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150700048",
+    "distriction": "中正區",
+    "address": "自 義二路２１０號 至 義二路２２２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150700048",
+    "licenseNumber": "1150700048-02",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "隆明企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.135105240664778,
+      "lng": 121.74803814390243,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150700050",
+    "distriction": "七堵區",
+    "address": "自 明德一路2巷3弄２號 至 明德一路2巷3弄１０之１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150700050",
+    "licenseNumber": "1150700050-04",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.099792799978673,
+      "lng": 121.71781085216607,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150900001",
+    "distriction": "安樂區",
+    "address": "自 武訓街１０２號 至 八德路76巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150900001",
+    "licenseNumber": "1150900001-01",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "建業工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.152272620070864,
+      "lng": 121.6971924700208,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1150900001",
+    "distriction": "安樂區",
+    "address": "自 武訓街１０２號 至 八德路76巷６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "1150900001",
+    "licenseNumber": "1150900001-01",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "建業工程顧問有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.115007568172658,
+      "lng": 121.72912433139116,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115080097",
+    "distriction": "七堵區",
+    "address": "自 東新街37巷２７號 至 東新街37巷２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080097",
+    "licenseNumber": "R115080097-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09591405469573,
+      "lng": 121.71954949592676,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115080105",
+    "distriction": "七堵區",
+    "address": "自 自治街１３號 至 自治街１３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080105",
+    "licenseNumber": "R115080105-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.096071356686235,
+      "lng": 121.71302845753632,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115080117",
+    "distriction": "暖暖區",
+    "address": "自 暖碇路15巷４５號 至 暖碇路15巷２６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080117",
+    "licenseNumber": "R115080117-02",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.096806384961454,
+      "lng": 121.75353659986867,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115080117",
+    "distriction": "暖暖區",
+    "address": "自 暖碇路15巷４５號 至 暖碇路15巷２６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080117",
+    "licenseNumber": "R115080117-02",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.096792055931488,
+      "lng": 121.75355752994153,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115080124",
+    "distriction": "七堵區",
+    "address": "自 福二街１５７號 至 福二街１５７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080124",
+    "licenseNumber": "R115080124-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.084376100958337,
+      "lng": 121.69606922409622,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115090013",
+    "distriction": "七堵區",
+    "address": "自 自治街28巷４２號 至 自治街28巷４２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115090013",
+    "licenseNumber": "R115090013-02",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "隆明企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.095877995093417,
+      "lng": 121.71183940256452,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115090021",
+    "distriction": "七堵區",
+    "address": "自 百一街１１５號 至 百一街１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115090021",
+    "licenseNumber": "R115090021-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08021211090912,
+      "lng": 121.69712769532826,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 R115090039",
+    "distriction": "七堵區",
+    "address": "自 明德一路2巷3弄４０號 至 明德一路2巷3弄４０號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115090039",
+    "licenseNumber": "R115090039-02",
+    "applicant": "欣隆天然氣股份有限公司",
+    "contractor": {
+      "name": "瑞清企業股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.100135600002893,
+      "lng": 121.7162338137683,
       "polygon": null
     }
   },
@@ -771,8 +5692,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.0888997976346,
-      "lng": 121.7052773868718,
+      "lat": 25.08681492241435,
+      "lng": 121.69671348166884,
       "polygon": null
     }
   },
@@ -808,8 +5729,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.089488165425703,
-      "lng": 121.70549220778165,
+      "lat": 25.08688353983141,
+      "lng": 121.69707794375442,
       "polygon": null
     }
   },
@@ -845,8 +5766,119 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.087613918932348,
-      "lng": 121.70526450069644,
+      "lat": 25.08695060287791,
+      "lng": 121.69741665483023,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115060768",
+    "distriction": "七堵區",
+    "address": "自 明德二路１號 至 明德二路２８號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      }
+    },
+    "applicationNumber": "M115060768",
+    "licenseNumber": "M115060768-01",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08702268851944,
+      "lng": 121.6977553947398,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115060768",
+    "distriction": "七堵區",
+    "address": "自 明德二路１號 至 明德二路２８號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      }
+    },
+    "applicationNumber": "M115060768",
+    "licenseNumber": "M115060768-01",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08673729733847,
+      "lng": 121.69630575829402,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115060768",
+    "distriction": "七堵區",
+    "address": "自 明德二路１號 至 明德二路２８號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      }
+    },
+    "applicationNumber": "M115060768",
+    "licenseNumber": "M115060768-01",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08358376683174,
+      "lng": 121.70458149139998,
       "polygon": null
     }
   },
@@ -1104,8 +6136,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.08681492241435,
-      "lng": 121.69671348166884,
+      "lat": 25.0888997976346,
+      "lng": 121.7052773868718,
       "polygon": null
     }
   },
@@ -1141,8 +6173,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.08688353983141,
-      "lng": 121.69707794375442,
+      "lat": 25.089488165425703,
+      "lng": 121.70549220778165,
       "polygon": null
     }
   },
@@ -1178,119 +6210,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.08695060287791,
-      "lng": 121.69741665483023,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115060768",
-    "distriction": "七堵區",
-    "address": "自 明德二路１號 至 明德二路２８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115060768",
-    "licenseNumber": "M115060768-01",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "俍銓營造工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08702268851944,
-      "lng": 121.6977553947398,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115060768",
-    "distriction": "七堵區",
-    "address": "自 明德二路１號 至 明德二路２８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115060768",
-    "licenseNumber": "M115060768-01",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "俍銓營造工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08673729733847,
-      "lng": 121.69630575829402,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115060768",
-    "distriction": "七堵區",
-    "address": "自 明德二路１號 至 明德二路２８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 6,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115060768",
-    "licenseNumber": "M115060768-01",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "俍銓營造工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08358376683174,
-      "lng": 121.70458149139998,
+      "lat": 25.087613918932348,
+      "lng": 121.70526450069644,
       "polygon": null
     }
   },
@@ -1555,154 +6476,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路維護 M115070787",
-    "distriction": "安樂區",
-    "address": "自 基金一路175巷 至 麥金路3巷500弄",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115070787",
-    "licenseNumber": "M115070787-03",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.141449537387487,
-      "lng": 121.70806204932713,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115070787",
-    "distriction": "安樂區",
-    "address": "自 基金一路175巷 至 麥金路3巷500弄",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115070787",
-    "licenseNumber": "M115070787-03",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.14812903154864,
-      "lng": 121.70837682060825,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115070787",
-    "distriction": "安樂區",
-    "address": "自 基金一路175巷 至 麥金路3巷500弄",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115070787",
-    "licenseNumber": "M115070787-03",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13888935868603,
-      "lng": 121.71038085754694,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115070787",
-    "distriction": "安樂區",
-    "address": "自 基金一路175巷 至 麥金路3巷500弄",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115070787",
-    "licenseNumber": "M115070787-03",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "磐峰營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.118561259656552,
-      "lng": 121.71645970959783,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路維護 M115070796",
     "distriction": "仁愛區",
     "address": "自 仁一路３１７號 至 仁一路３１７號",
@@ -1735,6 +6508,672 @@
     "coordinate": {
       "lat": 25.130026898651685,
       "lng": 121.74487499665227,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.138099094630558,
+      "lng": 121.70897103986123,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.15918033545281,
+      "lng": 121.69284328487674,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.159274668391546,
+      "lng": 121.69333421399199,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.15878053192649,
+      "lng": 121.69321153171116,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.14467989855515,
+      "lng": 121.70964031618333,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13232980373594,
+      "lng": 121.73118703401532,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115070801",
+    "distriction": "安樂區",
+    "address": "自 武嶺街３１１號 至 安一路177巷９０號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115070801",
+    "licenseNumber": "M115070801-03",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13222261510891,
+      "lng": 121.73235029040278,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09786513110927,
+      "lng": 121.71425474109765,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.097478142428418,
+      "lng": 121.71319662414032,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.07714765256826,
+      "lng": 121.69185716622601,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.077519538427186,
+      "lng": 121.68962949033651,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.07164283235386,
+      "lng": 121.69643441156605,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.07532701765136,
+      "lng": 121.69664800860957,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.072940964992956,
+      "lng": 121.69610031192586,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.095674258392176,
+      "lng": 121.71322203486723,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.095133926962472,
+      "lng": 121.71905248719521,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.084197320611505,
+      "lng": 121.70821930427957,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路維護 M115080802",
+    "distriction": "七堵區",
+    "address": "自 明德一路１８０號 至 泰安路193巷１１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115080802",
+    "licenseNumber": "M115080802-03",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.088539554021544,
+      "lng": 121.70883930379203,
       "polygon": null
     }
   },
@@ -1883,154 +7322,6 @@
     "coordinate": {
       "lat": 25.1513994524582,
       "lng": 121.77131820298035,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080812",
-    "distriction": "信義區",
-    "address": "自 深澳坑路２之５７號 至 深澳坑路１之５８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080812",
-    "licenseNumber": "M115080812-03",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "松盛營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.131941558703364,
-      "lng": 121.77743814588297,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080812",
-    "distriction": "信義區",
-    "address": "自 深澳坑路２之５７號 至 深澳坑路１之５８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080812",
-    "licenseNumber": "M115080812-03",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "松盛營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12778743663896,
-      "lng": 121.76129824591331,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080812",
-    "distriction": "信義區",
-    "address": "自 深澳坑路２之５７號 至 深澳坑路１之５８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080812",
-    "licenseNumber": "M115080812-03",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "松盛營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.128426811863786,
-      "lng": 121.75634314675713,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115080812",
-    "distriction": "信義區",
-    "address": "自 深澳坑路２之５７號 至 深澳坑路１之５８號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115080812",
-    "licenseNumber": "M115080812-03",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "松盛營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.128411108654216,
-      "lng": 121.76016325131191,
       "polygon": null
     }
   },
@@ -2221,43 +7512,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路維護 M115090816",
-    "distriction": "中山區",
-    "address": "自 湖海路一段 至 湖海路一段",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115090816",
-    "licenseNumber": "M115090816-01",
-    "applicant": "基隆市政府產業發展處大地及農漁工程科",
-    "contractor": {
-      "name": "昌鴻營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.163910949557227,
-      "lng": 121.72523424580535,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路維護 M115090819",
     "distriction": "安樂區",
     "address": "自 麥金路４８２號 至 麥金路４８２號",
@@ -2290,80 +7544,6 @@
     "coordinate": {
       "lat": 25.125701349644956,
       "lng": 121.7194349549409,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115090820",
-    "distriction": "中山區",
-    "address": "自 中山二路１３３號 至 中山二路１１３號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115090820",
-    "licenseNumber": "M115090820-01",
-    "applicant": "基隆市政府工務處下水道科",
-    "contractor": {
-      "name": "鴻錫營造股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.14376119362789,
-      "lng": 121.73839322792834,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115090820",
-    "distriction": "中山區",
-    "address": "自 中山二路１３３號 至 中山二路１１３號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 8
-      }
-    },
-    "applicationNumber": "M115090820",
-    "licenseNumber": "M115090820-01",
-    "applicant": "基隆市政府工務處下水道科",
-    "contractor": {
-      "name": "鴻錫營造股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.142588557947747,
-      "lng": 121.73834980820186,
       "polygon": null
     }
   },
@@ -2998,137 +8178,26 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 1150700008",
-    "distriction": "安樂區",
-    "address": "自 樂一路12巷１８號 至 樂一路12巷１０５號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150700008",
-    "licenseNumber": "1150700008-07",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "彬峸工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13189033631373,
-      "lng": 121.73355328375361,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "施工中道路挖掘 1150700048",
-    "distriction": "中正區",
-    "address": "自 義二路２１０號 至 義二路２２２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150700048",
-    "licenseNumber": "1150700048-02",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "隆明企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.135105240664778,
-      "lng": 121.74803814390243,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "施工中道路挖掘 R115090013",
-    "distriction": "七堵區",
-    "address": "自 自治街28巷４２號 至 自治街28巷４２號",
+    "title": "施工中道路挖掘 R115100005",
+    "distriction": "信義區",
+    "address": "自 深美街２０３號 至 深美街２０３號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
     "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
-        "month": 9,
-        "day": 30
+        "month": 10,
+        "day": 1
       },
       "end": {
         "year": 2026,
-        "month": 9,
-        "day": 30
+        "month": 10,
+        "day": 1
       }
     },
-    "applicationNumber": "R115090013",
-    "licenseNumber": "R115090013-02",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "隆明企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.095877995093417,
-      "lng": 121.71183940256452,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工開孔 WH11503004",
-    "distriction": "暖暖區",
-    "address": "過港路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "WH11503004",
-    "licenseNumber": "WH11503004-08",
+    "applicationNumber": "R115100005",
+    "licenseNumber": "R115100005-01",
     "applicant": "台灣電力股份有限公司基隆區營業處",
     "contractor": {
       "name": "勤曜電氣工程股份有限公司",
@@ -3139,1044 +8208,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.104623547878198,
-      "lng": 121.73840709929642,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09057855198675,
-      "lng": 121.75295667003262,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09044564279907,
-      "lng": 121.75288437715899,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.0904059314207,
-      "lng": 121.75286693199061,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09020011919482,
-      "lng": 121.75278134423223,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09017006724228,
-      "lng": 121.7527674080376,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.089965906124835,
-      "lng": 121.75269161608911,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09012303406062,
-      "lng": 121.75268330203313,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600028",
-    "distriction": "暖暖區",
-    "address": "自 碇內街１７７號 至 碇內街３００號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600028",
-    "licenseNumber": "1150600028-03",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.089907043790124,
-      "lng": 121.75260566027568,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600035",
-    "distriction": "暖暖區",
-    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600035",
-    "licenseNumber": "1150600035-03",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.10759036748552,
-      "lng": 121.72808123693812,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600035",
-    "distriction": "暖暖區",
-    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600035",
-    "licenseNumber": "1150600035-03",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.107889433158597,
-      "lng": 121.72853662097717,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600035",
-    "distriction": "暖暖區",
-    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600035",
-    "licenseNumber": "1150600035-03",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.108126757315173,
-      "lng": 121.72915523949574,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600035",
-    "distriction": "暖暖區",
-    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600035",
-    "licenseNumber": "1150600035-03",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.10780189338156,
-      "lng": 121.72889800074222,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600035",
-    "distriction": "暖暖區",
-    "address": "自 八堵路１４３之１號 至 八堵路127巷１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150600035",
-    "licenseNumber": "1150600035-03",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.107492588885588,
-      "lng": 121.72925377740138,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150700024",
-    "distriction": "暖暖區",
-    "address": "自 暖暖街５２號 至 暖暖街16巷２８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150700024",
-    "licenseNumber": "1150700024-02",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.10165672252022,
-      "lng": 121.7379409823192,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150700024",
-    "distriction": "暖暖區",
-    "address": "自 暖暖街５２號 至 暖暖街16巷２８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150700024",
-    "licenseNumber": "1150700024-02",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.10199392991904,
-      "lng": 121.73725113524075,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150800020",
-    "distriction": "中正區",
-    "address": "自 新豐街１３３號 至 新豐街１３３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150800020",
-    "licenseNumber": "1150800020-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.140024902430604,
-      "lng": 121.78967716751544,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150800020",
-    "distriction": "中正區",
-    "address": "自 新豐街１３３號 至 新豐街１３３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150800020",
-    "licenseNumber": "1150800020-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.140499965113076,
-      "lng": 121.78989221177096,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150800020",
-    "distriction": "中正區",
-    "address": "自 新豐街１３３號 至 新豐街１３３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "1150800020",
-    "licenseNumber": "1150800020-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "順生科技有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.140785988567014,
-      "lng": 121.7900056252696,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115040047",
-    "distriction": "仁愛區",
-    "address": "自 獅球路31巷１６號 至 獅球路31巷１６號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "R115040047",
-    "licenseNumber": "R115040047-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.125285626066034,
-      "lng": 121.73963629643362,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115070151",
-    "distriction": "仁愛區",
-    "address": "自 龍安街196巷１號 至 龍安街196巷１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115070151",
-    "licenseNumber": "R115070151-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12284356855595,
-      "lng": 121.74187291591727,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115080023",
-    "distriction": "七堵區",
-    "address": "自 大德路７８號 至 大德路７８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "R115080023",
-    "licenseNumber": "R115080023-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "永旺企業社",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08319667983141,
-      "lng": 121.6911158611177,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115080064",
-    "distriction": "仁愛區",
-    "address": "自 愛五路２４之４號 至 愛五路２４之４號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "R115080064",
-    "licenseNumber": "R115080064-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12852700010759,
-      "lng": 121.74561804619525,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115080117",
-    "distriction": "暖暖區",
-    "address": "自 暖碇路15巷４５號 至 暖碇路15巷２６號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080117",
-    "licenseNumber": "R115080117-02",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.096806384961454,
-      "lng": 121.75353659986867,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115080117",
-    "distriction": "暖暖區",
-    "address": "自 暖碇路15巷４５號 至 暖碇路15巷２６號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080117",
-    "licenseNumber": "R115080117-02",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.096792055931488,
-      "lng": 121.75355752994153,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115090059",
-    "distriction": "仁愛區",
-    "address": "自 南榮路２１９號 至 南榮路２１９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "R115090059",
-    "licenseNumber": "R115090059-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.122874627878165,
-      "lng": 121.74307016713111,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115090089",
-    "distriction": "中正區",
-    "address": "自 義二路２０２號 至 義二路２０２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 30
-      }
-    },
-    "applicationNumber": "R115090089",
-    "licenseNumber": "R115090089-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.134721974369747,
-      "lng": 121.74786568822108,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路維護 M114060640",
-    "distriction": "安樂區",
-    "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2025,
-        "month": 6,
-        "day": 6
-      },
-      "end": {
-        "year": 2025,
-        "month": 6,
-        "day": 6
-      }
-    },
-    "applicationNumber": "M114060640",
-    "licenseNumber": "M114060640-02",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "正鼎東開發營造股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.122523326281108,
-      "lng": 121.72542769472227,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路維護 M114060640",
-    "distriction": "安樂區",
-    "address": "自 安樂路二段２３１號 至 安樂路一段１２１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2025,
-        "month": 6,
-        "day": 6
-      },
-      "end": {
-        "year": 2025,
-        "month": 6,
-        "day": 6
-      }
-    },
-    "applicationNumber": "M114060640",
-    "licenseNumber": "M114060640-02",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "正鼎東開發營造股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.121858128224293,
-      "lng": 121.72291567228429,
+      "lat": 25.13705431286278,
+      "lng": 121.77701806787606,
       "polygon": null
     }
   }
