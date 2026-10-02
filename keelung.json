@@ -38,80 +38,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中開孔 WH11509017  ",
-    "distriction": "仁愛區",
-    "address": "愛一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509017  ",
-    "licenseNumber": "WH11509017-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "宏冠創新科技股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130147456546805,
-      "lng": 121.74204783710915,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11509018  ",
-    "distriction": "仁愛區",
-    "address": "忠一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509018  ",
-    "licenseNumber": "WH11509018-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "宏冠創新科技股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130447565359216,
-      "lng": 121.74151416011176,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中開孔 WH11509019  ",
     "distriction": "仁愛區",
     "address": "成功一路",
@@ -149,6 +75,191 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中開孔 WH11510001  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "WH11510001  ",
+    "licenseNumber": "WH11510001-01",
+    "applicant": "吉隆有線電視股份有限公司",
+    "contractor": {
+      "name": "和興昌企業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13014696493081,
+      "lng": 121.73681886519746,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510001  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "WH11510001  ",
+    "licenseNumber": "WH11510001-01",
+    "applicant": "吉隆有線電視股份有限公司",
+    "contractor": {
+      "name": "和興昌企業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129605016262264,
+      "lng": 121.73646009148703,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510001  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "WH11510001  ",
+    "licenseNumber": "WH11510001-01",
+    "applicant": "吉隆有線電視股份有限公司",
+    "contractor": {
+      "name": "和興昌企業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129822286269388,
+      "lng": 121.73659175276019,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510001  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "WH11510001  ",
+    "licenseNumber": "WH11510001-01",
+    "applicant": "吉隆有線電視股份有限公司",
+    "contractor": {
+      "name": "和興昌企業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130146964930997,
+      "lng": 121.73681886519614,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510001  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "WH11510001  ",
+    "licenseNumber": "WH11510001-01",
+    "applicant": "吉隆有線電視股份有限公司",
+    "contractor": {
+      "name": "和興昌企業有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129605016262445,
+      "lng": 121.73646009148574,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路挖掘 1110600222",
     "distriction": "仁愛區",
     "address": "自 忠一路４號 至 仁二路２５５號",
@@ -159,12 +270,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -196,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -233,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -270,12 +381,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -307,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -344,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600222",
@@ -381,12 +492,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -418,12 +529,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -455,12 +566,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -492,12 +603,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -529,12 +640,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -566,12 +677,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110600223",
@@ -603,12 +714,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -640,12 +751,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -677,12 +788,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -714,12 +825,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -751,12 +862,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -788,12 +899,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700002",
@@ -825,12 +936,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -862,12 +973,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -899,12 +1010,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -936,12 +1047,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -973,12 +1084,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -1010,12 +1121,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700003",
@@ -1047,12 +1158,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1084,12 +1195,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1121,12 +1232,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1158,12 +1269,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1195,12 +1306,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1232,12 +1343,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1110700005",
@@ -1269,12 +1380,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1306,12 +1417,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1343,12 +1454,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1380,12 +1491,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1417,12 +1528,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1454,12 +1565,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1491,12 +1602,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1528,12 +1639,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1111200043",
@@ -1565,12 +1676,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200046",
@@ -1602,12 +1713,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200046",
@@ -1639,12 +1750,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200046",
@@ -1676,12 +1787,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200047",
@@ -1713,12 +1824,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200047",
@@ -1750,12 +1861,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1787,12 +1898,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1824,12 +1935,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1861,12 +1972,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1898,12 +2009,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1935,12 +2046,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -1972,12 +2083,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -2009,12 +2120,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -2046,12 +2157,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200048",
@@ -2083,12 +2194,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200067",
@@ -2120,12 +2231,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200067",
@@ -2157,12 +2268,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120200067",
@@ -2194,12 +2305,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300003",
@@ -2231,12 +2342,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300003",
@@ -2268,12 +2379,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300003",
@@ -2305,12 +2416,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300003",
@@ -2342,12 +2453,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2379,12 +2490,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2416,12 +2527,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2453,12 +2564,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2490,12 +2601,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2527,12 +2638,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2564,12 +2675,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2601,12 +2712,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2638,12 +2749,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300004",
@@ -2675,12 +2786,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2712,12 +2823,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2749,12 +2860,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2786,12 +2897,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2823,12 +2934,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2860,12 +2971,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2897,12 +3008,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120300065",
@@ -2934,12 +3045,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120500075",
@@ -2971,12 +3082,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120900073",
@@ -3008,12 +3119,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1120900073",
@@ -3045,12 +3156,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1121100123",
@@ -3082,12 +3193,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1130200038",
@@ -3119,12 +3230,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1130200038",
@@ -3146,6 +3257,1375 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.141427564457107,
+      "lng": 121.70712342965554,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.142043438649427,
+      "lng": 121.7098349367439,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.14229892435488,
+      "lng": 121.70989149031112,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.142159275119514,
+      "lng": 121.7098973033786,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.142463149369135,
+      "lng": 121.71011678994883,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.142710084383246,
+      "lng": 121.70989216396616,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.142989179701345,
+      "lng": 121.70988607320211,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129620616360125,
+      "lng": 121.72008007204666,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12963196645153,
+      "lng": 121.72051972230848,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12756550150134,
+      "lng": 121.71936880094876,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12767466952715,
+      "lng": 121.71966660333658,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127532588395745,
+      "lng": 121.71993073838861,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12740905498313,
+      "lng": 121.7201880904486,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12326145085551,
+      "lng": 121.72185242371029,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.123045159686455,
+      "lng": 121.72180109798587,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12309083608741,
+      "lng": 121.72140004943651,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.124415343040056,
+      "lng": 121.71990924119959,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12427045739536,
+      "lng": 121.71967571246046,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.123895486650127,
+      "lng": 121.71963703251876,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12364568127384,
+      "lng": 121.71950191490531,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.123461974038673,
+      "lng": 121.71925346223364,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.123265030783976,
+      "lng": 121.71897356246122,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12297767222563,
+      "lng": 121.71866455348135,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12272364293284,
+      "lng": 121.7183072619411,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122364337360054,
+      "lng": 121.71778831630516,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12245320188197,
+      "lng": 121.71816230311785,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122429349662422,
+      "lng": 121.71738168401761,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122564278193654,
+      "lng": 121.71697412891766,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122439143737612,
+      "lng": 121.71640020228541,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12148885374187,
+      "lng": 121.7239715677417,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.120804334656235,
+      "lng": 121.72314244849477,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12062656287656,
+      "lng": 121.72305244826788,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.121175129878164,
+      "lng": 121.72263805096377,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.121354374560354,
+      "lng": 121.72245329523513,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12195362214438,
+      "lng": 121.72480325497412,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.122554832712293,
+      "lng": 121.72551532144104,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中道路挖掘 1140800041",
+    "distriction": "安樂區",
+    "address": "自 武崙街２０１號 至 安樂路二段１２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1140800041",
+    "licenseNumber": "1140800041-07",
+    "applicant": "基隆市政府工務處河川水利科",
+    "contractor": {
+      "name": "翔益營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12134736235992,
+      "lng": 121.72407999635617,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路挖掘 1141200029",
     "distriction": "信義區",
     "address": "自 教忠街40巷２號 至 教忠街３９號",
@@ -3156,12 +4636,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1141200029",
@@ -3193,12 +4673,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1141200029",
@@ -3230,12 +4710,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1141200044",
@@ -3267,12 +4747,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150200011",
@@ -3304,12 +4784,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150200011",
@@ -3341,12 +4821,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150200011",
@@ -3378,12 +4858,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150200011",
@@ -3415,12 +4895,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150200011",
@@ -3442,43 +4922,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 1150300009",
-    "distriction": "信義區",
-    "address": "自 東信路１７８號 至 崇法街２２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "1150300009",
-    "licenseNumber": "1150300009-02",
-    "applicant": "基隆市政府工務處下水道科",
-    "contractor": {
-      "name": "翔益營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12896656039849,
-      "lng": 121.76469459239301,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1150300010",
     "distriction": "信義區",
     "address": "自 信一路６２號 至 信一路６２號",
@@ -3489,12 +4932,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150300010",
@@ -3526,12 +4969,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150400020",
@@ -3563,12 +5006,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150400020",
@@ -3600,12 +5043,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150400020",
@@ -3637,12 +5080,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3674,12 +5117,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3711,12 +5154,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3748,12 +5191,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3785,12 +5228,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3822,12 +5265,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3859,12 +5302,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3896,12 +5339,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3933,12 +5376,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -3970,12 +5413,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -4007,12 +5450,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -4044,12 +5487,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -4081,12 +5524,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -4118,12 +5561,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500021",
@@ -4155,12 +5598,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4192,12 +5635,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4229,12 +5672,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4266,12 +5709,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4303,12 +5746,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4340,12 +5783,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4377,12 +5820,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4414,12 +5857,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150500045",
@@ -4451,12 +5894,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4488,12 +5931,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4525,12 +5968,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4562,12 +6005,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4599,12 +6042,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4636,12 +6079,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4673,12 +6116,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4710,12 +6153,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600028",
@@ -4747,12 +6190,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600035",
@@ -4784,12 +6227,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600035",
@@ -4821,12 +6264,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600035",
@@ -4858,12 +6301,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600035",
@@ -4895,12 +6338,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600035",
@@ -4932,12 +6375,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150600070",
@@ -4969,12 +6412,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150700004",
@@ -4996,43 +6439,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 1150700048",
-    "distriction": "中正區",
-    "address": "自 義二路２１０號 至 義二路２２２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "1150700048",
-    "licenseNumber": "1150700048-02",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "隆明企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.135105240664778,
-      "lng": 121.74803814390243,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1150700050",
     "distriction": "七堵區",
     "address": "自 明德一路2巷3弄２號 至 明德一路2巷3弄１０之１號",
@@ -5043,12 +6449,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150700050",
@@ -5080,12 +6486,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150900001",
@@ -5117,12 +6523,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "1150900001",
@@ -5154,12 +6560,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "R115080097",
@@ -5339,12 +6745,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "R115090013",
@@ -5376,12 +6782,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "R115090021",
@@ -5413,12 +6819,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
     "applicationNumber": "R115090039",
@@ -8659,22 +10065,96 @@
   },
   {
     "city": "基隆市",
-    "title": "已完工道路挖掘 1141100014",
-    "distriction": "信義區",
-    "address": "自 深澳坑路１６１號 至 深澳坑路１３３之１８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
+    "title": "施工中開孔 WH11509017",
+    "distriction": "仁愛區",
+    "address": "愛一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
-        "month": 10,
+        "month": 9,
         "day": 1
       },
       "end": {
         "year": 2026,
-        "month": 10,
+        "month": 9,
         "day": 1
+      }
+    },
+    "applicationNumber": "WH11509017",
+    "licenseNumber": "WH11509017-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130147456546805,
+      "lng": 121.74204783710915,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "施工中開孔 WH11509018",
+    "distriction": "仁愛區",
+    "address": "忠一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 9,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11509018",
+    "licenseNumber": "WH11509018-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130447565359216,
+      "lng": 121.74151416011176,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "施工中道路挖掘 1141100014",
+    "distriction": "信義區",
+    "address": "自 深澳坑路１６１號 至 深澳坑路１３３之１８號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 2
       }
     },
     "applicationNumber": "1141100014",
@@ -8696,66 +10176,29 @@
   },
   {
     "city": "基隆市",
-    "title": "已完工道路挖掘 R115100005",
-    "distriction": "信義區",
-    "address": "自 深美街２０３號 至 深美街２０３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115100005",
-    "licenseNumber": "R115100005-01",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13705431286278,
-      "lng": 121.77701806787606,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115100007",
+    "title": "施工中道路挖掘 1150700048",
     "distriction": "中正區",
-    "address": "自 中正路１０３號 至 中正路１０３號",
+    "address": "自 義二路２１０號 至 義二路２２２號",
     "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
+    "constructionType": "一般案件",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 1
+        "day": 2
       }
     },
-    "applicationNumber": "R115100007",
-    "licenseNumber": "R115100007-01",
+    "applicationNumber": "1150700048",
+    "licenseNumber": "1150700048-02",
     "applicant": "欣隆天然氣股份有限公司",
     "contractor": {
-      "name": "欣隆天然氣養護課",
+      "name": "隆明企業股份有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
@@ -8763,8 +10206,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.140820272148524,
-      "lng": 121.75854165940969,
+      "lat": 25.135105240664778,
+      "lng": 121.74803814390243,
       "polygon": null
     }
   }
