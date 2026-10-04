@@ -68,47 +68,5 @@
         }
       ]
     }
-  },
-  {
-    "city": "新北市",
-    "title": "115年西區閥栓巡查及孔蓋周邊路面平整維護工程採購(開口契約含後續擴充)",
-    "distriction": "新店區",
-    "address": "新店區德安里村里安康路二段",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 4
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 6
-      }
-    },
-    "applicationNumber": "A11511950",
-    "licenseNumber": "N/A",
-    "applicant": "臺北自來水事業處西區營業分處",
-    "contractor": {
-      "name": "視野工程行",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "洪健洲",
-      "phone": "0926702137"
-    },
-    "coordinate": {
-      "lat": 24.957893939582476,
-      "lng": 121.50484861806659,
-      "polygon": [
-        {
-          "lat": 24.957893939582476,
-          "lng": 121.50484861806659
-        }
-      ]
-    }
   }
 ]
