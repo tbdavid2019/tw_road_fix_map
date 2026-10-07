@@ -3331,117 +3331,6 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115080124",
-    "distriction": "七堵區",
-    "address": "自 福二街１５７號 至 福二街１５７號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080124",
-    "licenseNumber": "R115080124-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "永旺企業社",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.084376100958337,
-      "lng": 121.69606922409622,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "施工中道路挖掘 R115090021",
-    "distriction": "七堵區",
-    "address": "自 百一街１１５號 至 百一街１１５號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 7
-      }
-    },
-    "applicationNumber": "R115090021",
-    "licenseNumber": "R115090021-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "永旺企業社",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08021211090912,
-      "lng": 121.69712769532826,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "施工中道路挖掘 R115100009",
-    "distriction": "七堵區",
-    "address": "自 福二街242巷４號 至 福二街242巷４號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 7
-      }
-    },
-    "applicationNumber": "R115100009",
-    "licenseNumber": "R115100009-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "永旺企業社",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08444740642285,
-      "lng": 121.6962496163219,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "施工中道路挖掘 R115100012",
     "distriction": "仁愛區",
     "address": "自 仁二路２３６號 至 仁二路２３６號",
@@ -3479,12 +3368,234 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115100014",
+    "title": "已完工道路挖掘 R115080097",
+    "distriction": "七堵區",
+    "address": "自 東新街37巷２７號 至 東新街37巷２７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      }
+    },
+    "applicationNumber": "R115080097",
+    "licenseNumber": "R115080097-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.09591405469573,
+      "lng": 121.71954949592676,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115080105",
+    "distriction": "七堵區",
+    "address": "自 自治街１３號 至 自治街１３號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080105",
+    "licenseNumber": "R115080105-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.096071356686235,
+      "lng": 121.71302845753632,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115080124",
+    "distriction": "七堵區",
+    "address": "自 福二街１５７號 至 福二街１５７號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    "applicationNumber": "R115080124",
+    "licenseNumber": "R115080124-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.084376100958337,
+      "lng": 121.69606922409622,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115090021",
+    "distriction": "七堵區",
+    "address": "自 百一街１１５號 至 百一街１１５號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      }
+    },
+    "applicationNumber": "R115090021",
+    "licenseNumber": "R115090021-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08021211090912,
+      "lng": 121.69712769532826,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115090031",
+    "distriction": "仁愛區",
+    "address": "自 獅球路42巷１９之１號 至 獅球路42巷１９之１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      }
+    },
+    "applicationNumber": "R115090031",
+    "licenseNumber": "R115090031-02",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "東傑工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12506073448823,
+      "lng": 121.73625168450842,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115100009",
+    "distriction": "七堵區",
+    "address": "自 福二街242巷４號 至 福二街242巷４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      }
+    },
+    "applicationNumber": "R115100009",
+    "licenseNumber": "R115100009-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.08444740642285,
+      "lng": 121.6962496163219,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115100014",
     "distriction": "七堵區",
     "address": "自 百一街９３號 至 百一街９３號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
@@ -3511,6 +3622,43 @@
     "coordinate": {
       "lat": 25.080020595636743,
       "lng": 121.69650302183427,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115100016",
+    "distriction": "信義區",
+    "address": "自 東信路236巷３７號 至 東信路236巷３７之２１號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 7
+      }
+    },
+    "applicationNumber": "R115100016",
+    "licenseNumber": "R115100016-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.131992472183754,
+      "lng": 121.76306840609715,
       "polygon": null
     }
   }
