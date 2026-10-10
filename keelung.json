@@ -1,302 +1,6 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中開孔 WH11509017  ",
-    "distriction": "仁愛區",
-    "address": "愛一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509017  ",
-    "licenseNumber": "WH11509017-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "宏冠創新科技股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130147456546805,
-      "lng": 121.74204783710915,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11509018  ",
-    "distriction": "仁愛區",
-    "address": "忠一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509018  ",
-    "licenseNumber": "WH11509018-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "宏冠創新科技股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130447565359216,
-      "lng": 121.74151416011176,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11509019  ",
-    "distriction": "仁愛區",
-    "address": "成功一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509019  ",
-    "licenseNumber": "WH11509019-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127074587749288,
-      "lng": 121.73789960054108,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510001  ",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      }
-    },
-    "applicationNumber": "WH11510001  ",
-    "licenseNumber": "WH11510001-01",
-    "applicant": "吉隆有線電視股份有限公司",
-    "contractor": {
-      "name": "和興昌企業有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13014696493081,
-      "lng": 121.73681886519746,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510001  ",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      }
-    },
-    "applicationNumber": "WH11510001  ",
-    "licenseNumber": "WH11510001-01",
-    "applicant": "吉隆有線電視股份有限公司",
-    "contractor": {
-      "name": "和興昌企業有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129605016262264,
-      "lng": 121.73646009148703,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510001  ",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      }
-    },
-    "applicationNumber": "WH11510001  ",
-    "licenseNumber": "WH11510001-01",
-    "applicant": "吉隆有線電視股份有限公司",
-    "contractor": {
-      "name": "和興昌企業有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129822286269388,
-      "lng": 121.73659175276019,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510001  ",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      }
-    },
-    "applicationNumber": "WH11510001  ",
-    "licenseNumber": "WH11510001-01",
-    "applicant": "吉隆有線電視股份有限公司",
-    "contractor": {
-      "name": "和興昌企業有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130146964930997,
-      "lng": 121.73681886519614,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510001  ",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 10
-      }
-    },
-    "applicationNumber": "WH11510001  ",
-    "licenseNumber": "WH11510001-01",
-    "applicant": "吉隆有線電視股份有限公司",
-    "contractor": {
-      "name": "和興昌企業有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129605016262445,
-      "lng": 121.73646009148574,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1110600222",
     "distriction": "仁愛區",
     "address": "自 忠一路４號 至 仁二路２５５號",
@@ -9843,12 +9547,49 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115100022",
+    "title": "施工中道路挖掘 R115100024",
+    "distriction": "暖暖區",
+    "address": "自 八堵路２４號 至 八堵路２４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 10
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 10
+      }
+    },
+    "applicationNumber": "R115100024",
+    "licenseNumber": "R115100024-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "永旺企業社",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.110817476151272,
+      "lng": 121.73557626527258,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115100022",
     "distriction": "暖暖區",
     "address": "自 興隆街２之２號 至 興隆街２之２號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
