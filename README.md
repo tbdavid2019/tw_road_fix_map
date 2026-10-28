@@ -51,7 +51,7 @@
 - **樣式處理**: Vanilla SCSS & FontAwesome 5 Free
 - **自動化腳本**: Node.js (`scripts/update-road-data.js`)
 - **CI/CD 工作流**: GitHub Actions (`update-taipei-json.yml`)
-- **打包工具**: Create React App (CRA)
+- **打包工具**: Vite
 
 ---
 
