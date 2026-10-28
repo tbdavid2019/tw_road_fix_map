@@ -1,43 +1,6 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中開孔 WH11501004  ",
-    "distriction": "中山區",
-    "address": "西定路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "WH11501004  ",
-    "licenseNumber": "WH11501004-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "台灣電力公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.136184755879423,
-      "lng": 121.73280401107442,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中開孔 WH11509019  ",
     "distriction": "仁愛區",
     "address": "成功一路",
@@ -85,12 +48,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510001  ",
@@ -122,12 +85,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510001  ",
@@ -159,12 +122,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510001  ",
@@ -196,12 +159,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510001  ",
@@ -233,12 +196,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510001  ",
@@ -270,12 +233,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "WH11510009  ",
@@ -292,43 +255,6 @@
     "coordinate": {
       "lat": 25.10271937002531,
       "lng": 121.72186875246004,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510010  ",
-    "distriction": "信義區",
-    "address": "東信路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510010  ",
-    "licenseNumber": "WH11510010-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127751000644384,
-      "lng": 121.76779384219829,
       "polygon": null
     }
   },
@@ -519,6 +445,265 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中開孔 WH11510012  ",
+    "distriction": "仁愛區",
+    "address": "忠二路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510012  ",
+    "licenseNumber": "WH11510012-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.1301953685683,
+      "lng": 121.73991789414634,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510014  ",
+    "distriction": "七堵區",
+    "address": "明德一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510014  ",
+    "licenseNumber": "WH11510014-01",
+    "applicant": "台灣電力股份有限公司基隆區營業處",
+    "contractor": {
+      "name": "勤曜電氣工程股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.099999406124944,
+      "lng": 121.71922106672278,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510015  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510015  ",
+    "licenseNumber": "WH11510015-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.13039366119134,
+      "lng": 121.73688223830119,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510015  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510015  ",
+    "licenseNumber": "WH11510015-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130147751757452,
+      "lng": 121.73682004577111,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510015  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510015  ",
+    "licenseNumber": "WH11510015-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129822269863258,
+      "lng": 121.73659178458378,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510015  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510015  ",
+    "licenseNumber": "WH11510015-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129827036838794,
+      "lng": 121.73630662766787,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510015  ",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510015  ",
+    "licenseNumber": "WH11510015-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.129885676874924,
+      "lng": 121.73630329941324,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路挖掘 1110600222",
     "distriction": "仁愛區",
     "address": "自 忠一路４號 至 仁二路２５５號",
@@ -529,12 +714,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -566,12 +751,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -603,12 +788,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -640,12 +825,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -677,12 +862,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -714,12 +899,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600222",
@@ -751,12 +936,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -788,12 +973,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -825,12 +1010,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -862,12 +1047,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -899,12 +1084,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -936,12 +1121,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110600223",
@@ -973,12 +1158,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1010,12 +1195,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1047,12 +1232,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1084,12 +1269,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1121,12 +1306,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1158,12 +1343,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700002",
@@ -1195,12 +1380,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1232,12 +1417,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1269,12 +1454,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1306,12 +1491,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1343,12 +1528,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1380,12 +1565,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700003",
@@ -1417,12 +1602,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1454,12 +1639,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1491,12 +1676,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1528,12 +1713,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1565,12 +1750,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1602,12 +1787,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1110700005",
@@ -1639,12 +1824,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1676,12 +1861,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1713,12 +1898,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1750,12 +1935,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1787,12 +1972,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1824,12 +2009,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1861,12 +2046,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1898,12 +2083,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1111200043",
@@ -1935,12 +2120,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200046",
@@ -1972,12 +2157,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200046",
@@ -2009,12 +2194,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200046",
@@ -2046,12 +2231,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200047",
@@ -2083,12 +2268,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200047",
@@ -2120,12 +2305,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2157,12 +2342,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2194,12 +2379,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2231,12 +2416,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2268,12 +2453,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2305,12 +2490,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2342,12 +2527,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2379,12 +2564,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2416,12 +2601,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200048",
@@ -2453,12 +2638,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200067",
@@ -2490,12 +2675,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200067",
@@ -2527,12 +2712,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120200067",
@@ -2564,12 +2749,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300003",
@@ -2601,12 +2786,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300003",
@@ -2638,12 +2823,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300003",
@@ -2675,12 +2860,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300003",
@@ -2712,12 +2897,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2749,12 +2934,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2786,12 +2971,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2823,12 +3008,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2860,12 +3045,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2897,12 +3082,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2934,12 +3119,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -2971,12 +3156,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -3008,12 +3193,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300004",
@@ -3045,12 +3230,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3082,12 +3267,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3119,12 +3304,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3156,12 +3341,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3193,12 +3378,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3230,12 +3415,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3267,12 +3452,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120300065",
@@ -3304,12 +3489,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120500075",
@@ -3341,12 +3526,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120900073",
@@ -3378,12 +3563,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1120900073",
@@ -3415,12 +3600,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1121100123",
@@ -3452,12 +3637,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1130200038",
@@ -3489,12 +3674,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1130200038",
@@ -3526,12 +3711,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140400060",
@@ -3563,12 +3748,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3600,12 +3785,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3637,12 +3822,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3674,12 +3859,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3711,12 +3896,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3748,12 +3933,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3785,12 +3970,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3822,12 +4007,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3859,12 +4044,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3896,12 +4081,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3933,12 +4118,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -3970,12 +4155,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4007,12 +4192,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4044,12 +4229,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4081,12 +4266,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4118,12 +4303,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4155,12 +4340,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4192,12 +4377,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4229,12 +4414,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4266,12 +4451,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4303,12 +4488,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4340,12 +4525,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4377,12 +4562,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4414,12 +4599,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4451,12 +4636,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4488,12 +4673,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4525,12 +4710,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4562,12 +4747,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4599,12 +4784,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4636,12 +4821,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4673,12 +4858,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4710,12 +4895,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4747,12 +4932,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4784,12 +4969,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4821,12 +5006,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4858,12 +5043,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4895,12 +5080,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1140800041",
@@ -4932,12 +5117,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1141200029",
@@ -4969,12 +5154,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1141200029",
@@ -5006,12 +5191,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150200011",
@@ -5043,12 +5228,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150200011",
@@ -5080,12 +5265,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150200011",
@@ -5117,12 +5302,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150200011",
@@ -5154,12 +5339,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150200011",
@@ -5191,12 +5376,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150400020",
@@ -5228,12 +5413,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150400020",
@@ -5265,12 +5450,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150400020",
@@ -5302,12 +5487,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150600010",
@@ -5339,12 +5524,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150600070",
@@ -5376,12 +5561,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150700004",
@@ -5413,12 +5598,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150700032",
@@ -5450,12 +5635,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150700032",
@@ -5487,12 +5672,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150800031",
@@ -5524,12 +5709,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150900001",
@@ -5561,12 +5746,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150900001",
@@ -5598,12 +5783,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "1150900006",
@@ -5625,191 +5810,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 R114080057",
-    "distriction": "七堵區",
-    "address": "自 福二街１５６號 至 福二街１５６號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R114080057",
-    "licenseNumber": "R114080057-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.082598183593916,
-      "lng": 121.69627113093466,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R114080058",
-    "distriction": "七堵區",
-    "address": "自 工建西路１１號 至 工建西路１１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R114080058",
-    "licenseNumber": "R114080058-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.0949249268275,
-      "lng": 121.70272136717846,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R114080059",
-    "distriction": "七堵區",
-    "address": "自 俊賢路２１號 至 俊賢路７１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R114080059",
-    "licenseNumber": "R114080059-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.095180740634817,
-      "lng": 121.70455775340857,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R114080059",
-    "distriction": "七堵區",
-    "address": "自 俊賢路２１號 至 俊賢路７１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R114080059",
-    "licenseNumber": "R114080059-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09522247547095,
-      "lng": 121.7064422385752,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R114110005",
-    "distriction": "七堵區",
-    "address": "自 俊賢路２１號 至 俊賢路２１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R114110005",
-    "licenseNumber": "R114110005-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.095259294617357,
-      "lng": 121.70644045603318,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 R115010026",
     "distriction": "仁愛區",
     "address": "自 仁四路４８號 至 仁四路４８號",
@@ -5820,12 +5820,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115010026",
@@ -5847,43 +5847,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 R115040035",
-    "distriction": "中山區",
-    "address": "自 成功二路１５號 至 成功二路１５號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115040035",
-    "licenseNumber": "R115040035-03",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "永旺企業社",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129305421227503,
-      "lng": 121.73724187411733,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 R115040068",
     "distriction": "仁愛區",
     "address": "自 成功一路133巷５號 至 成功一路133巷５號",
@@ -5894,12 +5857,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115040068",
@@ -5931,12 +5894,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115070097",
@@ -6005,12 +5968,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115080027",
@@ -6032,635 +5995,6 @@
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 R115080034",
-    "distriction": "七堵區",
-    "address": "自 工建路１５號 至 工建路１９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080034",
-    "licenseNumber": "R115080034-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.091321134061563,
-      "lng": 121.70065317505322,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080034",
-    "distriction": "七堵區",
-    "address": "自 工建路１５號 至 工建路１９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080034",
-    "licenseNumber": "R115080034-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09144626989216,
-      "lng": 121.70044074209737,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080034",
-    "distriction": "七堵區",
-    "address": "自 工建路１５號 至 工建路１９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080034",
-    "licenseNumber": "R115080034-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09158811575804,
-      "lng": 121.7002742549535,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080034",
-    "distriction": "七堵區",
-    "address": "自 工建路１５號 至 工建路１９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080034",
-    "licenseNumber": "R115080034-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.091907289321032,
-      "lng": 121.69993107195005,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080036",
-    "distriction": "七堵區",
-    "address": "自 工建路９２號 至 工建路９２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080036",
-    "licenseNumber": "R115080036-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.089999042663514,
-      "lng": 121.70141538876209,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080038",
-    "distriction": "七堵區",
-    "address": "自 工建路１之７號 至 工建路１之７號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080038",
-    "licenseNumber": "R115080038-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.087495272450322,
-      "lng": 121.70276822802009,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080040",
-    "distriction": "七堵區",
-    "address": "自 實踐路253巷４之１號 至 實踐路253巷４之１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080040",
-    "licenseNumber": "R115080040-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.084286950186687,
-      "lng": 121.68474121642126,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080042",
-    "distriction": "七堵區",
-    "address": "自 華新一路７之１號 至 華新一路７之１號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080042",
-    "licenseNumber": "R115080042-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08772220487422,
-      "lng": 121.66865182180675,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080044",
-    "distriction": "七堵區",
-    "address": "自 明德一路２９號 至 明德一路２９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080044",
-    "licenseNumber": "R115080044-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.098835597621928,
-      "lng": 121.71742470475009,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080044",
-    "distriction": "七堵區",
-    "address": "自 明德一路２９號 至 明德一路２９號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "R115080044",
-    "licenseNumber": "R115080044-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.098942052922038,
-      "lng": 121.71707340344791,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080115",
-    "distriction": "中正區",
-    "address": "自 祥豐街２０７號 至 祥豐街２０７號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080115",
-    "licenseNumber": "R115080115-04",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.143499713797343,
-      "lng": 121.76578970850387,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08261126367636,
-      "lng": 121.69697042039843,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08264419806745,
-      "lng": 121.69699956613145,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.082680285109845,
-      "lng": 121.69698138366991,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.082878103333275,
-      "lng": 121.69696852992311,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.082926189814767,
-      "lng": 121.69698029401218,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 R115080122",
-    "distriction": "七堵區",
-    "address": "自 百五街64巷１６號 至 百五街64巷５８號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 8,
-        "day": 1
-      }
-    },
-    "applicationNumber": "R115080122",
-    "licenseNumber": "R115080122-02",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.08338495224192,
-      "lng": 121.69693729240278,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 R115090025",
     "distriction": "暖暖區",
     "address": "自 八堵路１１２號 至 八堵路１１２號",
@@ -6671,12 +6005,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115090025",
@@ -6708,12 +6042,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115090061",
@@ -6745,12 +6079,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115090078",
@@ -6782,12 +6116,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115090078",
@@ -6819,12 +6153,12 @@
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
     "applicationNumber": "R115100018",
@@ -8474,6 +7808,43 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中道路維護 M115070796",
+    "distriction": "仁愛區",
+    "address": "自 仁一路３１７號 至 仁一路３１７號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 7,
+        "day": 7
+      },
+      "end": {
+        "year": 2026,
+        "month": 7,
+        "day": 7
+      }
+    },
+    "applicationNumber": "M115070796",
+    "licenseNumber": "M115070796-02",
+    "applicant": "基隆市政府工務處公有建築科",
+    "contractor": {
+      "name": "俍銓營造工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130026898651685,
+      "lng": 121.74487499665227,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路維護 M115080806",
     "distriction": "中正區",
     "address": "自 中正路６０９號 至 中正路６１０號",
@@ -9843,6 +9214,43 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中道路維護 M115100833",
+    "distriction": "暖暖區",
+    "address": "自 東勢街４７號 至 東勢街４０之１號",
+    "pipeType": "道路維護",
+    "constructionType": "維養案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 8
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 8
+      }
+    },
+    "applicationNumber": "M115100833",
+    "licenseNumber": "M115100833-01",
+    "applicant": "基隆市政府工務處土木工程科",
+    "contractor": {
+      "name": "磐峰營造有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.088573586149135,
+      "lng": 121.74268913157566,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路維護 M115100835",
     "distriction": "安樂區",
     "address": "自 麥金路４４１號 至 麥金路５３２號",
@@ -9954,12 +9362,12 @@
   },
   {
     "city": "基隆市",
-    "title": "已完工開孔 WH11510012",
-    "distriction": "仁愛區",
-    "address": "忠二路",
+    "title": "施工中開孔 WH11510010",
+    "distriction": "信義區",
+    "address": "東信路",
     "pipeType": "開孔",
     "constructionType": "開孔案件",
-    "workingState": "否",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
@@ -9972,8 +9380,8 @@
         "day": 1
       }
     },
-    "applicationNumber": "WH11510012",
-    "licenseNumber": "WH11510012-01",
+    "applicationNumber": "WH11510010",
+    "licenseNumber": "WH11510010-01",
     "applicant": "中華電信股份有限公司基隆營運處",
     "contractor": {
       "name": "安聯通電訊股份有限公司",
@@ -9984,329 +9392,33 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.1301953685683,
-      "lng": 121.73991789414634,
+      "lat": 25.127751000644384,
+      "lng": 121.76779384219829,
       "polygon": null
     }
   },
   {
     "city": "基隆市",
-    "title": "已完工開孔 WH11510015",
+    "title": "施工中道路挖掘 R115100055",
     "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510015",
-    "licenseNumber": "WH11510015-01",
-    "applicant": "台灣固網股份有限公司",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.13039366119134,
-      "lng": 121.73688223830119,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工開孔 WH11510015",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510015",
-    "licenseNumber": "WH11510015-01",
-    "applicant": "台灣固網股份有限公司",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130147751757452,
-      "lng": 121.73682004577111,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工開孔 WH11510015",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510015",
-    "licenseNumber": "WH11510015-01",
-    "applicant": "台灣固網股份有限公司",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129822269863258,
-      "lng": 121.73659178458378,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工開孔 WH11510015",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510015",
-    "licenseNumber": "WH11510015-01",
-    "applicant": "台灣固網股份有限公司",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129827036838794,
-      "lng": 121.73630662766787,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工開孔 WH11510015",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510015",
-    "licenseNumber": "WH11510015-01",
-    "applicant": "台灣固網股份有限公司",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.129885676874924,
-      "lng": 121.73630329941324,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600029",
-    "distriction": "七堵區",
-    "address": "自 東新街１４之３號 至 東新街３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "1150600029",
-    "licenseNumber": "1150600029-05",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.093090948645003,
-      "lng": 121.71466812959414,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600029",
-    "distriction": "七堵區",
-    "address": "自 東新街１４之３號 至 東新街３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "1150600029",
-    "licenseNumber": "1150600029-05",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.09283666672272,
-      "lng": 121.71426387933663,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 1150600029",
-    "distriction": "七堵區",
-    "address": "自 東新街１４之３號 至 東新街３號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 27
-      }
-    },
-    "applicationNumber": "1150600029",
-    "licenseNumber": "1150600029-05",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.092474221361844,
-      "lng": 121.71359067080206,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115100048",
-    "distriction": "中山區",
-    "address": "自 成功二路1巷１號 至 成功二路1巷１號",
+    "address": "自 太白街１３９號 至 太白街１３９號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "否",
+    "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       },
       "end": {
         "year": 2026,
         "month": 10,
-        "day": 27
+        "day": 28
       }
     },
-    "applicationNumber": "R115100048",
-    "licenseNumber": "R115100048-01",
+    "applicationNumber": "R115100055",
+    "licenseNumber": "R115100055-01",
     "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
     "contractor": {
       "name": "永旺企業社",
@@ -10317,45 +9429,8 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.128846782124416,
-      "lng": 121.73732334273524,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路維護 M115070796",
-    "distriction": "仁愛區",
-    "address": "自 仁一路３１７號 至 仁一路３１７號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 7,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115070796",
-    "licenseNumber": "M115070796-02",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "俍銓營造工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130026898651685,
-      "lng": 121.74487499665227,
+      "lat": 25.149143045287047,
+      "lng": 121.74375723200626,
       "polygon": null
     }
   }
