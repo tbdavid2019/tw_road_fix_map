@@ -1,117 +1,6 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中開孔 WH11509019  ",
-    "distriction": "仁愛區",
-    "address": "成功一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 9,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11509019  ",
-    "licenseNumber": "WH11509019-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "中華電信基隆營運處",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127074587749288,
-      "lng": 121.73789960054108,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510010  ",
-    "distriction": "信義區",
-    "address": "東信路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510010  ",
-    "licenseNumber": "WH11510010-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127751000644384,
-      "lng": 121.76779384219829,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510012  ",
-    "distriction": "仁愛區",
-    "address": "忠二路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510012  ",
-    "licenseNumber": "WH11510012-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.1301953685683,
-      "lng": 121.73991789414634,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "申請中道路挖掘 1140400060",
     "distriction": "安樂區",
     "address": "自 定國街83巷２８號 至 定國街83巷５２號",
@@ -3146,12 +3035,12 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中道路挖掘 R115110002",
+    "title": "已完工道路挖掘 R115110002",
     "distriction": "七堵區",
     "address": "自 福三街２２號 至 福三街２２號",
     "pipeType": "道路挖掘",
     "constructionType": "搶修案件",
-    "workingState": "是",
+    "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
