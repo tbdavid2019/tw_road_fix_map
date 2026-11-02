@@ -4774,6 +4774,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "申請中案件 1151000378",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "申請中",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1151000378",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司台中供電區營運處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.05463553463798,
+      "lng": 120.4371323037102,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "申請中案件 1151000379",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5255,43 +5292,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150100009",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150100009",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理彰化給水廠",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.09553000017623,
-      "lng": 120.55436355501924,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150100135",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -5583,43 +5583,6 @@
     "coordinate": {
       "lat": 24.00656353005002,
       "lng": 120.62852796768846,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
-    "title": "預定施工案件 1150200306",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150200306",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司彰化區營業處",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.84375571770039,
-      "lng": 120.59399854409799,
       "polygon": null
     }
   },
@@ -6698,43 +6661,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150700259",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150700259",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.991831475585137,
-      "lng": 120.45880366148864,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150700321",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -7026,43 +6952,6 @@
     "coordinate": {
       "lat": 23.937397486004325,
       "lng": 120.55373409691248,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
-    "title": "預定施工案件 1150700402",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150700402",
-    "licenseNumber": "N/A",
-    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.980129782695577,
-      "lng": 120.34484780113416,
       "polygon": null
     }
   },
@@ -8400,43 +8289,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150800395",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150800395",
-    "licenseNumber": "N/A",
-    "applicant": "中華電信股份有限公司彰化營運處(北彰化)",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.083821891220175,
-      "lng": 120.54728540675855,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150800409",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -9769,43 +9621,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150900072",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150900072",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.06802659821383,
-      "lng": 120.44561729575103,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150900080",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10694,43 +10509,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1150900218",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150900218",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司彰化區營業處",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.961853259080453,
-      "lng": 120.57457072489363,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1150900227",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -10800,43 +10578,6 @@
     "coordinate": {
       "lat": 23.854550534426924,
       "lng": 120.47166508408438,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
-    "title": "預定施工案件 1150900233",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1150900233",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司彰化區營業處",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.962555539369518,
-      "lng": 120.57739657593895,
       "polygon": null
     }
   },
@@ -13506,43 +13247,6 @@
   },
   {
     "city": "彰化縣",
-    "title": "預定施工案件 1151000120",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1151000120",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 24.05370743742522,
-      "lng": 120.42886150584428,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
     "title": "預定施工案件 1151000126",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -13834,43 +13538,6 @@
     "coordinate": {
       "lat": 23.970562402937894,
       "lng": 120.59005419471426,
-      "polygon": null
-    }
-  },
-  {
-    "city": "彰化縣",
-    "title": "預定施工案件 1151000166",
-    "distriction": "全地區",
-    "address": "施工位置未提供",
-    "pipeType": "道路施工",
-    "constructionType": "預定施工",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 2
-      }
-    },
-    "applicationNumber": "1151000166",
-    "licenseNumber": "N/A",
-    "applicant": "台灣自來水股份有限公司第十一區管理處二林營運所",
-    "contractor": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 23.895257743780093,
-      "lng": 120.3769518882665,
       "polygon": null
     }
   },
@@ -14320,6 +13987,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "今日施工案件 1150100009",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150100009",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理彰化給水廠",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.09553000017623,
+      "lng": 120.55436355501924,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "今日施工案件 1150200049",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14389,6 +14093,43 @@
     "coordinate": {
       "lat": 23.986935372871958,
       "lng": 120.54051519453482,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150200306",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150200306",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.84375571770039,
+      "lng": 120.59399854409799,
       "polygon": null
     }
   },
@@ -14542,6 +14283,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "今日施工案件 1150700259",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150700259",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處溪湖營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.991831475585137,
+      "lng": 120.45880366148864,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "今日施工案件 1150700270",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14574,6 +14352,43 @@
     "coordinate": {
       "lat": 23.89839201229418,
       "lng": 120.36214380848791,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150700402",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150700402",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(南彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.980129782695577,
+      "lng": 120.34484780113416,
       "polygon": null
     }
   },
@@ -14616,6 +14431,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "今日施工案件 1150800395",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150800395",
+    "licenseNumber": "N/A",
+    "applicant": "中華電信股份有限公司彰化營運處(北彰化)",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.083821891220175,
+      "lng": 120.54728540675855,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "今日施工案件 1150800407",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14653,6 +14505,43 @@
   },
   {
     "city": "彰化縣",
+    "title": "今日施工案件 1150900072",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150900072",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.06802659821383,
+      "lng": 120.44561729575103,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
     "title": "今日施工案件 1150900169",
     "distriction": "全地區",
     "address": "施工位置未提供",
@@ -14685,6 +14574,154 @@
     "coordinate": {
       "lat": 24.119348230201407,
       "lng": 120.52549016844102,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150900218",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150900218",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.961853259080453,
+      "lng": 120.57457072489363,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1150900233",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1150900233",
+    "licenseNumber": "N/A",
+    "applicant": "台灣電力股份有限公司彰化區營業處",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.962555539369518,
+      "lng": 120.57739657593895,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1151000120",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1151000120",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處鹿港營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 24.05370743742522,
+      "lng": 120.42886150584428,
+      "polygon": null
+    }
+  },
+  {
+    "city": "彰化縣",
+    "title": "今日施工案件 1151000166",
+    "distriction": "全地區",
+    "address": "施工位置未提供",
+    "pipeType": "道路施工",
+    "constructionType": "今日施工",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 2
+      }
+    },
+    "applicationNumber": "1151000166",
+    "licenseNumber": "N/A",
+    "applicant": "台灣自來水股份有限公司第十一區管理處二林營運所",
+    "contractor": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 23.895257743780093,
+      "lng": 120.3769518882665,
       "polygon": null
     }
   },
