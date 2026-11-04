@@ -11,12 +11,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "WH11510003  ",
@@ -33,43 +33,6 @@
     "coordinate": {
       "lat": 25.156967339555433,
       "lng": 121.70598177897858,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中開孔 WH11510012  ",
-    "distriction": "仁愛區",
-    "address": "忠二路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 10,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11510012  ",
-    "licenseNumber": "WH11510012-01",
-    "applicant": "中華電信股份有限公司基隆營運處",
-    "contractor": {
-      "name": "安聯通電訊股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.1301953685683,
-      "lng": 121.73991789414634,
       "polygon": null
     }
   },
@@ -344,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "1140400060",
@@ -381,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "1141200044",
@@ -408,6 +371,43 @@
   },
   {
     "city": "基隆市",
+    "title": "申請中道路挖掘 1150600010",
+    "distriction": "安樂區",
+    "address": "自 安樂路一段２０８號 至 安樂路一段２３２號",
+    "pipeType": "道路挖掘",
+    "constructionType": "一般案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 4
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 4
+      }
+    },
+    "applicationNumber": "1150600010",
+    "licenseNumber": "1150600010-07",
+    "applicant": "台灣電力股份有限公司基隆區營業處",
+    "contractor": {
+      "name": "勤曜電氣工程股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.127697214855523,
+      "lng": 121.7324774299696,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
     "title": "申請中道路挖掘 1150800031",
     "distriction": "安樂區",
     "address": "自 麥金路４７５號 至 麥金路４７５號",
@@ -418,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "1150800031",
@@ -455,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "1150900001",
@@ -492,12 +492,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "1150900001",
@@ -529,12 +529,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 3
+        "day": 4
       }
     },
     "applicationNumber": "R115100020",
@@ -2919,6 +2919,43 @@
     "coordinate": {
       "lat": 25.088573586149135,
       "lng": 121.74268913157566,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "施工中道路挖掘 R115110008",
+    "distriction": "七堵區",
+    "address": "自 工建路１３４號 至 工建路１３４號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "是",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 4
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 4
+      }
+    },
+    "applicationNumber": "R115110008",
+    "licenseNumber": "R115110008-01",
+    "applicant": "台灣電力股份有限公司基隆區營業處",
+    "contractor": {
+      "name": "勤曜電氣工程股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.091074175267345,
+      "lng": 121.70116021991281,
       "polygon": null
     }
   }
