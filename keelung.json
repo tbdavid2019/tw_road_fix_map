@@ -1,66 +1,29 @@
 [
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 1140400060",
+    "title": "申請中開孔 WH11510016  ",
     "distriction": "安樂區",
-    "address": "自 定國街83巷２８號 至 定國街83巷５２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
+    "address": "安樂路二段",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
     "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
-        "month": 11,
-        "day": 8
+        "month": 10,
+        "day": 1
       },
       "end": {
         "year": 2026,
-        "month": 11,
-        "day": 8
+        "month": 10,
+        "day": 1
       }
     },
-    "applicationNumber": "1140400060",
-    "licenseNumber": "1140400060-18",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "瑞清企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.135114585131404,
-      "lng": 121.73229281589413,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路挖掘 1141200044",
-    "distriction": "信義區",
-    "address": "自 東信路１０８號 至 東信路１５２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "一般案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 8
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 8
-      }
-    },
-    "applicationNumber": "1141200044",
-    "licenseNumber": "1141200044-05",
+    "applicationNumber": "WH11510016  ",
+    "licenseNumber": "WH11510016-01",
     "applicant": "中華電信股份有限公司基隆營運處",
     "contractor": {
-      "name": "順生科技有限公司",
+      "name": "宏冠創新科技股份有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
@@ -68,36 +31,36 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.12753082694957,
-      "lng": 121.76603718889022,
+      "lat": 25.12263201135602,
+      "lng": 121.72559501720583,
       "polygon": null
     }
   },
   {
     "city": "基隆市",
-    "title": "申請中道路挖掘 R115100020",
-    "distriction": "暖暖區",
-    "address": "自 源遠路２９之２號 至 源遠路２９之２號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
+    "title": "申請中開孔 WH11510016  ",
+    "distriction": "安樂區",
+    "address": "安樂路二段",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
     "workingState": "否",
     "date": {
       "start": {
         "year": 2026,
-        "month": 11,
-        "day": 8
+        "month": 10,
+        "day": 1
       },
       "end": {
         "year": 2026,
-        "month": 11,
-        "day": 8
+        "month": 10,
+        "day": 1
       }
     },
-    "applicationNumber": "R115100020",
-    "licenseNumber": "R115100020-02",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "applicationNumber": "WH11510016  ",
+    "licenseNumber": "WH11510016-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
     "contractor": {
-      "name": "永旺企業社",
+      "name": "宏冠創新科技股份有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
@@ -105,8 +68,193 @@
       "phone": "N/A"
     },
     "coordinate": {
-      "lat": 25.10707370929568,
-      "lng": 121.7338363207974,
+      "lat": 25.121495630777847,
+      "lng": 121.72405588854497,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510016  ",
+    "distriction": "安樂區",
+    "address": "安樂路二段",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510016  ",
+    "licenseNumber": "WH11510016-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12169445600954,
+      "lng": 121.72449673418014,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510016  ",
+    "distriction": "安樂區",
+    "address": "安樂路二段",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510016  ",
+    "licenseNumber": "WH11510016-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.121033459749196,
+      "lng": 121.72369627668499,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11510017  ",
+    "distriction": "暖暖區",
+    "address": "八堵路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 10,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11510017  ",
+    "licenseNumber": "WH11510017-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.110813345775064,
+      "lng": 121.73474001535612,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11511004  ",
+    "distriction": "安樂區",
+    "address": "安一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 9
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 9
+      }
+    },
+    "applicationNumber": "WH11511004  ",
+    "licenseNumber": "WH11511004-01",
+    "applicant": "中華電信股份有限公司基隆營運處",
+    "contractor": {
+      "name": "宏冠創新科技股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.131944185829234,
+      "lng": 121.73406242596455,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "申請中開孔 WH11511005  ",
+    "distriction": "七堵區",
+    "address": "光明路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 9
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 9
+      }
+    },
+    "applicationNumber": "WH11511005  ",
+    "licenseNumber": "WH11511005-01",
+    "applicant": "台灣固網股份有限公司",
+    "contractor": {
+      "name": "安聯通電訊股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.099795245249766,
+      "lng": 121.718542276717,
       "polygon": null
     }
   },
