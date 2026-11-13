@@ -1,272 +1,58 @@
 [
   {
     "city": "新北市",
-    "title": "三重區福民里集成路3至5號前道路側溝漏氣搶修工程",
-    "distriction": "三重區",
-    "address": "三重區福民里村里集成路3號",
+    "title": "祝旺開發(中正東路二段5巷31號旁)瓦斯管線埋設工程",
+    "distriction": "淡水區",
+    "address": "淡水區八勢里村里紅樹林路",
     "pipeType": "道路施工",
-    "constructionType": "搶修案件",
+    "constructionType": "申挖案件-新建房屋",
     "workingState": "是",
     "date": {
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 13
+        "day": 9
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 15
+        "day": 13
       }
     },
-    "applicationNumber": "E11502301",
-    "licenseNumber": "N/A",
-    "applicant": "新海瓦斯股份有限公司",
+    "applicationNumber": "351822",
+    "licenseNumber": "新北淡工字第1153576366號",
+    "applicant": "欣芝實業股份有限公司",
     "contractor": {
-      "name": "金華泰瓦斯工程有限公司",
+      "name": "友祥工程有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
-      "name": "鄭俊明",
-      "phone": "0952980853"
+      "name": "吳文傑",
+      "phone": "0933101492"
     },
     "coordinate": {
-      "lat": 25.051728835427358,
-      "lng": 121.48844213898631,
+      "lat": 25.15874881128852,
+      "lng": 121.46025398008753,
       "polygon": [
         {
-          "lat": 25.051810419494885,
-          "lng": 121.48843072520197
+          "lat": 25.15874091548672,
+          "lng": 121.46024918401064
         },
         {
-          "lat": 25.05176941243529,
-          "lng": 121.4885354685214
+          "lat": 25.158747044329886,
+          "lng": 121.46024375130835
         },
         {
-          "lat": 25.051639567584537,
-          "lng": 121.48844566757256
+          "lat": 25.158756682951143,
+          "lng": 121.46025933125956
         },
         {
-          "lat": 25.051698846656294,
-          "lng": 121.48835215627953
+          "lat": 25.15875080904677,
+          "lng": 121.46026407055633
         },
         {
-          "lat": 25.051810419494885,
-          "lng": 121.48843072520197
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "中華電信孔蓋周邊修復工程1556687",
-    "distriction": "樹林區",
-    "address": "樹林區彭福里村里和平街6巷",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 15
-      }
-    },
-    "applicationNumber": "A11513837",
-    "licenseNumber": "N/A",
-    "applicant": "中華電信股份有限公司新北營運處第一客戶網路中心",
-    "contractor": {
-      "name": "良銓營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "謝世郎",
-      "phone": "0933217589"
-    },
-    "coordinate": {
-      "lat": 24.98086000357533,
-      "lng": 121.42111966773997,
-      "polygon": [
-        {
-          "lat": 24.98086000357533,
-          "lng": 121.42111966773997
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "萬大線CQ860區段標工程",
-    "distriction": "中和區",
-    "address": "中和區信和里村里連城路306號",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      }
-    },
-    "applicationNumber": "A11513774",
-    "licenseNumber": "N/A",
-    "applicant": "臺北市政府捷運工程局第一區工程處土木第五工務所",
-    "contractor": {
-      "name": "皇昌營造",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "倪偉智",
-      "phone": "0987058667"
-    },
-    "coordinate": {
-      "lat": 24.996535769657612,
-      "lng": 121.4836913903577,
-      "polygon": [
-        {
-          "lat": 24.996535769657612,
-          "lng": 121.4836913903577
-        },
-        {
-          "lat": 24.996157809640806,
-          "lng": 121.48365106813901
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "人手孔加固",
-    "distriction": "新莊區",
-    "address": "新莊區民安里村里民安西路113-1號",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 15
-      }
-    },
-    "applicationNumber": "A11513755",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司台北西區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "蘇國維",
-      "phone": "0933234029"
-    },
-    "coordinate": {
-      "lat": 25.018244911175135,
-      "lng": 121.42667984714548,
-      "polygon": [
-        {
-          "lat": 25.018244911175135,
-          "lng": 121.42667984714548
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "中華電信孔蓋周邊修復工程",
-    "distriction": "新莊區",
-    "address": "新莊區立廷里村里中平路200號",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 15
-      }
-    },
-    "applicationNumber": "A11513749",
-    "licenseNumber": "N/A",
-    "applicant": "中華電信股份有限公司新北營運處第三客戶網路中心",
-    "contractor": {
-      "name": "士緯營造有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "楊仁漢",
-      "phone": "0900639709"
-    },
-    "coordinate": {
-      "lat": 25.048664215673018,
-      "lng": 121.44487233168275,
-      "polygon": [
-        {
-          "lat": 25.048664215673018,
-          "lng": 121.44487233168275
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "國盛電氣工程有限公司",
-    "distriction": "新店區",
-    "address": "新店區寶興里村里文化路128號",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 13
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 15
-      }
-    },
-    "applicationNumber": "A11513379",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司台北南區營業處",
-    "contractor": {
-      "name": "國盛電氣工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "胡淳雅",
-      "phone": "0921807938"
-    },
-    "coordinate": {
-      "lat": 24.98287656082072,
-      "lng": 121.54548746720965,
-      "polygon": [
-        {
-          "lat": 24.98287656082072,
-          "lng": 121.54548746720965
+          "lat": 25.15874091548672,
+          "lng": 121.46024918401064
         }
       ]
     }
