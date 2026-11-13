@@ -196,12 +196,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511004  ",
@@ -233,12 +233,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -270,12 +270,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -307,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -344,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -381,12 +381,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -418,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -455,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511009  ",
@@ -492,12 +492,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511009  ",
@@ -529,12 +529,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511009  ",
@@ -566,12 +566,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 12
+        "day": 13
       }
     },
     "applicationNumber": "WH11511009  ",
@@ -1624,80 +1624,6 @@
     "coordinate": {
       "lat": 25.126157853164276,
       "lng": 121.7855079973319,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115110010",
-    "distriction": "安樂區",
-    "address": "自 安樂路二段166巷５０號 至 安樂路二段166巷５０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 12
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 12
-      }
-    },
-    "applicationNumber": "R115110010",
-    "licenseNumber": "R115110010-01",
-    "applicant": "欣隆天然氣股份有限公司",
-    "contractor": {
-      "name": "隆明企業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.122177145219702,
-      "lng": 121.72272089880752,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "已完工道路挖掘 R115110012",
-    "distriction": "仁愛區",
-    "address": "自 龍安街２１０號 至 龍安街２１０號",
-    "pipeType": "道路挖掘",
-    "constructionType": "搶修案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 12
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 12
-      }
-    },
-    "applicationNumber": "R115110012",
-    "licenseNumber": "R115110012-01",
-    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
-    "contractor": {
-      "name": "東傑工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.12266141001687,
-      "lng": 121.74192431435273,
       "polygon": null
     }
   }
