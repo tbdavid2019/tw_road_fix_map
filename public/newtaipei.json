@@ -1,9 +1,9 @@
 [
   {
     "city": "新北市",
-    "title": "NMCX16571X基隆客網115年度維護工程",
-    "distriction": "瑞芳區",
-    "address": "瑞芳區傑魚里村里傑魚坑路55號",
+    "title": "鶯歌所分區計量管網委外建置封閉及漏水調查(三)(單價採購)",
+    "distriction": "鶯歌區",
+    "address": "鶯歌區南靖里村里三鶯路15號",
     "pipeType": "道路施工",
     "constructionType": "孔蓋案件",
     "workingState": "是",
@@ -11,74 +11,36 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 20
+        "day": 7
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 24
       }
     },
-    "applicationNumber": "A11514165",
+    "applicationNumber": "A11513468",
     "licenseNumber": "N/A",
-    "applicant": "中華電信股份有限公司基隆營運處",
+    "applicant": "台灣自來水公司第十二區管理處鶯歌服務所",
     "contractor": {
-      "name": "順生科技有限公司",
+      "name": "勤匯通科技企業有限公司",
       "phone": "N/A"
     },
     "personInCharge": {
-      "name": "吳金龍",
-      "phone": "0930755119"
+      "name": "蘇政賢",
+      "phone": "0919343929"
     },
     "coordinate": {
-      "lat": 25.110395373971944,
-      "lng": 121.79324118346702,
+      "lat": 24.94131375979479,
+      "lng": 121.35636058950651,
       "polygon": [
         {
-          "lat": 25.110395373971944,
-          "lng": 121.79324118346702
-        }
-      ]
-    }
-  },
-  {
-    "city": "新北市",
-    "title": "人手孔加固",
-    "distriction": "五股區",
-    "address": "五股區成功里村里成泰路三段544-1號",
-    "pipeType": "道路施工",
-    "constructionType": "孔蓋案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 18
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 20
-      }
-    },
-    "applicationNumber": "A11513950",
-    "licenseNumber": "N/A",
-    "applicant": "台灣電力股份有限公司台北西區營業處",
-    "contractor": {
-      "name": "統鑫開發實業股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "蘇國維",
-      "phone": "0933234029"
-    },
-    "coordinate": {
-      "lat": 25.10169222734606,
-      "lng": 121.45191962823037,
-      "polygon": [
+          "lat": 24.94131375979479,
+          "lng": 121.35636058950651
+        },
         {
-          "lat": 25.10169222734606,
-          "lng": 121.45191962823037
+          "lat": 24.941326467609006,
+          "lng": 121.35636229950933
         }
       ]
     }
