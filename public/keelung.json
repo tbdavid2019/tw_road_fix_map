@@ -159,12 +159,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -196,12 +196,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -233,12 +233,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -270,12 +270,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -307,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -344,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -381,12 +381,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -418,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -455,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 22
+        "day": 23
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -588,302 +588,6 @@
     "coordinate": {
       "lat": 25.133610007933886,
       "lng": 121.77731665077903,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115020723",
-    "distriction": "中正區",
-    "address": "自 義一路２２號 至 愛三路１９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115020723",
-    "licenseNumber": "M115020723-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.132023097367558,
-      "lng": 121.73921241744469,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115020723",
-    "distriction": "中正區",
-    "address": "自 義一路２２號 至 愛三路１９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115020723",
-    "licenseNumber": "M115020723-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130676149417454,
-      "lng": 121.74432395318985,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115020723",
-    "distriction": "中正區",
-    "address": "自 義一路２２號 至 愛三路１９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115020723",
-    "licenseNumber": "M115020723-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.127543584030626,
-      "lng": 121.74198602002635,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115020723",
-    "distriction": "中正區",
-    "address": "自 義一路２２號 至 愛三路１９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115020723",
-    "licenseNumber": "M115020723-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.1322381159349,
-      "lng": 121.74529718635208,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115020723",
-    "distriction": "中正區",
-    "address": "自 義一路２２號 至 愛三路１９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 2,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115020723",
-    "licenseNumber": "M115020723-01",
-    "applicant": "基隆市政府工務處養護工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.124267341438728,
-      "lng": 121.790036515085,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115030725",
-    "distriction": "暖暖區",
-    "address": "自 源遠路２５９號 至 源遠路２５９號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115030725",
-    "licenseNumber": "M115030725-01",
-    "applicant": "基隆市政府工務處土木工程科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.098832913988016,
-      "lng": 121.75498171710709,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115030726",
-    "distriction": "中山區",
-    "address": "自 復興路９５號 至 復興路１２１號",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115030726",
-    "licenseNumber": "M115030726-01",
-    "applicant": "基隆市政府工務處公有建築科",
-    "contractor": {
-      "name": "東興盛工程有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.144991441846653,
-      "lng": 121.72628881682388,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
-    "title": "申請中道路維護 M115030750",
-    "distriction": "中山區",
-    "address": "自 復興路 至 復興路",
-    "pipeType": "道路維護",
-    "constructionType": "維養案件",
-    "workingState": "否",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      },
-      "end": {
-        "year": 2026,
-        "month": 3,
-        "day": 7
-      }
-    },
-    "applicationNumber": "M115030750",
-    "licenseNumber": "M115030750-01",
-    "applicant": "基隆市政府工務處下水道科",
-    "contractor": {
-      "name": "鴻錫營造股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.14349883662501,
-      "lng": 121.72601824814178,
       "polygon": null
     }
   }
