@@ -159,12 +159,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -196,12 +196,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -233,12 +233,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -270,12 +270,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -307,12 +307,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -344,12 +344,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511006  ",
@@ -381,12 +381,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -418,12 +418,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -455,12 +455,12 @@
       "start": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       },
       "end": {
         "year": 2026,
         "month": 11,
-        "day": 24
+        "day": 25
       }
     },
     "applicationNumber": "WH11511008  ",
@@ -852,43 +852,6 @@
   },
   {
     "city": "基隆市",
-    "title": "施工中開孔 WH11511013",
-    "distriction": "中山區",
-    "address": "中山一路",
-    "pipeType": "開孔",
-    "constructionType": "開孔案件",
-    "workingState": "是",
-    "date": {
-      "start": {
-        "year": 2026,
-        "month": 11,
-        "day": 1
-      },
-      "end": {
-        "year": 2026,
-        "month": 11,
-        "day": 1
-      }
-    },
-    "applicationNumber": "WH11511013",
-    "licenseNumber": "WH11511013-01",
-    "applicant": "台灣電力股份有限公司基隆區營業處",
-    "contractor": {
-      "name": "勤曜電氣工程股份有限公司",
-      "phone": "N/A"
-    },
-    "personInCharge": {
-      "name": "N/A",
-      "phone": "N/A"
-    },
-    "coordinate": {
-      "lat": 25.130415062704945,
-      "lng": 121.73696663878238,
-      "polygon": null
-    }
-  },
-  {
-    "city": "基隆市",
     "title": "已完工開孔 WH11510018",
     "distriction": "安樂區",
     "address": "安樂路一段",
@@ -958,6 +921,80 @@
     "coordinate": {
       "lat": 25.12772260585362,
       "lng": 121.73255513091767,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工開孔 WH11511013",
+    "distriction": "中山區",
+    "address": "中山一路",
+    "pipeType": "開孔",
+    "constructionType": "開孔案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 1
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 1
+      }
+    },
+    "applicationNumber": "WH11511013",
+    "licenseNumber": "WH11511013-01",
+    "applicant": "台灣電力股份有限公司基隆區營業處",
+    "contractor": {
+      "name": "勤曜電氣工程股份有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.130415062704945,
+      "lng": 121.73696663878238,
+      "polygon": null
+    }
+  },
+  {
+    "city": "基隆市",
+    "title": "已完工道路挖掘 R115110035",
+    "distriction": "信義區",
+    "address": "自 中興路６號 至 中興路６號",
+    "pipeType": "道路挖掘",
+    "constructionType": "搶修案件",
+    "workingState": "否",
+    "date": {
+      "start": {
+        "year": 2026,
+        "month": 11,
+        "day": 25
+      },
+      "end": {
+        "year": 2026,
+        "month": 11,
+        "day": 25
+      }
+    },
+    "applicationNumber": "R115110035",
+    "licenseNumber": "R115110035-01",
+    "applicant": "台灣自來水股份有限公司第一區管理處新山給水廠",
+    "contractor": {
+      "name": "東傑工程有限公司",
+      "phone": "N/A"
+    },
+    "personInCharge": {
+      "name": "N/A",
+      "phone": "N/A"
+    },
+    "coordinate": {
+      "lat": 25.12857761922195,
+      "lng": 121.75448442383001,
       "polygon": null
     }
   }
